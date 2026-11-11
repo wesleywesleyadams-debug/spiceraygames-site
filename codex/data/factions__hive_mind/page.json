@@ -15,6 +15,35 @@
       "type": "text"
     },
     {
+      "text": "Bonuses",
+      "type": "heading"
+    },
+    {
+      "slot": "Military",
+      "text": "Warships grow stronger the more of them fight together.",
+      "type": "bonus"
+    },
+    {
+      "slot": "Economy",
+      "text": "Destroyed ships give back part of their cost as energy.",
+      "type": "bonus"
+    },
+    {
+      "slot": "Free tech",
+      "text": "Overkill Awareness, for your allies too.",
+      "type": "bonus"
+    },
+    {
+      "slot": "Quirk",
+      "text": "Mitosis: every ship slowly divides into a copy of itself, paid for in energy.",
+      "type": "bonus"
+    },
+    {
+      "slot": "Quirk",
+      "text": "Start with twice the ships, but ships take longer to build.",
+      "type": "bonus"
+    },
+    {
       "text": "Unique technologies: Hive Mind",
       "type": "heading"
     },
@@ -23,250 +52,84 @@
       "type": "text"
     },
     {
-      "text": "BASIC",
-      "type": "text"
+      "era": "Basic",
+      "line": "Division",
+      "src": "tech_we_multiply.png",
+      "techs": [
+        "We Multiply",
+        "We Are Many",
+        "We Are"
+      ],
+      "text": "Ships divide by Mitosis more often, more with each tier.",
+      "type": "stack"
     },
     {
-      "text": "ADVANCED",
-      "type": "text"
+      "era": "Basic",
+      "line": "Unity",
+      "src": "tech_one_will.png",
+      "techs": [
+        "One Will",
+        "One Purpose",
+        "One Voice"
+      ],
+      "text": "Warships hit harder for every other warship of yours fighting beside them.",
+      "type": "stack"
     },
     {
-      "text": "EXPERIMENTAL",
-      "type": "text"
+      "era": "Basic",
+      "line": "Biomass",
+      "src": "tech_reclaim_the_fallen.png",
+      "techs": [
+        "Reclaim the Fallen",
+        "Consume",
+        "Unmaking"
+      ],
+      "text": "Your destroyed ships give back part of their cost as energy, more with each tier.",
+      "type": "stack"
     },
     {
-      "text": "DIVISION",
-      "type": "text"
+      "era": "Basic",
+      "line": "Regeneration",
+      "src": "tech_quickening.png",
+      "techs": [
+        "Quickening",
+        "Living Hulls",
+        "Flesh Eternal"
+      ],
+      "text": "Ships slowly regrow their hull, faster with each tier.",
+      "type": "stack"
     },
     {
-      "h": 96,
-      "src": "img_02_sprite.png",
-      "type": "sprite",
-      "w": 96
+      "era": "Basic",
+      "line": "Brood Mothers",
+      "src": "tech_hatchlings.png",
+      "techs": [
+        "Hatchlings",
+        "Drones",
+        "Matriarchs"
+      ],
+      "text": "Each Shipyard regularly spawns free warships: corvettes, then destroyers, then cruisers.",
+      "type": "stack"
     },
     {
-      "text": "We Multiply",
-      "type": "text"
+      "era": "Advanced",
+      "line": "Brood Mothers",
+      "src": "tech_worker_broods.png",
+      "techs": [
+        "Drillers"
+      ],
+      "text": "Each Starbase regularly spawns a free mining barge.",
+      "type": "stack"
     },
     {
-      "h": 12,
-      "src": "img_03_icon_spice.png",
-      "type": "sprite",
-      "w": 12
-    },
-    {
-      "h": 96,
-      "src": "img_04_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "We Are Many",
-      "type": "text"
-    },
-    {
-      "h": 0,
-      "src": "img_05_sprite.png",
-      "type": "sprite",
-      "w": 0
-    },
-    {
-      "h": 96,
-      "src": "img_06_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "We Are",
-      "type": "text"
-    },
-    {
-      "text": "Not available yet...",
-      "type": "text"
-    },
-    {
-      "text": "Not available yet...",
-      "type": "text"
-    },
-    {
-      "text": "UNITY",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_07_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "One Will",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_08_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "One Purpose",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_09_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "One Voice",
-      "type": "text"
-    },
-    {
-      "text": "Not available yet...",
-      "type": "text"
-    },
-    {
-      "text": "Not available yet...",
-      "type": "text"
-    },
-    {
-      "text": "BIOMASS",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_10_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Reclaim the Fallen",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_11_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Consume",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_12_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Unmaking",
-      "type": "text"
-    },
-    {
-      "text": "Not available yet...",
-      "type": "text"
-    },
-    {
-      "text": "Not available yet...",
-      "type": "text"
-    },
-    {
-      "text": "REGENERATION",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_13_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Quickening",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_14_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Living Hulls",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_15_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Flesh Eternal",
-      "type": "text"
-    },
-    {
-      "text": "Not available yet...",
-      "type": "text"
-    },
-    {
-      "text": "Not available yet...",
-      "type": "text"
-    },
-    {
-      "text": "BROOD MOTHERS",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_16_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Hatchlings",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_17_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Drones",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_18_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Matriarchs",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_19_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Drillers",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_20_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Inhalers",
-      "type": "text"
+      "era": "Experimental",
+      "line": "Brood Mothers",
+      "src": "tech_gas_broods.png",
+      "techs": [
+        "Inhalers"
+      ],
+      "text": "Each Starbase regularly spawns a free gas skimmer.",
+      "type": "stack"
     }
   ],
   "id": "factions/hive_mind",

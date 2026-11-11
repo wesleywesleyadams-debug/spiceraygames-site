@@ -9,6 +9,11 @@
       "type": "text"
     },
     {
+      "kind": "layers",
+      "src": "art_01_layers.png",
+      "type": "image"
+    },
+    {
       "text": "Damage drains shields, then armor, then hull.",
       "type": "text"
     },
@@ -19,6 +24,11 @@
     {
       "text": "Hull doesn't regenerate either (research or faction bonuses can add that); a Repair Tender heals it, hull first, then armor.",
       "type": "text"
+    },
+    {
+      "kind": "shield_regen",
+      "src": "art_02_shield_regen.png",
+      "type": "image"
     },
     {
       "text": "Spread fire lets unhit ships recover; focused fire keeps their shields down.",

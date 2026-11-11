@@ -13,238 +13,73 @@
       "type": "text"
     },
     {
-      "text": "BASIC",
-      "type": "text"
+      "era": "",
+      "line": "Corvettes",
+      "src": "tech_corvette_mk2.png",
+      "techs": [
+        "Mk II Corvette"
+      ],
+      "text": "",
+      "type": "stack"
     },
     {
-      "text": "ADVANCED",
-      "type": "text"
+      "era": "",
+      "line": "Corvettes",
+      "src": "tech_corvette_mk3.png",
+      "techs": [
+        "Mk III Corvette"
+      ],
+      "text": "",
+      "type": "stack"
     },
     {
-      "text": "EXPERIMENTAL",
-      "type": "text"
+      "era": "",
+      "line": "Corvettes",
+      "src": "tech_corvette_mk4.png",
+      "techs": [
+        "Mk IV Corvette"
+      ],
+      "text": "",
+      "type": "stack"
     },
     {
-      "text": "CORVETTES",
-      "type": "text"
+      "era": "Basic",
+      "line": "Destroyers",
+      "src": "tech_destroyers.png",
+      "techs": [
+        "Destroyers",
+        "Mk II Destroyer",
+        "Mk III Destroyer",
+        "Mk IV Destroyer"
+      ],
+      "text": "Unlocks the Destroyer, then three marks that make every destroyer stronger, faster, longer-ranged and quicker to reload.",
+      "type": "stack"
     },
     {
-      "h": 96,
-      "src": "img_01_sprite.png",
-      "type": "sprite",
-      "w": 96
+      "era": "Basic",
+      "line": "Cruisers",
+      "src": "tech_cruisers.png",
+      "techs": [
+        "Cruisers",
+        "Mk II Cruiser",
+        "Mk III Cruiser",
+        "Mk IV Cruiser"
+      ],
+      "text": "Unlocks the Cruiser, then three marks that make every cruiser stronger, faster, longer-ranged and quicker to reload.",
+      "type": "stack"
     },
     {
-      "text": "Mk II Corvette",
-      "type": "text"
-    },
-    {
-      "h": 12,
-      "src": "img_02_icon_spice.png",
-      "type": "sprite",
-      "w": 12
-    },
-    {
-      "h": 96,
-      "src": "img_03_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Mk III Corvette",
-      "type": "text"
-    },
-    {
-      "h": 0,
-      "src": "img_04_sprite.png",
-      "type": "sprite",
-      "w": 0
-    },
-    {
-      "h": 96,
-      "src": "img_05_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Mk IV Corvette",
-      "type": "text"
-    },
-    {
-      "text": "Not available yet...",
-      "type": "text"
-    },
-    {
-      "text": "Not available yet...",
-      "type": "text"
-    },
-    {
-      "text": "DESTROYERS",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_06_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Destroyers",
-      "type": "text"
-    },
-    {
-      "text": "Unlocks the Destroyer.",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_07_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Mk II Destroyer",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_08_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Mk III Destroyer",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_09_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Mk IV Destroyer",
-      "type": "text"
-    },
-    {
-      "text": "Not available yet...",
-      "type": "text"
-    },
-    {
-      "text": "Not available yet...",
-      "type": "text"
-    },
-    {
-      "text": "CRUISERS",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_10_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Cruisers",
-      "type": "text"
-    },
-    {
-      "text": "Unlocks the Cruiser.",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_11_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Mk II Cruiser",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_12_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Mk III Cruiser",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_13_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Mk IV Cruiser",
-      "type": "text"
-    },
-    {
-      "text": "Not available yet...",
-      "type": "text"
-    },
-    {
-      "text": "Not available yet...",
-      "type": "text"
-    },
-    {
-      "text": "CARRIERS",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_14_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Carriers",
-      "type": "text"
-    },
-    {
-      "text": "Unlocks the Carrier.",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_15_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Mk II Carrier",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_16_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Mk III Carrier",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_17_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Mk IV Carrier",
-      "type": "text"
-    },
-    {
-      "text": "Not available yet...",
-      "type": "text"
-    },
-    {
-      "text": "Not available yet...",
-      "type": "text"
+      "era": "Basic",
+      "line": "Carriers",
+      "src": "tech_carriers.png",
+      "techs": [
+        "Carriers",
+        "Mk II Carrier",
+        "Mk III Carrier",
+        "Mk IV Carrier"
+      ],
+      "text": "Unlocks the Carrier, then three marks that make every carrier stronger, faster, longer-ranged and quicker to reload.",
+      "type": "stack"
     }
   ],
   "id": "research/warships",

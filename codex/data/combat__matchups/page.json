@@ -9,11 +9,24 @@
       "type": "text"
     },
     {
+      "text": "Win rates at equal cost from the latest round robin, plain lasers and every Mod included.",
+      "type": "text"
+    },
+    {
+      "kind": "class_cycle_wide",
+      "src": "art_01_class_cycle_wide.png",
+      "type": "image"
+    },
+    {
+      "text": "Each class deals extra damage to one other class.",
+      "type": "text"
+    },
+    {
       "text": "Every weapon against every weapon",
       "type": "heading"
     },
     {
-      "text": "Codes are listed below the map.",
+      "text": "Each figure is how hard the row side beats the column side at equal cost.",
       "type": "text"
     },
     {

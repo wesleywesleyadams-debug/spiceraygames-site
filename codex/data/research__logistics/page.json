@@ -9,248 +9,119 @@
       "type": "text"
     },
     {
-      "text": "BASIC",
-      "type": "text"
+      "era": "",
+      "line": "Cargo",
+      "src": "tech_deep_drills.png",
+      "techs": [
+        "Cargo Pods"
+      ],
+      "text": "",
+      "type": "stack"
     },
     {
-      "text": "ADVANCED",
-      "type": "text"
+      "era": "",
+      "line": "Cargo",
+      "src": "tech_bulk_holds.png",
+      "techs": [
+        "Bulk Holds"
+      ],
+      "text": "",
+      "type": "stack"
     },
     {
-      "text": "EXPERIMENTAL",
-      "type": "text"
+      "era": "",
+      "line": "Cargo",
+      "src": "tech_logistics_command.png",
+      "techs": [
+        "Logistics Command"
+      ],
+      "text": "",
+      "type": "stack"
     },
     {
-      "text": "CARGO",
-      "type": "text"
+      "era": "Basic",
+      "line": "Harvest",
+      "src": "tech_cutting_lasers.png",
+      "techs": [
+        "Cutting Lasers",
+        "Harmonic Resonators",
+        "Deep Core Drills"
+      ],
+      "text": "Harvesters gather faster, more with each tier.",
+      "type": "stack"
     },
     {
-      "h": 96,
-      "src": "img_01_sprite.png",
-      "type": "sprite",
-      "w": 96
+      "era": "Advanced",
+      "line": "Harvest",
+      "src": "tech_gas_skimming.png",
+      "techs": [
+        "Gas Skimming"
+      ],
+      "text": "Unlocks the Gas Skimmer, which harvests gas giants and nebulae.",
+      "type": "stack"
     },
     {
-      "text": "Cargo Pods",
-      "type": "text"
+      "era": "Advanced",
+      "line": "Speed",
+      "src": "tech_ion_thrusters.png",
+      "techs": [
+        "Ion Thrusters",
+        "Fusion Drives",
+        "Jump Drives"
+      ],
+      "text": "Ships fly faster, more with each tier; the last tier also lowers upkeep.",
+      "type": "stack"
     },
     {
-      "h": 12,
-      "src": "img_02_icon_spice.png",
-      "type": "sprite",
-      "w": 12
+      "era": "Basic",
+      "line": "Hazards",
+      "src": "tech_convoy_protocols.png",
+      "techs": [
+        "Convoy Protocols"
+      ],
+      "text": "Economy and support ships gain shields and armor.",
+      "type": "stack"
     },
     {
-      "h": 96,
-      "src": "img_03_sprite.png",
-      "type": "sprite",
-      "w": 96
+      "era": "Experimental",
+      "line": "Hazards",
+      "src": "tech_spice_navigation.png",
+      "techs": [
+        "Spice Navigation"
+      ],
+      "text": "Ships resist nebula radiation and move faster inside nebulae.",
+      "type": "stack"
     },
     {
-      "text": "Bulk Holds",
-      "type": "text"
+      "era": "Basic",
+      "line": "Maneuvers",
+      "src": "tech_vectored_thrusters.png",
+      "techs": [
+        "Attitude Jets",
+        "Inertial Dampers"
+      ],
+      "text": "Ships and turrets turn faster, then ships accelerate and brake harder.",
+      "type": "stack"
     },
     {
-      "h": 0,
-      "src": "img_04_sprite.png",
-      "type": "sprite",
-      "w": 0
+      "era": "Advanced",
+      "line": "Maneuvers",
+      "src": "tech_omni_thrusters.png",
+      "techs": [
+        "Omni Thrusters"
+      ],
+      "text": "Ships can move sideways and backward, and unlock the Evasive mode.",
+      "type": "stack"
     },
     {
-      "h": 96,
-      "src": "img_05_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Logistics Command",
-      "type": "text"
-    },
-    {
-      "text": "Not available yet...",
-      "type": "text"
-    },
-    {
-      "text": "Not available yet...",
-      "type": "text"
-    },
-    {
-      "text": "HARVEST",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_06_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Cutting Lasers",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_07_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Harmonic Resonators",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_08_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Deep Core Drills",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_09_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Gas Skimming",
-      "type": "text"
-    },
-    {
-      "text": "Unlocks the Gas Skimmer: mines gas giants and nebulae.",
-      "type": "text"
-    },
-    {
-      "text": "Not available yet...",
-      "type": "text"
-    },
-    {
-      "text": "SPEED",
-      "type": "text"
-    },
-    {
-      "text": "Not available yet...",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_10_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Ion Thrusters",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_11_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Fusion Drives",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_12_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Jump Drives",
-      "type": "text"
-    },
-    {
-      "text": "Not available yet...",
-      "type": "text"
-    },
-    {
-      "text": "HAZARDS",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_13_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Convoy Protocols",
-      "type": "text"
-    },
-    {
-      "text": "Economy and support ships gain shields and armor = hull.",
-      "type": "text"
-    },
-    {
-      "text": "Not available yet...",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_14_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Spice Navigation",
-      "type": "text"
-    },
-    {
-      "text": "MANEUVERS",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_15_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Attitude Jets",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_16_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Inertial Dampers",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_17_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Omni Thrusters",
-      "type": "text"
-    },
-    {
-      "text": "Ships move sideways and backward. Unlocks Evasive.",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_18_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Strafing Runs",
-      "type": "text"
-    },
-    {
-      "text": "Unlocks the Swarm engagement mode.",
-      "type": "text"
+      "era": "Experimental",
+      "line": "Maneuvers",
+      "src": "tech_strafing_runs.png",
+      "techs": [
+        "Strafing Runs"
+      ],
+      "text": "Unlocks the Swarm mode: warships make strafing runs through the enemy.",
+      "type": "stack"
     }
   ],
   "id": "research/logistics",

@@ -15,6 +15,35 @@
       "type": "text"
     },
     {
+      "text": "Bonuses",
+      "type": "heading"
+    },
+    {
+      "slot": "Military",
+      "text": "Constructs take less damage.",
+      "type": "bonus"
+    },
+    {
+      "slot": "Economy",
+      "text": "Planetary spice reserves drain more slowly.",
+      "type": "bonus"
+    },
+    {
+      "slot": "Free tech",
+      "text": "Warp Gates research is cheaper and quicker.",
+      "type": "bonus"
+    },
+    {
+      "slot": "Quirk",
+      "text": "Pops grow faster.",
+      "type": "bonus"
+    },
+    {
+      "slot": "Team",
+      "text": "Your ships and allied ships slowly repair near your Starbases and Outposts.",
+      "type": "bonus"
+    },
+    {
       "text": "Unique technologies: Eldar Covenant",
       "type": "heading"
     },
@@ -23,238 +52,64 @@
       "type": "text"
     },
     {
-      "text": "BASIC",
-      "type": "text"
+      "era": "Basic",
+      "line": "Watchfires",
+      "src": "tech_lit_beacons.png",
+      "techs": [
+        "Beacons",
+        "Signal Pyres",
+        "Eternal Flame"
+      ],
+      "text": "Your worlds and constructs see farther, more with each tier.",
+      "type": "stack"
     },
     {
-      "text": "ADVANCED",
-      "type": "text"
+      "era": "Basic",
+      "line": "Sanctuary",
+      "src": "tech_mending_rites.png",
+      "techs": [
+        "Mending Rites",
+        "Hallowed Docks",
+        "Elder's Grace"
+      ],
+      "text": "Starbases and Outposts repair the most damaged ship in their range, faster with each tier.",
+      "type": "stack"
     },
     {
-      "text": "EXPERIMENTAL",
-      "type": "text"
+      "era": "Basic",
+      "line": "Warding",
+      "src": "tech_ward_stones.png",
+      "techs": [
+        "Ward Stones",
+        "Bound Wards",
+        "Unbroken Ward"
+      ],
+      "text": "Shields recharge even under fire near your fortifications; at the top, ships there are immune to EMP.",
+      "type": "stack"
     },
     {
-      "text": "WATCHFIRES",
-      "type": "text"
+      "era": "Basic",
+      "line": "Hallowed Ground",
+      "src": "tech_old_soil.png",
+      "techs": [
+        "Old Soil",
+        "Bitter Earth",
+        "Decay"
+      ],
+      "text": "Enemy ships inside your sensor range slowly decay, and their repairs weaken, more with each tier.",
+      "type": "stack"
     },
     {
-      "h": 96,
-      "src": "img_02_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Beacons",
-      "type": "text"
-    },
-    {
-      "h": 12,
-      "src": "img_03_icon_spice.png",
-      "type": "sprite",
-      "w": 12
-    },
-    {
-      "h": 96,
-      "src": "img_04_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Signal Pyres",
-      "type": "text"
-    },
-    {
-      "h": 0,
-      "src": "img_05_sprite.png",
-      "type": "sprite",
-      "w": 0
-    },
-    {
-      "h": 96,
-      "src": "img_06_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Eternal Flame",
-      "type": "text"
-    },
-    {
-      "text": "Not available yet...",
-      "type": "text"
-    },
-    {
-      "text": "Not available yet...",
-      "type": "text"
-    },
-    {
-      "text": "SANCTUARY",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_07_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Mending Rites",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_08_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Hallowed Docks",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_09_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Elder's Grace",
-      "type": "text"
-    },
-    {
-      "text": "Not available yet...",
-      "type": "text"
-    },
-    {
-      "text": "Not available yet...",
-      "type": "text"
-    },
-    {
-      "text": "WARDING",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_10_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Ward Stones",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_11_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Bound Wards",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_12_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Unbroken Ward",
-      "type": "text"
-    },
-    {
-      "text": "Not available yet...",
-      "type": "text"
-    },
-    {
-      "text": "Not available yet...",
-      "type": "text"
-    },
-    {
-      "text": "HALLOWED GROUND",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_13_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Old Soil",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_14_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Bitter Earth",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_15_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Decay",
-      "type": "text"
-    },
-    {
-      "text": "Not available yet...",
-      "type": "text"
-    },
-    {
-      "text": "Not available yet...",
-      "type": "text"
-    },
-    {
-      "text": "CONSECRATION",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_16_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Anointed Walls",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_17_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Sacred Bounds",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_18_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Holy Bastions",
-      "type": "text"
-    },
-    {
-      "text": "Not available yet...",
-      "type": "text"
-    },
-    {
-      "text": "Not available yet...",
-      "type": "text"
+      "era": "Basic",
+      "line": "Consecration",
+      "src": "tech_anointed_walls.png",
+      "techs": [
+        "Anointed Walls",
+        "Sacred Bounds",
+        "Holy Bastions"
+      ],
+      "text": "Starbases and Outposts reach farther, more with each tier.",
+      "type": "stack"
     }
   ],
   "id": "factions/elder_covenant",

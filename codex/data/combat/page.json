@@ -5,90 +5,46 @@
       "type": "heading"
     },
     {
-      "h": 150,
       "src": "img_01_tab_defense.png",
-      "type": "sprite",
-      "w": 0
-    },
-    {
-      "text": "Defense layers",
-      "type": "text"
-    },
-    {
       "text": "Shields, armor and hull: what each layer stops and how it recovers.",
-      "type": "text"
+      "title": "Defense layers",
+      "type": "card"
     },
     {
-      "h": 150,
       "src": "img_02_ship_cruiser.png",
-      "type": "sprite",
-      "w": 0
-    },
-    {
-      "text": "Classes",
-      "type": "text"
-    },
-    {
       "text": "Corvettes to carriers: what each warship class is for.",
-      "type": "text"
+      "title": "Classes",
+      "type": "card"
     },
     {
-      "text": "Variants",
-      "type": "text"
-    },
-    {
+      "src": "art_03_variants.png",
       "text": "Shipyard specialties and what each hits hardest.",
-      "type": "text"
+      "title": "Variants",
+      "type": "card"
     },
     {
-      "text": "Weapon Mods",
-      "type": "text"
-    },
-    {
+      "src": "art_04_beams.png",
       "text": "What a Mod changes, and when to use each one.",
-      "type": "text"
+      "title": "Weapon Mods",
+      "type": "card"
     },
     {
-      "h": 150,
-      "src": "img_03_tab_weapons.png",
-      "type": "sprite",
-      "w": 0
-    },
-    {
-      "text": "Matchups",
-      "type": "text"
-    },
-    {
+      "src": "img_05_tab_weapons.png",
       "text": "Which ships beat which, from real test fights.",
-      "type": "text"
+      "title": "Matchups",
+      "type": "card"
     },
     {
-      "h": 150,
-      "src": "img_04_ship_tender.png",
-      "type": "sprite",
-      "w": 0
-    },
-    {
-      "text": "Support",
-      "type": "text"
-    },
-    {
+      "src": "img_06_ship_tender.png",
       "text": "Scouts, tenders and sail arrays that help a fight.",
-      "type": "text"
+      "title": "Support",
+      "type": "card"
     },
     {
-      "h": 150,
-      "src": "img_05_tab_tactics.png",
-      "type": "sprite",
-      "w": 0
-    },
-    {
-      "text": "Stance & Modes",
-      "type": "text"
-    },
-    {
+      "src": "img_07_tab_tactics.png",
       "text": "Stances and modes: how your ships choose their fights.",
-      "type": "text"
+      "title": "Stance & Modes",
+      "type": "card"
     }
   ],
   "id": "combat",

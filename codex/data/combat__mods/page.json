@@ -30,6 +30,78 @@
       "type": "heading"
     },
     {
+      "src": "mod_02_mod_gatling_battery.png",
+      "text": "One target at a time, shredded up close.",
+      "title": "Gatling Sentry",
+      "type": "card"
+    },
+    {
+      "src": "mod_03_mod_flak_cannons.png",
+      "text": "Shredding a swarm of corvettes.",
+      "title": "Flak Cannons",
+      "type": "card"
+    },
+    {
+      "src": "mod_04_mod_rail_cannons.png",
+      "text": "One rod punches through everything in its path.",
+      "title": "Rail Gun",
+      "type": "card"
+    },
+    {
+      "src": "mod_05_mod_arc_emitters.png",
+      "text": "Packs of small ships flying close together.",
+      "title": "Arc Emitters",
+      "type": "card"
+    },
+    {
+      "src": "mod_06_mod_tractor_beams.png",
+      "text": "Pinning enemies in place for the fleet.",
+      "title": "Tractor Beams",
+      "type": "card"
+    },
+    {
+      "src": "mod_07_mod_ion_lance.png",
+      "text": "One big target, held under the beam.",
+      "title": "Ion Lance",
+      "type": "card"
+    },
+    {
+      "src": "mod_08_mod_homing_missiles.png",
+      "text": "Fast targets that dodge ordinary shots.",
+      "title": "Homing Missiles",
+      "type": "card"
+    },
+    {
+      "src": "mod_09_mod_missile_barrage.png",
+      "text": "Opening a fight on a group from long range.",
+      "title": "Missile Barrage",
+      "type": "card"
+    },
+    {
+      "src": "mod_10_mod_proton_torpedoes.png",
+      "text": "Corvettes hunting a big ship from range.",
+      "title": "Proton Torpedoes",
+      "type": "card"
+    },
+    {
+      "src": "mod_11_mod_interceptor_drones.png",
+      "text": "Guarding an area against raiders.",
+      "title": "Interceptor Drones",
+      "type": "card"
+    },
+    {
+      "src": "mod_12_mod_seeker_needles.png",
+      "text": "Seeker drones orbit the cruiser, then pierce through enemy after enemy.",
+      "title": "Seeker Drones",
+      "type": "card"
+    },
+    {
+      "src": "mod_13_mod_cluster_bombs.png",
+      "text": "A bombing run over a tight formation.",
+      "title": "Cluster Bombs",
+      "type": "card"
+    },
+    {
       "text": "Cost",
       "type": "heading"
     },
@@ -38,7 +110,7 @@
       "type": "text"
     },
     {
-      "text": "What each Mod costs and does, in numbers: see Research > Mods.",
+      "text": "A Mod sets the weapon's shape; a variant still sets its damage.",
       "type": "text"
     },
     {
@@ -46,16 +118,31 @@
       "type": "heading"
     },
     {
+      "kind": "blasts",
+      "src": "art_14_blasts.png",
+      "type": "image"
+    },
+    {
       "text": "Each blast hits every enemy inside it for full damage: spread out against them. Drawn to scale.",
       "type": "text"
+    },
+    {
+      "kind": "needle",
+      "src": "art_15_needle.png",
+      "type": "image"
     },
     {
       "text": "Seeker Drones orbit until an enemy is near, then pierce through enemy after enemy.",
       "type": "text"
     },
     {
-      "text": "Hit damage scales with Mark and Munitions.",
+      "text": "Seeker drones never target ordnance or debris. Hit damage scales with Mark and Munitions.",
       "type": "text"
+    },
+    {
+      "kind": "beams",
+      "src": "art_16_beams.png",
+      "type": "image"
     },
     {
       "text": "Tractors burn harder up close and pull targets in; an Ion Lance ramps up on one target.",

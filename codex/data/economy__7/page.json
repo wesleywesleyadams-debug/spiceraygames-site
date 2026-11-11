@@ -9,6 +9,11 @@
       "type": "text"
     },
     {
+      "kind": "spice_cover",
+      "src": "art_01_spice_cover.png",
+      "type": "image"
+    },
+    {
       "text": "Spice cover (ON by default, Power Plant fuel included). Switch it with the button beside the spice counter.",
       "type": "text"
     }

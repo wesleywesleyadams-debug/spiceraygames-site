@@ -17,54 +17,28 @@
       "type": "text"
     },
     {
-      "h": 96,
       "src": "img_01_asteroid_0.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Small mineral",
-      "type": "text"
-    },
-    {
       "text": "Common",
-      "type": "text"
+      "title": "Small mineral",
+      "type": "card"
     },
     {
-      "h": 156,
       "src": "img_02_asteroid_big_0.png",
-      "type": "sprite",
-      "w": 156
-    },
-    {
-      "text": "Large mineral",
-      "type": "text"
-    },
-    {
       "text": "Uncommon",
-      "type": "text"
+      "title": "Large mineral",
+      "type": "card"
     },
     {
-      "h": 108,
       "src": "img_03_spice_0.png",
-      "type": "sprite",
-      "w": 108
-    },
-    {
-      "text": "Small spice",
-      "type": "text"
-    },
-    {
       "text": "Rare",
-      "type": "text"
+      "title": "Small spice",
+      "type": "card"
     },
     {
-      "text": "Large spice",
-      "type": "text"
-    },
-    {
+      "src": "img_03_spice_0.png",
       "text": "Very rare",
-      "type": "text"
+      "title": "Large spice",
+      "type": "card"
     }
   ],
   "id": "economy/1",

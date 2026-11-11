@@ -5,96 +5,52 @@
       "type": "heading"
     },
     {
-      "text": "Planets",
-      "type": "text"
-    },
-    {
+      "src": "art_01_world_sizes.png",
       "text": "Bigger worlds hold more pops and get more building lots.",
-      "type": "text"
+      "title": "Planets",
+      "type": "card"
     },
     {
-      "h": 150,
-      "src": "img_01_bld_mine.png",
-      "type": "sprite",
-      "w": 0
-    },
-    {
-      "text": "Mineral crust",
-      "type": "text"
-    },
-    {
+      "src": "img_02_bld_mine.png",
       "text": "Mines dig minerals out of a world's crust; bigger worlds hold more.",
-      "type": "text"
+      "title": "Mineral crust",
+      "type": "card"
     },
     {
-      "h": 150,
-      "src": "img_02_ship_colony.png",
-      "type": "sprite",
-      "w": 0
-    },
-    {
-      "text": "Colonizing",
-      "type": "text"
-    },
-    {
+      "src": "img_03_ship_colony.png",
       "text": "A Colony Ship settles a free, habitable world and is used up doing it.",
-      "type": "text"
+      "title": "Colonizing",
+      "type": "card"
     },
     {
-      "h": 150,
-      "src": "img_03_icon_pop.png",
-      "type": "sprite",
-      "w": 0
+      "src": "img_04_icon_pop.png",
+      "text": "",
+      "title": "Population",
+      "type": "card"
     },
     {
-      "text": "Population",
-      "type": "text"
+      "src": "img_05_bld_shield_generator.png",
+      "text": "",
+      "title": "Buildings",
+      "type": "card"
     },
     {
-      "h": 150,
-      "src": "img_04_bld_shield_generator.png",
-      "type": "sprite",
-      "w": 0
-    },
-    {
-      "text": "Buildings",
-      "type": "text"
-    },
-    {
-      "h": 150,
-      "src": "img_05_icon_food.png",
-      "type": "sprite",
-      "w": 0
-    },
-    {
-      "text": "Food",
-      "type": "text"
-    },
-    {
+      "src": "img_06_icon_food.png",
       "text": "Every pop eats food each minute; Farms worked by pops make it.",
-      "type": "text"
+      "title": "Food",
+      "type": "card"
     },
     {
-      "h": 150,
-      "src": "img_06_bld_battery.png",
-      "type": "sprite",
-      "w": 0
-    },
-    {
-      "text": "World defenses",
-      "type": "text"
-    },
-    {
+      "src": "img_07_bld_battery.png",
       "text": "Shield Generators and Defense Batteries protect a world from siege.",
-      "type": "text"
+      "title": "World defenses",
+      "type": "card"
     },
     {
-      "text": "Siege",
-      "type": "text"
-    },
-    {
+      "src": "art_08_siege.png",
       "text": "Attackers break a world's shield first, then its buildings, then its pops.",
-      "type": "text"
+      "title": "Siege",
+      "type": "card"
     }
   ],
   "id": "worlds",

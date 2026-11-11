@@ -5,6 +5,11 @@
       "type": "heading"
     },
     {
+      "kind": "pop_flow",
+      "src": "art_01_pop_flow.png",
+      "type": "image"
+    },
+    {
       "text": "Pops wait in the City, then work factories; unfed pops go to the Refugee camp.",
       "type": "text"
     },

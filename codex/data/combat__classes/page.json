@@ -11,6 +11,11 @@
     {
       "text": "Each class leans on a different layer: corvettes on hull, destroyers on armor, cruisers and carriers on shields, starbases on armor. That gives specialists a target.",
       "type": "text"
+    },
+    {
+      "kind": "hp_wide",
+      "src": "art_01_hp_wide.png",
+      "type": "image"
     }
   ],
   "id": "combat/classes",

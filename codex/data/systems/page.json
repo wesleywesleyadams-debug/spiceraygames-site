@@ -5,66 +5,33 @@
       "type": "heading"
     },
     {
-      "kind": "f_systems",
       "src": "art_01_f_systems.png",
-      "type": "image"
-    },
-    {
-      "text": "Systems",
-      "type": "text"
-    },
-    {
       "text": "One star system per match, picked in the lobby.",
-      "type": "text"
+      "title": "Systems",
+      "type": "card"
     },
     {
-      "h": 150,
       "src": "img_02_asteroid_big_1.png",
-      "type": "sprite",
-      "w": 0
-    },
-    {
-      "text": "Belts",
-      "type": "text"
-    },
-    {
       "text": "Every player starts with three belts of their own.",
-      "type": "text"
+      "title": "Belts",
+      "type": "card"
     },
     {
-      "h": 150,
       "src": "img_03_star_blue.png",
-      "type": "sprite",
-      "w": 0
-    },
-    {
-      "text": "Every match is different",
-      "type": "text"
-    },
-    {
       "text": "A system keeps its star, signature feature and character, but its seed reshuffles the details.",
-      "type": "text"
-    },
-    {
-      "text": "The star",
-      "type": "text"
+      "title": "Every match is different",
+      "type": "card"
     },
     {
       "text": "Every system has a sun at its centre, ringed by a radiation zone that hurts anything inside.",
-      "type": "text"
+      "title": "The star",
+      "type": "card"
     },
     {
-      "kind": "radiation",
       "src": "art_04_radiation.png",
-      "type": "image"
-    },
-    {
-      "text": "Radiation",
-      "type": "text"
-    },
-    {
       "text": "Radiation around the sun hurts every ship inside it, whoever owns it.",
-      "type": "text"
+      "title": "Radiation",
+      "type": "card"
     }
   ],
   "id": "systems",

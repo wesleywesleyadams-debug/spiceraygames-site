@@ -9,262 +9,156 @@
       "type": "text"
     },
     {
-      "text": "BASIC",
-      "type": "text"
-    },
-    {
-      "text": "ADVANCED",
-      "type": "text"
-    },
-    {
-      "text": "EXPERIMENTAL",
-      "type": "text"
-    },
-    {
-      "text": "EXPANSION",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_01_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Outposts",
-      "type": "text"
-    },
-    {
-      "h": 12,
-      "src": "img_02_icon_spice.png",
-      "type": "sprite",
-      "w": 12
-    },
-    {
+      "era": "Basic",
+      "line": "Expansion",
+      "src": "tech_outposts.png",
+      "techs": [
+        "Outposts"
+      ],
       "text": "Unlocks the Frontier Outpost.",
-      "type": "text"
+      "type": "stack"
     },
     {
-      "h": 96,
-      "src": "img_03_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Field Walls",
-      "type": "text"
-    },
-    {
+      "era": "Advanced",
+      "line": "Expansion",
+      "src": "tech_field_walls.png",
+      "techs": [
+        "Field Walls"
+      ],
       "text": "Unlocks the Field Wall Generator: a shield bubble on its own; linked generators raise walls that stop enemy ships and fire.",
-      "type": "text"
+      "type": "stack"
     },
     {
-      "h": 96,
-      "src": "img_04_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Warp Gates",
-      "type": "text"
-    },
-    {
+      "era": "Experimental",
+      "line": "Expansion",
+      "src": "tech_warp_gates.png",
+      "techs": [
+        "Warp Gates"
+      ],
       "text": "Unlocks the Warp Gate.",
-      "type": "text"
+      "type": "stack"
     },
     {
-      "text": "CONSTRUCTION",
-      "type": "text"
+      "era": "",
+      "line": "Construction",
+      "src": "tech_assembly_drones.png",
+      "techs": [
+        "Assembly Drones"
+      ],
+      "text": "",
+      "type": "stack"
     },
     {
-      "h": 96,
-      "src": "img_05_sprite.png",
-      "type": "sprite",
-      "w": 96
+      "era": "",
+      "line": "Construction",
+      "src": "tech_rapid_assembly.png",
+      "techs": [
+        "Fabrication Overdrive"
+      ],
+      "text": "",
+      "type": "stack"
     },
     {
-      "text": "Assembly Drones",
-      "type": "text"
+      "era": "",
+      "line": "Construction",
+      "src": "tech_orbital_elevators.png",
+      "techs": [
+        "Orbital Elevators"
+      ],
+      "text": "",
+      "type": "stack"
     },
     {
-      "h": 96,
-      "src": "img_06_sprite.png",
-      "type": "sprite",
-      "w": 96
+      "era": "Basic",
+      "line": "Shipyards",
+      "src": "tech_orbital_yards.png",
+      "techs": [
+        "Orbital Yards",
+        "Assembly Lines",
+        "Shipyard Networks"
+      ],
+      "text": "Ships are built faster, more with each tier.",
+      "type": "stack"
     },
     {
-      "text": "Fabrication Overdrive",
-      "type": "text"
+      "era": "Advanced",
+      "line": "Shipyards",
+      "src": "tech_modifications.png",
+      "techs": [
+        "Modifications"
+      ],
+      "text": "Opens the Mods tree: fit researched Mods to warships built at a Shipyard.",
+      "type": "stack"
     },
     {
-      "h": 0,
-      "src": "img_07_sprite.png",
-      "type": "sprite",
-      "w": 0
+      "era": "Experimental",
+      "line": "Shipyards",
+      "src": "tech_variants.png",
+      "techs": [
+        "Variants"
+      ],
+      "text": "Shipyards can build every weapon variant: Pulsar, Breacher, Ravager, Inhibitor and Disruptor.",
+      "type": "stack"
     },
     {
-      "h": 96,
-      "src": "img_08_sprite.png",
-      "type": "sprite",
-      "w": 96
+      "era": "",
+      "line": "Fortification",
+      "src": "tech_garrison_guns.png",
+      "techs": [
+        "Ablative Cladding"
+      ],
+      "text": "",
+      "type": "stack"
     },
     {
-      "text": "Orbital Elevators",
-      "type": "text"
+      "era": "",
+      "line": "Fortification",
+      "src": "tech_reinforced_docks.png",
+      "techs": [
+        "Reinforced Docks"
+      ],
+      "text": "",
+      "type": "stack"
     },
     {
-      "text": "Not available yet...",
-      "type": "text"
+      "era": "",
+      "line": "Fortification",
+      "src": "tech_citadel_protocols.png",
+      "techs": [
+        "Citadel Protocols"
+      ],
+      "text": "",
+      "type": "stack"
     },
     {
-      "text": "Not available yet...",
-      "type": "text"
+      "era": "",
+      "line": "Bastions",
+      "src": "tech_bastion_guns.png",
+      "techs": [
+        "Lumen Batteries"
+      ],
+      "text": "",
+      "type": "stack"
     },
     {
-      "text": "SHIPYARDS",
-      "type": "text"
+      "era": "",
+      "line": "Bastions",
+      "src": "tech_rampart_cannons.png",
+      "techs": [
+        "Photon Condensers"
+      ],
+      "text": "",
+      "type": "stack"
     },
     {
-      "h": 96,
-      "src": "img_09_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Orbital Yards",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_10_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Assembly Lines",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_11_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Shipyard Networks",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_12_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Modifications",
-      "type": "text"
-    },
-    {
-      "text": "Opens the Mods tree.",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_13_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Variants",
-      "type": "text"
-    },
-    {
-      "text": "Shipyards can fabricate every variant.",
-      "type": "text"
-    },
-    {
-      "text": "FORTIFICATION",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_14_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Ablative Cladding",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_15_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Reinforced Docks",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_16_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Citadel Protocols",
-      "type": "text"
-    },
-    {
-      "text": "Not available yet...",
-      "type": "text"
-    },
-    {
-      "text": "Not available yet...",
-      "type": "text"
-    },
-    {
-      "text": "BASTIONS",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_17_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Lumen Batteries",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_18_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Photon Condensers",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_19_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Sunlance Arrays",
-      "type": "text"
-    },
-    {
-      "text": "Not available yet...",
-      "type": "text"
-    },
-    {
-      "text": "Not available yet...",
-      "type": "text"
+      "era": "",
+      "line": "Bastions",
+      "src": "tech_fortress_lances.png",
+      "techs": [
+        "Sunlance Arrays"
+      ],
+      "text": "",
+      "type": "stack"
     }
   ],
   "id": "research/constructs",

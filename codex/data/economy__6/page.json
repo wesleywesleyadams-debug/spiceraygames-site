@@ -9,7 +9,12 @@
       "type": "text"
     },
     {
-      "text": "Upkeep is paid from the energy stockpile. What can't be paid shuts down.",
+      "kind": "blackout",
+      "src": "art_01_blackout.png",
+      "type": "image"
+    },
+    {
+      "text": "Upkeep is paid from the energy stockpile. What can't be paid shuts down. Run out of energy, minerals and spice all at once and you are out (Terminal Blackout).",
       "type": "text"
     },
     {

@@ -9,242 +9,82 @@
       "type": "text"
     },
     {
-      "text": "BASIC",
-      "type": "text"
+      "era": "Advanced",
+      "line": "Damage",
+      "src": "tech_ion_cannons.png",
+      "techs": [
+        "Ion Theory",
+        "Particle Dynamics",
+        "Starfire Batteries"
+      ],
+      "text": "Warship weapons hit harder, more with each tier.",
+      "type": "stack"
     },
     {
-      "text": "ADVANCED",
-      "type": "text"
+      "era": "Advanced",
+      "line": "Fire Rate",
+      "src": "tech_autoloaders.png",
+      "techs": [
+        "Autoloaders",
+        "Heavy Mounts",
+        "Scatter Arrays"
+      ],
+      "text": "Warships fire faster and lost drones return sooner, more with each tier.",
+      "type": "stack"
     },
     {
-      "text": "EXPERIMENTAL",
-      "type": "text"
+      "era": "Experimental",
+      "line": "Penetration",
+      "src": "tech_overcharged_coils.png",
+      "techs": [
+        "Overcharged Coils",
+        "Burst Cyclers",
+        "Rupture Charges"
+      ],
+      "text": "Warship shots partly bypass enemy shields, then armor, and finally tear into hulls.",
+      "type": "stack"
     },
     {
-      "text": "DAMAGE",
-      "type": "text"
+      "era": "Advanced",
+      "line": "Propellants",
+      "src": "tech_hyperkinetic_drivers.png",
+      "techs": [
+        "Hyperkinetic Drivers",
+        "Mass Accelerators",
+        "Antimatter Primers"
+      ],
+      "text": "Shots fly faster and warship weapons reach farther, more with each tier.",
+      "type": "stack"
     },
     {
-      "text": "Not available yet...",
-      "type": "text"
+      "era": "Basic",
+      "line": "Targeting",
+      "src": "tech_overkill_awareness.png",
+      "techs": [
+        "Overkill Awareness"
+      ],
+      "text": "Guns stop wasting fire on enemies your shots in flight will already kill.",
+      "type": "stack"
     },
     {
-      "h": 96,
-      "src": "img_01_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Ion Theory",
-      "type": "text"
-    },
-    {
-      "h": 12,
-      "src": "img_02_icon_spice.png",
-      "type": "sprite",
-      "w": 12
-    },
-    {
-      "h": 96,
-      "src": "img_03_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Particle Dynamics",
-      "type": "text"
-    },
-    {
-      "h": 0,
-      "src": "img_04_sprite.png",
-      "type": "sprite",
-      "w": 0
-    },
-    {
-      "h": 96,
-      "src": "img_05_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Starfire Batteries",
-      "type": "text"
-    },
-    {
-      "text": "Not available yet...",
-      "type": "text"
-    },
-    {
-      "text": "FIRE RATE",
-      "type": "text"
-    },
-    {
-      "text": "Not available yet...",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_06_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Autoloaders",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_07_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Heavy Mounts",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_08_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Scatter Arrays",
-      "type": "text"
-    },
-    {
-      "text": "Not available yet...",
-      "type": "text"
-    },
-    {
-      "text": "PENETRATION",
-      "type": "text"
-    },
-    {
-      "text": "Not available yet...",
-      "type": "text"
-    },
-    {
-      "text": "Not available yet...",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_09_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Overcharged Coils",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_10_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Burst Cyclers",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_11_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Rupture Charges",
-      "type": "text"
-    },
-    {
-      "text": "PROPELLANTS",
-      "type": "text"
-    },
-    {
-      "text": "Not available yet...",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_12_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Hyperkinetic Drivers",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_13_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Mass Accelerators",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_14_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Antimatter Primers",
-      "type": "text"
-    },
-    {
-      "text": "Not available yet...",
-      "type": "text"
-    },
-    {
-      "text": "TARGETING",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_15_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Overkill Awareness",
-      "type": "text"
-    },
-    {
-      "text": "Guns skip enemies your shots in flight will already kill.",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_16_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Seeker Chips",
-      "type": "text"
-    },
-    {
+      "era": "Advanced",
+      "line": "Targeting",
+      "src": "tech_seeker_chips.png",
+      "techs": [
+        "Seeker Chips"
+      ],
       "text": "Unguided shots gently course-correct in flight.",
-      "type": "text"
+      "type": "stack"
     },
     {
-      "h": 96,
-      "src": "img_17_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Threat Analysis",
-      "type": "text"
-    },
-    {
-      "text": "Warship and construct guns pick the most dangerous target.",
-      "type": "text"
+      "era": "Experimental",
+      "line": "Targeting",
+      "src": "tech_threat_analysis.png",
+      "techs": [
+        "Threat Analysis"
+      ],
+      "text": "Guns pick the most dangerous target first.",
+      "type": "stack"
     }
   ],
   "id": "research/weapons",

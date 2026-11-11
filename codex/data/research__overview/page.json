@@ -30,7 +30,7 @@
       "type": "heading"
     },
     {
-      "text": "Each tab is a grid: one row per line of upgrades, and columns Basic, Advanced and Experimental.",
+      "text": "Each tab is a grid: one row per line of upgrades, and columns Basic, Advanced and Experimental. Each cell is a stack of tiers, researched top-down.",
       "type": "text"
     },
     {

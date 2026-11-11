@@ -15,6 +15,35 @@
       "type": "text"
     },
     {
+      "text": "Bonuses",
+      "type": "heading"
+    },
+    {
+      "slot": "Military",
+      "text": "Enemy harvesters you destroy give you their cargo.",
+      "type": "bonus"
+    },
+    {
+      "slot": "Economy",
+      "text": "Lower empire upkeep.",
+      "type": "bonus"
+    },
+    {
+      "slot": "Free tech",
+      "text": "Cargo Pods.",
+      "type": "bonus"
+    },
+    {
+      "slot": "Quirk",
+      "text": "Revolving Credit Line: spend now on credit and pay it back over time.",
+      "type": "bonus"
+    },
+    {
+      "slot": "Team",
+      "text": "Allies build Outposts for less.",
+      "type": "bonus"
+    },
+    {
       "text": "Unique technologies: Trade Federation",
       "type": "heading"
     },
@@ -23,238 +52,118 @@
       "type": "text"
     },
     {
-      "text": "BASIC",
-      "type": "text"
+      "era": "",
+      "line": "Credit",
+      "src": "tech_galactic_credit.png",
+      "techs": [
+        "Galactic Credit"
+      ],
+      "text": "",
+      "type": "stack"
     },
     {
-      "text": "ADVANCED",
-      "type": "text"
+      "era": "",
+      "line": "Credit",
+      "src": "tech_low_interest.png",
+      "techs": [
+        "Preferential Treatment"
+      ],
+      "text": "",
+      "type": "stack"
     },
     {
-      "text": "EXPERIMENTAL",
-      "type": "text"
+      "era": "",
+      "line": "Credit",
+      "src": "tech_debt_forgiveness.png",
+      "techs": [
+        "Debt Forgiveness"
+      ],
+      "text": "One-time elimination of all debt.",
+      "type": "stack"
     },
     {
-      "text": "CREDIT",
-      "type": "text"
+      "era": "Experimental",
+      "line": "Merchants",
+      "src": "tech_trade_charters.png",
+      "techs": [
+        "Government Contracts",
+        "Lobbying",
+        "Total Deregulation"
+      ],
+      "text": "Ships cost less, a lot less by the last tier.",
+      "type": "stack"
     },
     {
-      "h": 96,
-      "src": "img_02_sprite.png",
-      "type": "sprite",
-      "w": 96
+      "era": "",
+      "line": "Contracts",
+      "src": "tech_hired_guns.png",
+      "techs": [
+        "Mercenaries"
+      ],
+      "text": "",
+      "type": "stack"
     },
     {
-      "text": "Galactic Credit",
-      "type": "text"
+      "era": "",
+      "line": "Contracts",
+      "src": "tech_privateers.png",
+      "techs": [
+        "Privateers"
+      ],
+      "text": "",
+      "type": "stack"
     },
     {
-      "h": 12,
-      "src": "img_03_icon_spice.png",
-      "type": "sprite",
-      "w": 12
+      "era": "",
+      "line": "Contracts",
+      "src": "tech_mercenary_fleet.png",
+      "techs": [
+        "Warlords"
+      ],
+      "text": "",
+      "type": "stack"
     },
     {
-      "h": 96,
-      "src": "img_04_sprite.png",
-      "type": "sprite",
-      "w": 96
+      "era": "Experimental",
+      "line": "Markets",
+      "src": "tech_commodity_exchange.png",
+      "techs": [
+        "Futures",
+        "Hedge Funds",
+        "Tech Monopoly"
+      ],
+      "text": "Spice covers more of a food, mineral or energy shortfall with each tier.",
+      "type": "stack"
     },
     {
-      "text": "Preferential Treatment",
-      "type": "text"
+      "era": "",
+      "line": "Contraband",
+      "src": "tech_black_markets.png",
+      "techs": [
+        "Black Markets"
+      ],
+      "text": "",
+      "type": "stack"
     },
     {
-      "h": 0,
-      "src": "img_05_sprite.png",
-      "type": "sprite",
-      "w": 0
+      "era": "",
+      "line": "Contraband",
+      "src": "tech_piracy.png",
+      "techs": [
+        "Piracy"
+      ],
+      "text": "",
+      "type": "stack"
     },
     {
-      "h": 96,
-      "src": "img_06_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Debt Forgiveness",
-      "type": "text"
-    },
-    {
-      "text": "Not available yet...",
-      "type": "text"
-    },
-    {
-      "text": "Not available yet...",
-      "type": "text"
-    },
-    {
-      "text": "MERCHANTS",
-      "type": "text"
-    },
-    {
-      "text": "Not available yet...",
-      "type": "text"
-    },
-    {
-      "text": "Not available yet...",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_07_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Government Contracts",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_08_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Lobbying",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_09_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Total Deregulation",
-      "type": "text"
-    },
-    {
-      "text": "CONTRACTS",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_10_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Mercenaries",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_11_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Privateers",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_12_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Warlords",
-      "type": "text"
-    },
-    {
-      "text": "Not available yet...",
-      "type": "text"
-    },
-    {
-      "text": "Not available yet...",
-      "type": "text"
-    },
-    {
-      "text": "MARKETS",
-      "type": "text"
-    },
-    {
-      "text": "Not available yet...",
-      "type": "text"
-    },
-    {
-      "text": "Not available yet...",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_13_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Futures",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_14_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Hedge Funds",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_15_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Tech Monopoly",
-      "type": "text"
-    },
-    {
-      "text": "CONTRABAND",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_16_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Black Markets",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_17_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Piracy",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_18_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Smuggling",
-      "type": "text"
-    },
-    {
-      "text": "Not available yet...",
-      "type": "text"
-    },
-    {
-      "text": "Not available yet...",
-      "type": "text"
+      "era": "",
+      "line": "Contraband",
+      "src": "tech_smuggling.png",
+      "techs": [
+        "Smuggling"
+      ],
+      "text": "",
+      "type": "stack"
     }
   ],
   "id": "factions/trade_federation",

@@ -5,6 +5,11 @@
       "type": "heading"
     },
     {
+      "kind": "blast",
+      "src": "art_01_blast.png",
+      "type": "image"
+    },
+    {
       "text": "A drained gas giant counts down, then explodes.",
       "type": "text"
     },

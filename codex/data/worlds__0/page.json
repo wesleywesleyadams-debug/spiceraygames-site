@@ -9,102 +9,55 @@
       "type": "text"
     },
     {
+      "kind": "world_sizes",
+      "src": "art_01_world_sizes.png",
+      "type": "image"
+    },
+    {
       "text": "Size is a world's pop cap and sets its crust and spice reserve.",
       "type": "text"
     },
     {
-      "h": 170,
-      "src": "img_01_planet_terran_l.png",
-      "type": "sprite",
-      "w": 170
-    },
-    {
-      "text": "Terran",
-      "type": "text"
-    },
-    {
+      "src": "img_02_planet_terran_l.png",
       "text": "The best farmland and almost no spice: a breadbasket for your pops.",
-      "type": "text"
+      "title": "Terran",
+      "type": "card"
     },
     {
-      "h": 170,
-      "src": "img_02_planet_desert_l.png",
-      "type": "sprite",
-      "w": 170
-    },
-    {
-      "text": "Desert",
-      "type": "text"
-    },
-    {
+      "src": "img_03_planet_desert_l.png",
       "text": "Good farmland, thin crust, and the richest spice of any world. Build Spice Extractors here.",
-      "type": "text"
+      "title": "Desert",
+      "type": "card"
     },
     {
-      "h": 170,
-      "src": "img_03_planet_ice_l.png",
-      "type": "sprite",
-      "w": 170
-    },
-    {
-      "text": "Arctic",
-      "type": "text"
-    },
-    {
+      "src": "img_04_planet_ice_l.png",
       "text": "Middling food, a little spice, but the deepest crust and faster Mines: a mining world.",
-      "type": "text"
+      "title": "Arctic",
+      "type": "card"
     },
     {
-      "h": 170,
-      "src": "img_04_planet_lava_l.png",
-      "type": "sprite",
-      "w": 170
-    },
-    {
-      "text": "Molten",
-      "type": "text"
-    },
-    {
+      "src": "img_05_planet_lava_l.png",
       "text": "Barely grows food, but its Power Plants make extra energy: an energy world.",
-      "type": "text"
+      "title": "Molten",
+      "type": "card"
     },
     {
-      "h": 170,
-      "src": "img_05_planet_gas_l.png",
-      "type": "sprite",
-      "w": 170
-    },
-    {
-      "text": "Gas Giant",
-      "type": "text"
-    },
-    {
+      "src": "img_06_planet_gas_l.png",
       "text": "Can't be settled. Gas Skimmers mine its minerals; drained, it explodes.",
-      "type": "text"
+      "title": "Gas Giant",
+      "type": "card"
     },
     {
-      "h": 170,
-      "src": "img_06_planet_moon_l.png",
-      "type": "sprite",
-      "w": 170
-    },
-    {
-      "text": "Barren Moon",
-      "type": "text"
-    },
-    {
+      "src": "img_07_planet_moon_l.png",
       "text": "Little food but plenty of spice. Moons orbit gas giants.",
-      "type": "text"
+      "title": "Barren Moon",
+      "type": "card"
     },
     {
-      "h": 170,
-      "src": "img_07_planet_paradise_l.png",
-      "type": "sprite",
-      "w": 170
-    },
-    {
-      "text": "Paradise",
-      "type": "text"
+      "src": "img_08_planet_paradise_l.png",
+      "text": "",
+      "title": "Paradise",
+      "type": "card"
     }
   ],
   "id": "worlds/0",

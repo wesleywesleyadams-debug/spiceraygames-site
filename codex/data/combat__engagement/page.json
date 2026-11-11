@@ -25,6 +25,10 @@
       "type": "text"
     },
     {
+      "text": "Defensive  As Aggressive.",
+      "type": "text"
+    },
+    {
       "text": "Stand Ground  Holds its spot, turning to fire at anything in range: no closing, kiting or dodging. Move and attack orders still work; it then holds the new spot.",
       "type": "text"
     },
@@ -53,7 +57,7 @@
       "type": "text"
     },
     {
-      "text": "Needs Strafing Runs.",
+      "text": "Swarm  Strafing runs: flies at the target at full speed, firing, then turns back in at speed. Needs Strafing Runs.",
       "type": "text"
     },
     {

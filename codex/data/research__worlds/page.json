@@ -9,442 +9,158 @@
       "type": "text"
     },
     {
-      "text": "BASIC",
-      "type": "text"
-    },
-    {
-      "text": "ADVANCED",
-      "type": "text"
-    },
-    {
-      "text": "EXPERIMENTAL",
-      "type": "text"
-    },
-    {
-      "text": "COLONIES",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_01_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Landing Crews",
-      "type": "text"
-    },
-    {
-      "h": 12,
-      "src": "img_02_icon_spice.png",
-      "type": "sprite",
-      "w": 12
-    },
-    {
-      "h": 96,
-      "src": "img_03_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Orbital Insertion",
-      "type": "text"
-    },
-    {
-      "h": 0,
-      "src": "img_04_sprite.png",
-      "type": "sprite",
-      "w": 0
-    },
-    {
-      "h": 96,
-      "src": "img_05_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Prefab Cities",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_06_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Settler Dream",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_07_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Great Migration",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_08_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Exodus",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_09_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Ark Foundries",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_10_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Cryo Pods",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_11_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Seed Theory",
-      "type": "text"
-    },
-    {
-      "text": "POPS",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_12_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Ergonomics",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_13_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Exosuits",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_14_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Cybernetics",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_15_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Rationing",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_16_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Gene Clinics",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_17_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Gene Forges",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_18_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Habitat Modules",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_19_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Arcologies",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_20_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Deep Vaults",
-      "type": "text"
-    },
-    {
-      "text": "SOIL",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_21_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Hydroponics",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_22_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Aeroponics",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_23_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Regenerative Agriculture",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_24_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Farming Collectives",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_25_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Crop Domes",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_26_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Orbital Farms",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_27_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Terraforming",
-      "type": "text"
-    },
-    {
-      "text": "Your worlds can be terraformed into any other habitable world type except Paradise. Refills all your worlds' crust and spice reserves once.",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_28_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Terra-scaling",
-      "type": "text"
-    },
-    {
-      "text": "Refills all your worlds' crust and spice reserves once.",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_29_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Paradise Worlds",
-      "type": "text"
-    },
-    {
-      "text": "Refills all your worlds' crust and spice reserves once.",
-      "type": "text"
-    },
-    {
-      "text": "INDUSTRY",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_30_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Blast Mining",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_31_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Seismic Charges",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_32_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Plasma Bores",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_33_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Solar Collectors",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_34_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Plasma Reactors",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_35_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Dark Matter Reactors",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_36_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Spice Siphons",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_37_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Vapor Condensers",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_38_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Graviton Pumps",
-      "type": "text"
-    },
-    {
-      "text": "INFRASTRUCTURE",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_39_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Laboratories",
-      "type": "text"
-    },
-    {
-      "text": "Unlocks the Laboratory: pops working there make research tokens that cut research time and cost.",
-      "type": "text"
-    },
-    {
-      "text": "Not available yet...",
-      "type": "text"
-    },
-    {
-      "text": "Not available yet...",
-      "type": "text"
+      "era": "Basic",
+      "line": "Colonies",
+      "src": "tech_landing_crews.png",
+      "techs": [
+        "Landing Crews",
+        "Orbital Insertion",
+        "Prefab Cities"
+      ],
+      "text": "Colonizing takes less time with each tier; the last tier also makes colony ships and Arks cheaper.",
+      "type": "stack"
+    },
+    {
+      "era": "Advanced",
+      "line": "Colonies",
+      "src": "tech_colony_pods.png",
+      "techs": [
+        "Settler Dream",
+        "Great Migration",
+        "Exodus"
+      ],
+      "text": "Colony ships and Arks are built and fly faster with each tier; at the top, pops can board Arks with room.",
+      "type": "stack"
+    },
+    {
+      "era": "Experimental",
+      "line": "Colonies",
+      "src": "tech_ark_foundries.png",
+      "techs": [
+        "Ark Foundries",
+        "Cryo Pods",
+        "Seed Theory"
+      ],
+      "text": "Colony ships become reusable, tougher Arks that carry several pops; later tiers carry more and can reseed your worlds.",
+      "type": "stack"
+    },
+    {
+      "era": "Basic",
+      "line": "Pops",
+      "src": "tech_shift_rotations.png",
+      "techs": [
+        "Ergonomics",
+        "Exosuits",
+        "Cybernetics"
+      ],
+      "text": "Pops work faster, more with each tier.",
+      "type": "stack"
+    },
+    {
+      "era": "Advanced",
+      "line": "Pops",
+      "src": "tech_rationing.png",
+      "techs": [
+        "Rationing",
+        "Gene Clinics",
+        "Gene Forges"
+      ],
+      "text": "Pops grow faster, more with each tier.",
+      "type": "stack"
+    },
+    {
+      "era": "Experimental",
+      "line": "Pops",
+      "src": "tech_habitat_modules.png",
+      "techs": [
+        "Habitat Modules",
+        "Arcologies",
+        "Deep Vaults"
+      ],
+      "text": "Every world gains building lots and room for more pops, more with each tier.",
+      "type": "stack"
+    },
+    {
+      "era": "Basic",
+      "line": "Soil",
+      "src": "tech_hydroponics.png",
+      "techs": [
+        "Hydroponics",
+        "Aeroponics",
+        "Regenerative Agriculture"
+      ],
+      "text": "Farms produce faster, more with each tier.",
+      "type": "stack"
+    },
+    {
+      "era": "Advanced",
+      "line": "Soil",
+      "src": "tech_farming_collectives.png",
+      "techs": [
+        "Farming Collectives",
+        "Crop Domes",
+        "Orbital Farms"
+      ],
+      "text": "Farms are cheaper and quicker to build, more with each tier.",
+      "type": "stack"
+    },
+    {
+      "era": "Experimental",
+      "line": "Soil",
+      "src": "tech_world_shaping.png",
+      "techs": [
+        "Terraforming",
+        "Terra-scaling",
+        "Paradise Worlds"
+      ],
+      "text": "Terraform worlds into other types, then grow them larger, and finally into rich Paradise worlds. Each tier also refills your worlds' reserves once.",
+      "type": "stack"
+    },
+    {
+      "era": "Basic",
+      "line": "Industry",
+      "src": "tech_blast_mining.png",
+      "techs": [
+        "Blast Mining",
+        "Seismic Charges",
+        "Plasma Bores"
+      ],
+      "text": "Mines dig faster, more with each tier.",
+      "type": "stack"
+    },
+    {
+      "era": "Advanced",
+      "line": "Industry",
+      "src": "tech_solar_collectors.png",
+      "techs": [
+        "Solar Collectors",
+        "Plasma Reactors",
+        "Dark Matter Reactors"
+      ],
+      "text": "Power Plants produce faster, more with each tier.",
+      "type": "stack"
+    },
+    {
+      "era": "Experimental",
+      "line": "Industry",
+      "src": "tech_spice_siphons.png",
+      "techs": [
+        "Spice Siphons",
+        "Vapor Condensers",
+        "Graviton Pumps"
+      ],
+      "text": "Spice Extractors produce faster, more with each tier.",
+      "type": "stack"
+    },
+    {
+      "era": "Basic",
+      "line": "Infrastructure",
+      "src": "tech_laboratories.png",
+      "techs": [
+        "Laboratories"
+      ],
+      "text": "Unlocks the Laboratory: pops working there make research tokens that speed up research.",
+      "type": "stack"
     }
   ],
   "id": "research/worlds",

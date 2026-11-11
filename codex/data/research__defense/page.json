@@ -9,232 +9,76 @@
       "type": "text"
     },
     {
-      "text": "The Shields, Armor and Hull lines each add a share of a ship's total base HP to that layer, so small ships gain as much, in proportion, as big ones.",
+      "text": "The Shields, Armor and Hull lines each add a share of a ship's total base HP to that layer, so small ships gain as much, in proportion, as big ones. The Deflectors line cuts each hit first: with all three.",
       "type": "text"
     },
     {
-      "text": "BASIC",
-      "type": "text"
+      "era": "Advanced",
+      "line": "Shields",
+      "src": "tech_phase_shields.png",
+      "techs": [
+        "Phase Shields",
+        "Crystal Prisms",
+        "Aegis Matrix"
+      ],
+      "text": "Every ship gains extra shields, more with each tier.",
+      "type": "stack"
     },
     {
-      "text": "ADVANCED",
-      "type": "text"
+      "era": "Advanced",
+      "line": "Armor",
+      "src": "tech_composite_plating.png",
+      "techs": [
+        "Composite Plating",
+        "Reactive Armor",
+        "Neutronium Armor"
+      ],
+      "text": "Every ship gains extra armor, more with each tier.",
+      "type": "stack"
     },
     {
-      "text": "EXPERIMENTAL",
-      "type": "text"
+      "era": "Advanced",
+      "line": "Hull",
+      "src": "tech_reinforced_frames.png",
+      "techs": [
+        "Reinforced Frames",
+        "Living Metals",
+        "Adaptive Hulls"
+      ],
+      "text": "Every ship gains extra hull, more with each tier.",
+      "type": "stack"
     },
     {
-      "text": "SHIELDS",
-      "type": "text"
+      "era": "Experimental",
+      "line": "Deflectors",
+      "src": "tech_glance_plates.png",
+      "techs": [
+        "Glance Plates",
+        "Graviton Shunts",
+        "Iron Umbrella"
+      ],
+      "text": "Every ship shrugs off part of each hit before its shields see it, more with each tier.",
+      "type": "stack"
     },
     {
-      "text": "Not available yet...",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_01_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Phase Shields",
-      "type": "text"
-    },
-    {
-      "h": 12,
-      "src": "img_02_icon_spice.png",
-      "type": "sprite",
-      "w": 12
-    },
-    {
-      "h": 96,
-      "src": "img_03_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Crystal Prisms",
-      "type": "text"
-    },
-    {
-      "h": 0,
-      "src": "img_04_sprite.png",
-      "type": "sprite",
-      "w": 0
-    },
-    {
-      "h": 96,
-      "src": "img_05_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Aegis Matrix",
-      "type": "text"
-    },
-    {
-      "text": "Not available yet...",
-      "type": "text"
-    },
-    {
-      "text": "ARMOR",
-      "type": "text"
-    },
-    {
-      "text": "Not available yet...",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_06_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Composite Plating",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_07_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Reactive Armor",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_08_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Neutronium Armor",
-      "type": "text"
-    },
-    {
-      "text": "Not available yet...",
-      "type": "text"
-    },
-    {
-      "text": "HULL",
-      "type": "text"
-    },
-    {
-      "text": "Not available yet...",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_09_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Reinforced Frames",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_10_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Living Metals",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_11_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Adaptive Hulls",
-      "type": "text"
-    },
-    {
-      "text": "Not available yet...",
-      "type": "text"
-    },
-    {
-      "text": "DEFLECTORS",
-      "type": "text"
-    },
-    {
-      "text": "Not available yet...",
-      "type": "text"
-    },
-    {
-      "text": "Not available yet...",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_12_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Glance Plates",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_13_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Graviton Shunts",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_14_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Iron Umbrella",
-      "type": "text"
-    },
-    {
-      "text": "ENGAGEMENTS",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_15_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Spare Parts",
-      "type": "text"
-    },
-    {
+      "era": "Basic",
+      "line": "Engagements",
+      "src": "tech_spare_parts.png",
+      "techs": [
+        "Spare Parts"
+      ],
       "text": "Ships whose shields fall shed debris that blocks enemy shots.",
-      "type": "text"
+      "type": "stack"
     },
     {
-      "h": 96,
-      "src": "img_16_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Shield Rotations",
-      "type": "text"
-    },
-    {
-      "text": "Not available yet...",
-      "type": "text"
+      "era": "Advanced",
+      "line": "Engagements",
+      "src": "tech_shield_rotations.png",
+      "techs": [
+        "Shield Rotations"
+      ],
+      "text": "Warships with failing shields pull back to recharge, then return to the fight.",
+      "type": "stack"
     }
   ],
   "id": "research/defense",

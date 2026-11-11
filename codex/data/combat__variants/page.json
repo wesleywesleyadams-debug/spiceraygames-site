@@ -9,6 +9,11 @@
       "type": "text"
     },
     {
+      "kind": "variants",
+      "src": "art_01_variants.png",
+      "type": "image"
+    },
+    {
       "text": "A variant costs its generalist's price plus a fee per gun (Combat > Weapon Mods); its chevrons and shots share its color.",
       "type": "text"
     },
@@ -17,86 +22,49 @@
       "type": "heading"
     },
     {
-      "text": "Generalist",
-      "type": "text"
-    },
-    {
-      "kind": "use_generalist",
-      "src": "art_01_use_generalist.png",
-      "type": "image"
-    },
-    {
+      "src": "art_02_use_generalist.png",
       "text": "No weak matchup: the safe pick when you don't know the enemy. Against starbases any variant does better; Disruptor is best.",
-      "type": "text"
+      "title": "Generalist",
+      "type": "card"
     },
     {
-      "text": "Pulsar",
-      "type": "text"
-    },
-    {
-      "kind": "use_pulsar",
-      "src": "art_02_use_pulsar.png",
-      "type": "image"
-    },
-    {
+      "src": "art_03_use_pulsar.png",
       "text": "Cruiser- and carrier-heavy fleets of uncertain mix: never far worse than a generalist against any warship.",
-      "type": "text"
+      "title": "Pulsar",
+      "type": "card"
     },
     {
-      "text": "Breacher",
-      "type": "text"
-    },
-    {
-      "kind": "use_breacher",
-      "src": "art_03_use_breacher.png",
-      "type": "image"
-    },
-    {
+      "src": "art_04_use_breacher.png",
       "text": "Destroyers: the best pick against them by the layer math.",
-      "type": "text"
+      "title": "Breacher",
+      "type": "card"
     },
     {
-      "text": "Ravager",
-      "type": "text"
-    },
-    {
-      "kind": "use_reaver",
-      "src": "art_04_use_reaver.png",
-      "type": "image"
-    },
-    {
+      "src": "art_05_use_reaver.png",
       "text": "Corvette swarms, and bombarding worlds (it hits population hardest).",
-      "type": "text"
+      "title": "Ravager",
+      "type": "card"
     },
     {
-      "text": "Disruptor",
-      "type": "text"
-    },
-    {
-      "kind": "use_disruptor",
-      "src": "art_05_use_disruptor.png",
-      "type": "image"
-    },
-    {
+      "src": "art_06_use_disruptor.png",
       "text": "Carriers and starbases: the best pick against them. Weak against corvettes, which need more damage than a generalist.",
-      "type": "text"
+      "title": "Disruptor",
+      "type": "card"
     },
     {
-      "text": "Inhibitor",
-      "type": "text"
-    },
-    {
-      "kind": "use_inhibitor",
-      "src": "art_06_use_inhibitor.png",
-      "type": "image"
-    },
-    {
+      "src": "art_07_use_inhibitor.png",
       "text": "Cruisers and carriers (best against cruisers). No gain against corvettes or destroyers.",
-      "type": "text"
+      "title": "Inhibitor",
+      "type": "card"
     },
     {
       "text": "What each one does",
       "type": "heading"
+    },
+    {
+      "kind": "variants_wide",
+      "src": "art_08_variants_wide.png",
+      "type": "image"
     },
     {
       "text": "A variant keeps its class's hull; only its chevrons change color, matching its shots (generalists wear yellow).",

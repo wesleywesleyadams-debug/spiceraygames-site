@@ -9,11 +9,16 @@
       "type": "text"
     },
     {
+      "kind": "farm_feeds",
+      "src": "art_01_farm_feeds.png",
+      "type": "image"
+    },
+    {
       "text": "Food is counted per minute; output scales with fertility. Past this, a world needs another Farm.",
       "type": "text"
     },
     {
-      "text": "If neither food nor spice can feed a pop, it starves (see Population).",
+      "text": "Spice covers a food shortfall, and pops living on it keep growing. If neither food nor spice can feed a pop, it starves (see Population).",
       "type": "text"
     }
   ],

@@ -28,6 +28,18 @@ main h2{color:var(--warm);font-size:1rem;margin:24px 0 6px}
 main p{margin:6px 0;max-width:72ch}
 .fig{background:var(--panel);border:2px solid var(--line);padding:12px;margin:12px 0;display:inline-block;max-width:100%}
 .spr{display:inline-block;vertical-align:middle;margin:4px 8px 4px 0}
+.cards,.stacks,.bonuses{display:grid;gap:12px;margin:12px 0}
+.cards{grid-template-columns:repeat(auto-fill,minmax(200px,1fr))}
+.stacks{grid-template-columns:repeat(auto-fill,minmax(300px,1fr))}
+.bonuses{grid-template-columns:repeat(auto-fill,minmax(220px,1fr))}
+.card{background:var(--panel);border:2px solid var(--line);padding:12px}
+.card img{display:block;margin:0 auto 8px;max-height:128px;width:auto}
+.card h3{margin:0 0 4px;font-size:.95rem;color:var(--warm)}
+.card p{margin:0;font-size:.85rem}
+.stack{display:flex;gap:12px;align-items:flex-start}
+.stack img{margin:0;width:48px;height:48px;flex:none}
+.era{color:var(--dim);font-size:.75rem;text-transform:uppercase;margin-left:6px}
+.tiers{color:var(--accent);font-size:.8rem;margin-bottom:4px}
 .next{margin-top:32px;display:flex;justify-content:space-between;gap:12px;border-top:2px solid var(--line);padding-top:12px}
 footer{border-top:2px solid var(--line);padding:16px;text-align:center;color:var(--dim);font-size:.8rem}
 @media (max-width:760px){
@@ -83,19 +95,29 @@ async function show(){
   const p = pages[i];
   const j = await (await fetch('data/' + p.folder + '/page.json')).json();
   const base = 'data/' + p.folder + '/';
-  let html = '', first = true;
+  let html = '', first = true, grid = null;
+  const GRID = {card: 'cards', stack: 'stacks', bonus: 'bonuses'};
   for (const b of j.blocks) {
-    if (b.type === 'heading') {
+    const g = GRID[b.type] || null;
+    if (grid !== g) { if (grid) html += '</div>'; if (g) html += `<div class="${g}">`; grid = g; }
+    if (b.type === 'card') {
+      html += `<div class="card">${b.src ? `<img src="${base + b.src}" alt="">` : ''}<h3>${esc(b.title)}</h3><p>${esc(b.text || '')}</p></div>`;
+    } else if (b.type === 'stack') {
+      html += `<div class="card stack">${b.src ? `<img src="${base + b.src}" alt="">` : ''}<div><h3>${esc(b.line)} <span class="era">${esc(b.era || '')}</span></h3><div class="tiers">${(b.techs || []).map(esc).join(' &rarr; ')}</div><p>${esc(b.text || '')}</p></div></div>`;
+    } else if (b.type === 'bonus') {
+      html += `<div class="card bonus"><h3>${esc(b.slot)}</h3><p>${esc(b.text)}</p></div>`;
+    } else if (b.type === 'heading') {
       html += first ? `<h1>${esc(b.text)}</h1>` : `<h2>${esc(b.text)}</h2>`;
       first = false;
     } else if (b.type === 'text') {
-      if (!SKIP_TEXT.test(b.text.trim())) html += `<p>${esc(b.text)}</p>`;
+      if (!SKIP_TEXT.test(b.text.trim())) html += b.text.split('\n').filter(s => s.trim()).map(s => `<p>${esc(s)}</p>`).join('');
     } else if (b.type === 'image') {
       html += `<div class="fig"><img src="${base + b.src}" alt=""></div>`;
     } else if (b.type === 'sprite' && b.w > 0 && b.h > 0) {
       html += `<img class="spr" src="${base + b.src}" width="${b.w}" height="${b.h}" alt="">`;
     }
   }
+  if (grid) html += '</div>';
   if (first) html = `<h1>${esc(p.title)}</h1>` + html;
   const prev = pages[i-1], next = pages[i+1];
   html += `<div class="next"><span>${prev ? `<a href="#${prev.id}">&larr; ${esc(prev.title)}</a>` : ''}</span><span>${next ? `<a href="#${next.id}">${esc(next.title)} &rarr;</a>` : ''}</span></div>`;

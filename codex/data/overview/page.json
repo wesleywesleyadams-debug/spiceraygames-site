@@ -6,68 +6,49 @@
       "type": "image"
     },
     {
-      "kind": "f_layers",
       "src": "art_02_f_layers.png",
-      "type": "image"
-    },
-    {
-      "text": "Break through, layer by layer",
-      "type": "text"
-    },
-    {
       "text": "Every hit burns through shields, then armor, then hull, and each weapon is better against a different one.",
-      "type": "text"
+      "title": "Break through, layer by layer",
+      "type": "card"
     },
     {
+      "src": "art_03_f_variants.png",
       "text": "A Shipyard builds warships as specialists that each hunt one kind of target.",
-      "type": "text"
+      "title": "specialist variants",
+      "type": "card"
     },
     {
-      "kind": "f_mods",
-      "src": "art_03_f_mods.png",
-      "type": "image"
-    },
-    {
+      "src": "art_04_f_mods.png",
       "text": "Drones, tractor beams, missile salvos, flak, rail guns: each class can fight its own way.",
-      "type": "text"
+      "title": "weapon Mods",
+      "type": "card"
     },
     {
-      "kind": "f_systems",
-      "src": "art_04_f_systems.png",
-      "type": "image"
-    },
-    {
-      "text": "Living star systems",
-      "type": "text"
-    },
-    {
+      "src": "art_05_f_systems.png",
       "text": "Radiation zones, spice nebulae, ion storms and twin suns shape every battlefield.",
-      "type": "text"
+      "title": "Living star systems",
+      "type": "card"
     },
     {
-      "text": "Worlds worth fighting for",
-      "type": "text"
-    },
-    {
+      "src": "art_06_f_worlds.png",
       "text": "Grow your pops, dig your worlds' crusts dry, and watch a drained gas giant blow.",
-      "type": "text"
+      "title": "Worlds worth fighting for",
+      "type": "card"
     },
     {
-      "kind": "f_ai",
-      "src": "art_05_f_ai.png",
-      "type": "image"
-    },
-    {
-      "text": "An opponent that never cheats",
-      "type": "text"
-    },
-    {
+      "src": "art_07_f_ai.png",
       "text": "Scripted or neural, the AI plays your rules and sees only what its sensors see.",
-      "type": "text"
+      "title": "An opponent that never cheats",
+      "type": "card"
     },
     {
       "text": "The loop",
       "type": "heading"
+    },
+    {
+      "kind": "loop_wide",
+      "src": "art_08_loop_wide.png",
+      "type": "image"
     },
     {
       "text": "Mine, haul, build, attack, take worlds. Your worlds feed and power it all.",
@@ -83,7 +64,7 @@
     },
     {
       "kind": "fog",
-      "src": "art_06_fog.png",
+      "src": "art_09_fog.png",
       "type": "image"
     },
     {
@@ -108,7 +89,7 @@
     },
     {
       "kind": "lose",
-      "src": "art_07_lose.png",
+      "src": "art_10_lose.png",
       "type": "image"
     },
     {

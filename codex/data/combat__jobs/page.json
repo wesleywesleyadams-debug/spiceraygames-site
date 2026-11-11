@@ -21,8 +21,13 @@
       "type": "text"
     },
     {
-      "text": "Radiation Sail: Support ship for Radiation zones. Unarmed.",
+      "text": "Radiation Sail: Support ship for Radiation zones. The shield is a bubble that soaks fire and blocks Radiation for everything inside; touching bubbles merge into a Mega Shield. Disruptor shots pass through, and an Inhibitor hit knocks the bubble offline. Unarmed.",
       "type": "text"
+    },
+    {
+      "kind": "mega_shield",
+      "src": "art_01_mega_shield.png",
+      "type": "image"
     },
     {
       "text": "Radiation Sail Arrays whose bubbles touch share one Mega Shield.",

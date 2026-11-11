@@ -9,7 +9,16 @@
       "type": "text"
     },
     {
+      "kind": "siege",
+      "src": "art_01_siege.png",
+      "type": "image"
+    },
+    {
       "text": "Worlds are taken by bombardment, in this order.",
+      "type": "text"
+    },
+    {
+      "text": "Pops stop growing while hit.",
       "type": "text"
     },
     {

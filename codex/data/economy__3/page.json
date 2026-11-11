@@ -5,6 +5,10 @@
       "type": "heading"
     },
     {
+      "text": "A spice nebula is made of glowing pixels.",
+      "type": "text"
+    },
+    {
       "text": "A skimmer pulls in the pixels nearest it; harvested pixels are gone for good.",
       "type": "text"
     },

@@ -5,45 +5,22 @@
       "type": "heading"
     },
     {
-      "h": 150,
       "src": "img_01_ship_destroyer.png",
-      "type": "sprite",
-      "w": 0
-    },
-    {
-      "text": "Overview",
-      "type": "text"
-    },
-    {
       "text": "Class, mark and variant: the three traits of every warship.",
-      "type": "text"
+      "title": "Overview",
+      "type": "card"
     },
     {
-      "kind": "marks_wide",
       "src": "art_02_marks_wide.png",
-      "type": "image"
-    },
-    {
-      "text": "Marks",
-      "type": "text"
-    },
-    {
       "text": "Mk I to Mk IV, and what each mark adds.",
-      "type": "text"
+      "title": "Marks",
+      "type": "card"
     },
     {
-      "h": 150,
       "src": "img_03_ship_carrier.png",
-      "type": "sprite",
-      "w": 0
-    },
-    {
-      "text": "Every ship",
-      "type": "text"
-    },
-    {
-      "text": "Every ship in the game, with its stats.",
-      "type": "text"
+      "text": "",
+      "title": "Every ship",
+      "type": "card"
     }
   ],
   "id": "ships",

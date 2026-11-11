@@ -21,7 +21,15 @@
       "type": "text"
     },
     {
+      "text": "•  Planet positions and moons: where every world sits.",
+      "type": "text"
+    },
+    {
       "text": "•  Spice nebulae: size, distance, angle, and sometimes how many clouds",
+      "type": "text"
+    },
+    {
+      "text": "•  Debris ring: size, thickness.",
       "type": "text"
     },
     {
@@ -149,7 +157,7 @@
       "type": "text"
     },
     {
-      "text": "- Hazard: none, a debris ring, ion storms or a spice ring, equally likely.\n- Spice nebulae: one of four layouts.",
+      "text": "- Suns: one, two or three, each any type, Red Dwarf to Blue Giant.\n- Hazard: none, a debris ring, ion storms or a spice ring, equally likely.\n- Spice nebulae: one of four layouts.",
       "type": "text"
     },
     {

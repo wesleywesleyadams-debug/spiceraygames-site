@@ -9,6 +9,11 @@
       "type": "text"
     },
     {
+      "kind": "upkeep",
+      "src": "art_01_upkeep.png",
+      "type": "image"
+    },
+    {
       "text": "Every unit raises one empire-wide upkeep factor (on the resource bar); these are free.",
       "type": "text"
     }

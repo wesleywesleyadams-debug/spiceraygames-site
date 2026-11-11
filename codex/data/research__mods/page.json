@@ -13,184 +13,124 @@
       "type": "text"
     },
     {
-      "text": "GUNS",
-      "type": "text"
+      "era": "",
+      "line": "Guns",
+      "src": "tech_mod_gatling_battery.png",
+      "techs": [
+        "Gatling Sentry"
+      ],
+      "text": "",
+      "type": "stack"
     },
     {
-      "h": 96,
-      "src": "img_01_sprite.png",
-      "type": "sprite",
-      "w": 96
+      "era": "",
+      "line": "Guns",
+      "src": "tech_mod_flak_cannons.png",
+      "techs": [
+        "Flak Cannons"
+      ],
+      "text": "Shells burst on impact.",
+      "type": "stack"
     },
     {
-      "text": "Gatling Sentry",
-      "type": "text"
+      "era": "",
+      "line": "Guns",
+      "src": "tech_mod_rail_cannons.png",
+      "techs": [
+        "Rail Gun"
+      ],
+      "text": "",
+      "type": "stack"
     },
     {
-      "h": 12,
-      "src": "img_02_icon_minerals.png",
-      "type": "sprite",
-      "w": 12
+      "era": "",
+      "line": "Beams",
+      "src": "tech_mod_arc_emitters.png",
+      "techs": [
+        "Arc Emitters"
+      ],
+      "text": "Zaps incoming missiles, torpedoes and bombs out of the sky.",
+      "type": "stack"
     },
     {
-      "h": 12,
-      "src": "img_03_icon_spice.png",
-      "type": "sprite",
-      "w": 12
-    },
-    {
-      "h": 0,
-      "src": "img_04_sprite.png",
-      "type": "sprite",
-      "w": 0
-    },
-    {
-      "h": 0,
-      "src": "img_05_sprite.png",
-      "type": "sprite",
-      "w": 0
-    },
-    {
-      "h": 96,
-      "src": "img_06_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Flak Cannons",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_07_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Rail Gun",
-      "type": "text"
-    },
-    {
-      "text": "BEAMS",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_08_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Arc Emitters",
-      "type": "text"
-    },
-    {
-      "text": "Zaps missiles, torpedoes, bombs.",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_09_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Tractor Beams",
-      "type": "text"
-    },
-    {
+      "era": "",
+      "line": "Beams",
+      "src": "tech_mod_tractor_beams.png",
+      "techs": [
+        "Tractor Beams"
+      ],
       "text": "Each turret's beam pulls its target in.",
-      "type": "text"
+      "type": "stack"
     },
     {
-      "h": 96,
-      "src": "img_10_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Ion Lance",
-      "type": "text"
-    },
-    {
+      "era": "",
+      "line": "Beams",
+      "src": "tech_mod_ion_lance.png",
+      "techs": [
+        "Ion Lance"
+      ],
       "text": "Beam ramps up on one target; weak vs swarms.",
-      "type": "text"
+      "type": "stack"
     },
     {
-      "text": "MISSILES & TORPEDOES",
-      "type": "text"
+      "era": "",
+      "line": "Missiles & Torpedoes",
+      "src": "tech_mod_homing_missiles.png",
+      "techs": [
+        "Homing Missiles"
+      ],
+      "text": "",
+      "type": "stack"
     },
     {
-      "h": 96,
-      "src": "img_11_sprite.png",
-      "type": "sprite",
-      "w": 96
+      "era": "",
+      "line": "Missiles & Torpedoes",
+      "src": "tech_mod_missile_barrage.png",
+      "techs": [
+        "Missile Barrage"
+      ],
+      "text": "",
+      "type": "stack"
     },
     {
-      "text": "Homing Missiles",
-      "type": "text"
+      "era": "",
+      "line": "Missiles & Torpedoes",
+      "src": "tech_mod_proton_torpedoes.png",
+      "techs": [
+        "Proton Torpedoes"
+      ],
+      "text": "",
+      "type": "stack"
     },
     {
-      "h": 96,
-      "src": "img_12_sprite.png",
-      "type": "sprite",
-      "w": 96
+      "era": "",
+      "line": "Drones & Bombs",
+      "src": "tech_mod_interceptor_drones.png",
+      "techs": [
+        "Interceptor Drones"
+      ],
+      "text": "",
+      "type": "stack"
     },
     {
-      "text": "Missile Barrage",
-      "type": "text"
+      "era": "",
+      "line": "Drones & Bombs",
+      "src": "tech_mod_seeker_needles.png",
+      "techs": [
+        "Seeker Drones"
+      ],
+      "text": "Seeker drones orbit the ship and pierce through enemy after enemy.",
+      "type": "stack"
     },
     {
-      "h": 96,
-      "src": "img_13_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Proton Torpedoes",
-      "type": "text"
-    },
-    {
-      "text": "DRONES & BOMBS",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_14_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Interceptor Drones",
-      "type": "text"
-    },
-    {
-      "h": 96,
-      "src": "img_15_sprite.png",
-      "type": "sprite",
-      "w": 96
-    },
-    {
-      "text": "Seeker Drones",
-      "type": "text"
-    },
-    {
-      "text": "Seeker drones orbit the ship and pierce enemy after enemy.",
-      "type": "text"
-    },
-    {
-      "h": 72,
-      "src": "img_16_sprite.png",
-      "type": "sprite",
-      "w": 72
-    },
-    {
-      "text": "Cluster Bombs",
-      "type": "text"
-    },
-    {
+      "era": "",
+      "line": "Drones & Bombs",
+      "src": "tech_mod_cluster_bombs.png",
+      "techs": [
+        "Cluster Bombs"
+      ],
       "text": "A spread of unguided bomblets.",
-      "type": "text"
+      "type": "stack"
     }
   ],
   "id": "research/mods",
