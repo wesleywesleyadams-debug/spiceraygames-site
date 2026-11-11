@@ -1,0 +1,38 @@
+{
+  "blocks": [
+    {
+      "text": "Matchups",
+      "type": "heading"
+    },
+    {
+      "text": "Which ships beat which, from real test fights.",
+      "type": "text"
+    },
+    {
+      "text": "Every weapon against every weapon",
+      "type": "heading"
+    },
+    {
+      "text": "Codes are listed below the map.",
+      "type": "text"
+    },
+    {
+      "text": "Read it across: pick a weapon on the left and follow its row.",
+      "type": "text"
+    },
+    {
+      "text": "Green means it beats the weapon at the top of that column, red means it loses; the stronger the colour, the more one-sided.",
+      "type": "text"
+    },
+    {
+      "text": "Hover a square for the full names.",
+      "type": "text"
+    },
+    {
+      "text": "CL = Corvette lasers, Arc = Arc Emitters, Trp = Proton Torpedoes, DL = Destroyer lasers, Flk = Flak Cannons, Clu = Cluster Bombs, Hom = Homing Missiles, RL = Cruiser lasers, Ion = Ion Lance, Rail = Rail Gun, VL = Carrier lasers, Drn = Interceptor Drones, Trc = Tractor Beams, Brg = Missile Barrage.",
+      "type": "text"
+    }
+  ],
+  "id": "combat/matchups",
+  "title": "Matchups"
+}

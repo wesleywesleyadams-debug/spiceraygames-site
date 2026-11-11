@@ -1,0 +1,60 @@
+{
+  "blocks": [
+    {
+      "text": "Pick a faction for each player in the match setup.",
+      "type": "text"
+    },
+    {
+      "text": "Every faction shares the same eight research tabs and adds a ninth of its own, named after it, that no one else can research.",
+      "type": "text"
+    },
+    {
+      "text": "Click a faction to read about it.",
+      "type": "text"
+    },
+    {
+      "h": 150,
+      "src": "img_01_emblem_trade_federation.png",
+      "type": "sprite",
+      "w": 0
+    },
+    {
+      "text": "Trade Federation",
+      "type": "text"
+    },
+    {
+      "text": "Masters of credit: they build now and pay later.",
+      "type": "text"
+    },
+    {
+      "h": 150,
+      "src": "img_02_emblem_hive_mind.png",
+      "type": "sprite",
+      "w": 0
+    },
+    {
+      "text": "Hive Mind",
+      "type": "text"
+    },
+    {
+      "text": "One mind, countless bodies: a swarm that multiplies.",
+      "type": "text"
+    },
+    {
+      "h": 150,
+      "src": "img_03_emblem_elder_covenant.png",
+      "type": "sprite",
+      "w": 0
+    },
+    {
+      "text": "Eldar Covenant",
+      "type": "text"
+    },
+    {
+      "text": "What we hold, we keep: an ancient order that makes its ground a graveyard for intruders.",
+      "type": "text"
+    }
+  ],
+  "id": "factions",
+  "title": "Factions"
+}

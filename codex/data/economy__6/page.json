@@ -1,0 +1,54 @@
+{
+  "blocks": [
+    {
+      "text": "Brownout and Blackout",
+      "type": "heading"
+    },
+    {
+      "text": "Run short of energy and things shut down; run out of everything and you're eliminated.",
+      "type": "text"
+    },
+    {
+      "text": "Upkeep is paid from the energy stockpile. What can't be paid shuts down.",
+      "type": "text"
+    },
+    {
+      "text": "Eliminated: everything you own stays where it is but nobody controls it any more. Your ships stop, and your queues and research end.",
+      "type": "text"
+    },
+    {
+      "text": "Power Plants burn minerals, not energy, so they are not on the list.",
+      "type": "text"
+    },
+    {
+      "text": "Every consumer pays from the energy stockpile each moment.",
+      "type": "text"
+    },
+    {
+      "text": "When there is not enough for all, buildings on worlds are paid first, then ships and constructs, the cheapest first within each; what can't be paid goes offline, so the dearest ships and constructs go first.",
+      "type": "text"
+    },
+    {
+      "text": "Shut down, a thing pays no energy and does nothing.",
+      "type": "text"
+    },
+    {
+      "text": "Ships sit adrift, then pick up their orders again on restart; a carrier's drones keep fighting but its rearm timer pauses.",
+      "type": "text"
+    },
+    {
+      "text": "Constructs can't fire or build. Shields stay but don't regenerate.",
+      "type": "text"
+    },
+    {
+      "text": "A Defense Battery's gun stops.",
+      "type": "text"
+    },
+    {
+      "text": "Recovery: buildings on worlds, Mines included, are the last to lose power, and cheap ships such as harvesters hold on longest among ships and constructs, so keep them bringing in minerals - Power Plants restart as soon as there are minerals to burn, energy builds up, and things restart. Pausing mining or demolishing buildings cuts the drain.",
+      "type": "text"
+    }
+  ],
+  "id": "economy/6",
+  "title": "Brownout and Blackout"
+}

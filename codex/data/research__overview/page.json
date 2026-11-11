@@ -1,0 +1,71 @@
+{
+  "blocks": [
+    {
+      "text": "Research",
+      "type": "heading"
+    },
+    {
+      "text": "How the research grid works: rows, columns, tiers and prices.",
+      "type": "text"
+    },
+    {
+      "kind": "research_flow",
+      "src": "art_01_research_flow.png",
+      "type": "image"
+    },
+    {
+      "text": "Research costs spice (Mods cost some minerals too). One project at a time; a paused one keeps its progress.",
+      "type": "text"
+    },
+    {
+      "text": "The cost is paid gradually while the project runs, not up front. If you run out of spice, progress stalls until you have more.",
+      "type": "text"
+    },
+    {
+      "text": "In single player the match waits while the research screen is open. It opens by itself at the start of a match (on the Logistics tab) and whenever a project finishes with nothing else running (on that tech's tab), so research never sits idle unnoticed.",
+      "type": "text"
+    },
+    {
+      "text": "Columns and tiers",
+      "type": "heading"
+    },
+    {
+      "text": "Each tab is a grid: one row per line of upgrades, and columns Basic, Advanced and Experimental.",
+      "type": "text"
+    },
+    {
+      "text": "Each lower tier only needs the one above it in its stack. Nothing is locked by column.",
+      "type": "text"
+    },
+    {
+      "text": "In tech descriptions, a + or - means the tech adds that much on top of the tier before; \"now\" gives the new total once it's researched.",
+      "type": "text"
+    },
+    {
+      "text": "The columns differ only in cost against power.",
+      "type": "text"
+    },
+    {
+      "text": "Basic techs give the most value for the price and often pay for themselves (the Harvest line).",
+      "type": "text"
+    },
+    {
+      "text": "Experimental techs give the least value for the price but have the most powerful effects. Advanced sits in between.",
+      "type": "text"
+    },
+    {
+      "text": "Mods keep their own rules: see its page.",
+      "type": "text"
+    },
+    {
+      "text": "Bonuses of the same kind add; different kinds multiply.",
+      "type": "text"
+    },
+    {
+      "text": "Each tab's page here shows its tree with a note under every tech: exact numbers, what it touches, how it stacks, and when it is worth the time.",
+      "type": "text"
+    }
+  ],
+  "id": "research/overview",
+  "title": "Overview"
+}

@@ -1,0 +1,18 @@
+{
+  "blocks": [
+    {
+      "text": "Upkeep",
+      "type": "heading"
+    },
+    {
+      "text": "Every ship, construct and working building costs energy each minute.",
+      "type": "text"
+    },
+    {
+      "text": "Every unit raises one empire-wide upkeep factor (on the resource bar); these are free.",
+      "type": "text"
+    }
+  ],
+  "id": "economy/5",
+  "title": "Upkeep"
+}

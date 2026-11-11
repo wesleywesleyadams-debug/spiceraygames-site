@@ -1,0 +1,14 @@
+{
+  "blocks": [
+    {
+      "text": "The star",
+      "type": "heading"
+    },
+    {
+      "text": "Every system has a sun at its centre, ringed by a radiation zone that hurts anything inside.",
+      "type": "text"
+    }
+  ],
+  "id": "systems/3",
+  "title": "The star"
+}

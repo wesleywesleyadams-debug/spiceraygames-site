@@ -1,0 +1,18 @@
+{
+  "blocks": [
+    {
+      "text": "World defenses",
+      "type": "heading"
+    },
+    {
+      "text": "Shield Generators and Defense Batteries protect a world from siege.",
+      "type": "text"
+    },
+    {
+      "text": "Shield Generators and Defense Batteries defend a world.",
+      "type": "text"
+    }
+  ],
+  "id": "worlds/6",
+  "title": "World defenses"
+}

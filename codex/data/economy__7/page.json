@@ -1,0 +1,18 @@
+{
+  "blocks": [
+    {
+      "text": "Spice cover",
+      "type": "heading"
+    },
+    {
+      "text": "Spice pays any food, mineral or energy shortfall, unless you switch it off.",
+      "type": "text"
+    },
+    {
+      "text": "Spice cover (ON by default, Power Plant fuel included). Switch it with the button beside the spice counter.",
+      "type": "text"
+    }
+  ],
+  "id": "economy/7",
+  "title": "Spice cover"
+}

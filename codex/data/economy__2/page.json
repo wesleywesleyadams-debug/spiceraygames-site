@@ -1,0 +1,18 @@
+{
+  "blocks": [
+    {
+      "text": "Gas giants",
+      "type": "heading"
+    },
+    {
+      "text": "A drained gas giant counts down, then explodes.",
+      "type": "text"
+    },
+    {
+      "text": "Pull skimmers out first, or drain one beside the enemy.",
+      "type": "text"
+    }
+  ],
+  "id": "economy/2",
+  "title": "Gas giants"
+}

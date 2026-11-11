@@ -1,0 +1,18 @@
+{
+  "blocks": [
+    {
+      "text": "Mineral crust",
+      "type": "heading"
+    },
+    {
+      "text": "Mines dig minerals out of a world's crust; bigger worlds hold more.",
+      "type": "text"
+    },
+    {
+      "text": "Click the minerals or energy counter to stop or start every Mine or Power Plant.",
+      "type": "text"
+    }
+  ],
+  "id": "worlds/1",
+  "title": "Mineral crust"
+}

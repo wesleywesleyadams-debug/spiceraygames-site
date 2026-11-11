@@ -1,0 +1,66 @@
+{
+  "blocks": [
+    {
+      "text": "Stance",
+      "type": "heading"
+    },
+    {
+      "text": "Stances and modes: how your ships choose their fights.",
+      "type": "text"
+    },
+    {
+      "text": "Each warship also has a Stance (three buttons under Mode): whether, and how far, it chases enemies on its own.",
+      "type": "text"
+    },
+    {
+      "text": "Mode shapes the fight inside that. Your orders always win.",
+      "type": "text"
+    },
+    {
+      "text": "A small square beside the Mode dot marks a non-Aggressive stance.",
+      "type": "text"
+    },
+    {
+      "text": "Aggressive  Chases any enemy near its weapon range while it can see it, then returns. Every new and AI ship uses it; balance is tuned for it.",
+      "type": "text"
+    },
+    {
+      "text": "Stand Ground  Holds its spot, turning to fire at anything in range: no closing, kiting or dodging. Move and attack orders still work; it then holds the new spot.",
+      "type": "text"
+    },
+    {
+      "text": "Attack orders ignore the leash.",
+      "type": "text"
+    },
+    {
+      "text": "Modes",
+      "type": "heading"
+    },
+    {
+      "text": "Where each Mode fights, as a share of weapon range. Swarm runs between two marks; Evasive also dodges.",
+      "type": "text"
+    },
+    {
+      "text": "Each warship has a Mode, set with the buttons in its panel, that shapes how it fights once engaged. Move orders go exactly where sent.",
+      "type": "text"
+    },
+    {
+      "text": "A colored dot under the chevrons marks a non-Standard Mode.",
+      "type": "text"
+    },
+    {
+      "text": "It closes again only once the target leaves its reach. New ships start here.",
+      "type": "text"
+    },
+    {
+      "text": "Needs Strafing Runs.",
+      "type": "text"
+    },
+    {
+      "text": "Jinks against fast rounds. Needs Omni Thrusters.",
+      "type": "text"
+    }
+  ],
+  "id": "combat/engagement",
+  "title": "Stance & Modes"
+}

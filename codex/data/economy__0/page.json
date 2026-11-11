@@ -1,0 +1,109 @@
+{
+  "blocks": [
+    {
+      "text": "Harvesting",
+      "type": "heading"
+    },
+    {
+      "text": "Harvesters fill their holds at rocks, gas giants and nebulae, then haul the load home.",
+      "type": "text"
+    },
+    {
+      "h": 66,
+      "src": "img_01_ship_miner.png",
+      "type": "sprite",
+      "w": 121
+    },
+    {
+      "h": 66,
+      "src": "img_02_ship_miner_team.png",
+      "type": "sprite",
+      "w": 121
+    },
+    {
+      "text": "Mining Barge",
+      "type": "text"
+    },
+    {
+      "h": 104,
+      "src": "img_03_asteroid_big_0.png",
+      "type": "sprite",
+      "w": 121
+    },
+    {
+      "text": "Mineral asteroid",
+      "type": "text"
+    },
+    {
+      "h": 108,
+      "src": "img_04_spice_0.png",
+      "type": "sprite",
+      "w": 121
+    },
+    {
+      "text": "Spice asteroid",
+      "type": "text"
+    },
+    {
+      "h": 86,
+      "src": "img_05_ship_skimmer.png",
+      "type": "sprite",
+      "w": 121
+    },
+    {
+      "h": 86,
+      "src": "img_06_ship_skimmer_team.png",
+      "type": "sprite",
+      "w": 121
+    },
+    {
+      "text": "Gas Skimmer",
+      "type": "text"
+    },
+    {
+      "h": 121,
+      "src": "img_07_planet_gas_s.png",
+      "type": "sprite",
+      "w": 121
+    },
+    {
+      "text": "Gas giant",
+      "type": "text"
+    },
+    {
+      "h": 121,
+      "src": "img_08_sprite.png",
+      "type": "sprite",
+      "w": 121
+    },
+    {
+      "h": 121,
+      "src": "img_09_starbase_team.png",
+      "type": "sprite",
+      "w": 121
+    },
+    {
+      "text": "Starbase",
+      "type": "text"
+    },
+    {
+      "text": "Barges work rock; skimmers work gas giants and spice nebulae. Both haul to a starbase or Mining Station.",
+      "type": "text"
+    },
+    {
+      "kind": "harvest",
+      "src": "art_10_harvest.png",
+      "type": "image"
+    },
+    {
+      "text": "Every harvester runs this loop on its own once given a target.",
+      "type": "text"
+    },
+    {
+      "text": "Convoy Protocols toughens them.",
+      "type": "text"
+    }
+  ],
+  "id": "economy/0",
+  "title": "Harvesting"
+}

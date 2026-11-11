@@ -1,0 +1,18 @@
+{
+  "blocks": [
+    {
+      "text": "Generalists",
+      "type": "heading"
+    },
+    {
+      "text": "Corvettes to carriers: what each warship class is for.",
+      "type": "text"
+    },
+    {
+      "text": "Each class leans on a different layer: corvettes on hull, destroyers on armor, cruisers and carriers on shields, starbases on armor. That gives specialists a target.",
+      "type": "text"
+    }
+  ],
+  "id": "combat/classes",
+  "title": "Classes"
+}

@@ -1,0 +1,120 @@
+{
+  "blocks": [
+    {
+      "text": "Variants",
+      "type": "heading"
+    },
+    {
+      "text": "Shipyard specialties and what each hits hardest.",
+      "type": "text"
+    },
+    {
+      "text": "A variant costs its generalist's price plus a fee per gun (Combat > Weapon Mods); its chevrons and shots share its color.",
+      "type": "text"
+    },
+    {
+      "text": "When to use each variant",
+      "type": "heading"
+    },
+    {
+      "text": "Generalist",
+      "type": "text"
+    },
+    {
+      "kind": "use_generalist",
+      "src": "art_01_use_generalist.png",
+      "type": "image"
+    },
+    {
+      "text": "No weak matchup: the safe pick when you don't know the enemy. Against starbases any variant does better; Disruptor is best.",
+      "type": "text"
+    },
+    {
+      "text": "Pulsar",
+      "type": "text"
+    },
+    {
+      "kind": "use_pulsar",
+      "src": "art_02_use_pulsar.png",
+      "type": "image"
+    },
+    {
+      "text": "Cruiser- and carrier-heavy fleets of uncertain mix: never far worse than a generalist against any warship.",
+      "type": "text"
+    },
+    {
+      "text": "Breacher",
+      "type": "text"
+    },
+    {
+      "kind": "use_breacher",
+      "src": "art_03_use_breacher.png",
+      "type": "image"
+    },
+    {
+      "text": "Destroyers: the best pick against them by the layer math.",
+      "type": "text"
+    },
+    {
+      "text": "Ravager",
+      "type": "text"
+    },
+    {
+      "kind": "use_reaver",
+      "src": "art_04_use_reaver.png",
+      "type": "image"
+    },
+    {
+      "text": "Corvette swarms, and bombarding worlds (it hits population hardest).",
+      "type": "text"
+    },
+    {
+      "text": "Disruptor",
+      "type": "text"
+    },
+    {
+      "kind": "use_disruptor",
+      "src": "art_05_use_disruptor.png",
+      "type": "image"
+    },
+    {
+      "text": "Carriers and starbases: the best pick against them. Weak against corvettes, which need more damage than a generalist.",
+      "type": "text"
+    },
+    {
+      "text": "Inhibitor",
+      "type": "text"
+    },
+    {
+      "kind": "use_inhibitor",
+      "src": "art_06_use_inhibitor.png",
+      "type": "image"
+    },
+    {
+      "text": "Cruisers and carriers (best against cruisers). No gain against corvettes or destroyers.",
+      "type": "text"
+    },
+    {
+      "text": "What each one does",
+      "type": "heading"
+    },
+    {
+      "text": "A variant keeps its class's hull; only its chevrons change color, matching its shots (generalists wear yellow).",
+      "type": "text"
+    },
+    {
+      "text": "Which variant against what",
+      "type": "heading"
+    },
+    {
+      "text": "Layer math, not battle results; Combat > Matchups has measured duels.",
+      "type": "text"
+    },
+    {
+      "text": "A variant is chosen when a Shipyard builds the ship (Variants research) and stacks with its mark (Ships > Marks).",
+      "type": "text"
+    }
+  ],
+  "id": "combat/variants",
+  "title": "Variants"
+}

@@ -1,0 +1,112 @@
+{
+  "blocks": [
+    {
+      "text": "Planets",
+      "type": "heading"
+    },
+    {
+      "text": "Bigger worlds hold more pops and get more building lots.",
+      "type": "text"
+    },
+    {
+      "text": "Size is a world's pop cap and sets its crust and spice reserve.",
+      "type": "text"
+    },
+    {
+      "h": 170,
+      "src": "img_01_planet_terran_l.png",
+      "type": "sprite",
+      "w": 170
+    },
+    {
+      "text": "Terran",
+      "type": "text"
+    },
+    {
+      "text": "The best farmland and almost no spice: a breadbasket for your pops.",
+      "type": "text"
+    },
+    {
+      "h": 170,
+      "src": "img_02_planet_desert_l.png",
+      "type": "sprite",
+      "w": 170
+    },
+    {
+      "text": "Desert",
+      "type": "text"
+    },
+    {
+      "text": "Good farmland, thin crust, and the richest spice of any world. Build Spice Extractors here.",
+      "type": "text"
+    },
+    {
+      "h": 170,
+      "src": "img_03_planet_ice_l.png",
+      "type": "sprite",
+      "w": 170
+    },
+    {
+      "text": "Arctic",
+      "type": "text"
+    },
+    {
+      "text": "Middling food, a little spice, but the deepest crust and faster Mines: a mining world.",
+      "type": "text"
+    },
+    {
+      "h": 170,
+      "src": "img_04_planet_lava_l.png",
+      "type": "sprite",
+      "w": 170
+    },
+    {
+      "text": "Molten",
+      "type": "text"
+    },
+    {
+      "text": "Barely grows food, but its Power Plants make extra energy: an energy world.",
+      "type": "text"
+    },
+    {
+      "h": 170,
+      "src": "img_05_planet_gas_l.png",
+      "type": "sprite",
+      "w": 170
+    },
+    {
+      "text": "Gas Giant",
+      "type": "text"
+    },
+    {
+      "text": "Can't be settled. Gas Skimmers mine its minerals; drained, it explodes.",
+      "type": "text"
+    },
+    {
+      "h": 170,
+      "src": "img_06_planet_moon_l.png",
+      "type": "sprite",
+      "w": 170
+    },
+    {
+      "text": "Barren Moon",
+      "type": "text"
+    },
+    {
+      "text": "Little food but plenty of spice. Moons orbit gas giants.",
+      "type": "text"
+    },
+    {
+      "h": 170,
+      "src": "img_07_planet_paradise_l.png",
+      "type": "sprite",
+      "w": 170
+    },
+    {
+      "text": "Paradise",
+      "type": "text"
+    }
+  ],
+  "id": "worlds/0",
+  "title": "Planets"
+}

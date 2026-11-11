@@ -1,0 +1,18 @@
+{
+  "blocks": [
+    {
+      "text": "Colonizing",
+      "type": "heading"
+    },
+    {
+      "text": "A Colony Ship settles a free, habitable world and is used up doing it.",
+      "type": "text"
+    },
+    {
+      "text": "A Colony Ship settles a free, habitable world and is used up doing it.",
+      "type": "text"
+    }
+  ],
+  "id": "worlds/2",
+  "title": "Colonizing"
+}

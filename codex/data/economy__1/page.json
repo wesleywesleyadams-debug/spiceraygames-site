@@ -1,0 +1,72 @@
+{
+  "blocks": [
+    {
+      "text": "Asteroid sizes",
+      "type": "heading"
+    },
+    {
+      "text": "A small rock holds the same amount whether it is minerals or spice, and so does a large one, on every map.",
+      "type": "text"
+    },
+    {
+      "text": "Spice is rare instead: about one rock in seven. Belts differ in their mix: a rich belt has more big rocks, a poor one mostly small.",
+      "type": "text"
+    },
+    {
+      "text": "Rocks run dry and vanish. Nothing refills.",
+      "type": "text"
+    },
+    {
+      "h": 96,
+      "src": "img_01_asteroid_0.png",
+      "type": "sprite",
+      "w": 96
+    },
+    {
+      "text": "Small mineral",
+      "type": "text"
+    },
+    {
+      "text": "Common",
+      "type": "text"
+    },
+    {
+      "h": 156,
+      "src": "img_02_asteroid_big_0.png",
+      "type": "sprite",
+      "w": 156
+    },
+    {
+      "text": "Large mineral",
+      "type": "text"
+    },
+    {
+      "text": "Uncommon",
+      "type": "text"
+    },
+    {
+      "h": 108,
+      "src": "img_03_spice_0.png",
+      "type": "sprite",
+      "w": 108
+    },
+    {
+      "text": "Small spice",
+      "type": "text"
+    },
+    {
+      "text": "Rare",
+      "type": "text"
+    },
+    {
+      "text": "Large spice",
+      "type": "text"
+    },
+    {
+      "text": "Very rare",
+      "type": "text"
+    }
+  ],
+  "id": "economy/1",
+  "title": "Asteroid sizes"
+}

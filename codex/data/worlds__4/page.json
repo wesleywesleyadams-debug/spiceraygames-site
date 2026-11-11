@@ -1,0 +1,108 @@
+{
+  "blocks": [
+    {
+      "text": "Buildings",
+      "type": "heading"
+    },
+    {
+      "h": 115,
+      "src": "img_01_bld_farm.png",
+      "type": "sprite",
+      "w": 120
+    },
+    {
+      "text": "Farm",
+      "type": "text"
+    },
+    {
+      "text": "Factory and generator: grows food from nothing.",
+      "type": "text"
+    },
+    {
+      "h": 115,
+      "src": "img_02_bld_generator.png",
+      "type": "sprite",
+      "w": 120
+    },
+    {
+      "text": "Power Plant",
+      "type": "text"
+    },
+    {
+      "text": "Factory and generator: makes energy. \nPause power in the world panel.",
+      "type": "text"
+    },
+    {
+      "h": 115,
+      "src": "img_03_bld_mine.png",
+      "type": "sprite",
+      "w": 120
+    },
+    {
+      "text": "Mine",
+      "type": "text"
+    },
+    {
+      "text": "Factory and extractor: digs minerals out of the world's crust. \nPause mining in the world panel.",
+      "type": "text"
+    },
+    {
+      "h": 115,
+      "src": "img_04_bld_shield_generator.png",
+      "type": "sprite",
+      "w": 120
+    },
+    {
+      "text": "Planetary Shield Generator",
+      "type": "text"
+    },
+    {
+      "text": "Pops can't work here.",
+      "type": "text"
+    },
+    {
+      "h": 115,
+      "src": "img_05_bld_spice_extractor.png",
+      "type": "sprite",
+      "w": 120
+    },
+    {
+      "text": "Spice Extractor",
+      "type": "text"
+    },
+    {
+      "text": "Factory and extractor: draws spice from the world's reserve (deepest on Desert, Barren Moon and Paradise worlds, shallowest on Terran and Molten ones). Every spice comes out of the reserve; it stops when that is empty.",
+      "type": "text"
+    },
+    {
+      "h": 115,
+      "src": "img_06_bld_battery.png",
+      "type": "sprite",
+      "w": 120
+    },
+    {
+      "text": "Defense Battery",
+      "type": "text"
+    },
+    {
+      "text": "Pops can't work here.",
+      "type": "text"
+    },
+    {
+      "h": 111,
+      "src": "img_07_bld_laboratory.png",
+      "type": "sprite",
+      "w": 120
+    },
+    {
+      "text": "Laboratory",
+      "type": "text"
+    },
+    {
+      "text": "Factory: makes research tokens. While nothing is researching, tokens pile up in the research menu and are spent as soon as research starts again.",
+      "type": "text"
+    }
+  ],
+  "id": "worlds/4",
+  "title": "Buildings"
+}

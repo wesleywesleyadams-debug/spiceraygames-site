@@ -1,0 +1,138 @@
+{
+  "blocks": [
+    {
+      "text": "Science",
+      "type": "heading"
+    },
+    {
+      "text": "Faster research and other research upgrades.",
+      "type": "text"
+    },
+    {
+      "text": "BASIC",
+      "type": "text"
+    },
+    {
+      "text": "ADVANCED",
+      "type": "text"
+    },
+    {
+      "text": "EXPERIMENTAL",
+      "type": "text"
+    },
+    {
+      "text": "RESEARCH",
+      "type": "text"
+    },
+    {
+      "h": 96,
+      "src": "img_01_sprite.png",
+      "type": "sprite",
+      "w": 96
+    },
+    {
+      "text": "Research Grants",
+      "type": "text"
+    },
+    {
+      "h": 12,
+      "src": "img_02_icon_spice.png",
+      "type": "sprite",
+      "w": 12
+    },
+    {
+      "h": 96,
+      "src": "img_03_sprite.png",
+      "type": "sprite",
+      "w": 96
+    },
+    {
+      "text": "Peer Review",
+      "type": "text"
+    },
+    {
+      "h": 0,
+      "src": "img_04_sprite.png",
+      "type": "sprite",
+      "w": 0
+    },
+    {
+      "h": 96,
+      "src": "img_05_sprite.png",
+      "type": "sprite",
+      "w": 96
+    },
+    {
+      "text": "Open Archives",
+      "type": "text"
+    },
+    {
+      "h": 96,
+      "src": "img_06_sprite.png",
+      "type": "sprite",
+      "w": 96
+    },
+    {
+      "text": "Lab Automation",
+      "type": "text"
+    },
+    {
+      "h": 96,
+      "src": "img_07_sprite.png",
+      "type": "sprite",
+      "w": 96
+    },
+    {
+      "text": "Quantum Computing",
+      "type": "text"
+    },
+    {
+      "h": 96,
+      "src": "img_08_sprite.png",
+      "type": "sprite",
+      "w": 96
+    },
+    {
+      "text": "Thinking Machines",
+      "type": "text"
+    },
+    {
+      "h": 96,
+      "src": "img_09_sprite.png",
+      "type": "sprite",
+      "w": 96
+    },
+    {
+      "text": "Field Studies",
+      "type": "text"
+    },
+    {
+      "h": 0,
+      "src": "img_10_sprite.png",
+      "type": "sprite",
+      "w": 0
+    },
+    {
+      "h": 96,
+      "src": "img_11_sprite.png",
+      "type": "sprite",
+      "w": 96
+    },
+    {
+      "text": "Research Institutes",
+      "type": "text"
+    },
+    {
+      "h": 96,
+      "src": "img_12_sprite.png",
+      "type": "sprite",
+      "w": 96
+    },
+    {
+      "text": "Grand Academies",
+      "type": "text"
+    }
+  ],
+  "id": "research/science",
+  "title": "Science"
+}

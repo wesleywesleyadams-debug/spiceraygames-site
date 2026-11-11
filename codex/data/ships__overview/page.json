@@ -1,0 +1,27 @@
+{
+  "blocks": [
+    {
+      "text": "Class, Mark and Variant",
+      "type": "heading"
+    },
+    {
+      "text": "Class, mark and variant: the three traits of every warship.",
+      "type": "text"
+    },
+    {
+      "text": "Every warship has three traits: its CLASS (the hull, for life), its MARK (how refined, from Warships research) and its VARIANT (its specialty, picked at the Shipyard). A Mk IV Breacher Cruiser is all three.",
+      "type": "text"
+    },
+    {
+      "kind": "cmv_wide",
+      "src": "art_01_cmv_wide.png",
+      "type": "image"
+    },
+    {
+      "text": "A new mark upgrades every ship of that class at once, the ones already built included; class and variant never change once a ship is built.",
+      "type": "text"
+    }
+  ],
+  "id": "ships/overview",
+  "title": "Overview"
+}

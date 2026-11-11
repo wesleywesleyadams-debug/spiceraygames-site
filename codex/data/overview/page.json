@@ -1,0 +1,121 @@
+{
+  "blocks": [
+    {
+      "kind": "hero",
+      "src": "art_01_hero.png",
+      "type": "image"
+    },
+    {
+      "kind": "f_layers",
+      "src": "art_02_f_layers.png",
+      "type": "image"
+    },
+    {
+      "text": "Break through, layer by layer",
+      "type": "text"
+    },
+    {
+      "text": "Every hit burns through shields, then armor, then hull, and each weapon is better against a different one.",
+      "type": "text"
+    },
+    {
+      "text": "A Shipyard builds warships as specialists that each hunt one kind of target.",
+      "type": "text"
+    },
+    {
+      "kind": "f_mods",
+      "src": "art_03_f_mods.png",
+      "type": "image"
+    },
+    {
+      "text": "Drones, tractor beams, missile salvos, flak, rail guns: each class can fight its own way.",
+      "type": "text"
+    },
+    {
+      "kind": "f_systems",
+      "src": "art_04_f_systems.png",
+      "type": "image"
+    },
+    {
+      "text": "Living star systems",
+      "type": "text"
+    },
+    {
+      "text": "Radiation zones, spice nebulae, ion storms and twin suns shape every battlefield.",
+      "type": "text"
+    },
+    {
+      "text": "Worlds worth fighting for",
+      "type": "text"
+    },
+    {
+      "text": "Grow your pops, dig your worlds' crusts dry, and watch a drained gas giant blow.",
+      "type": "text"
+    },
+    {
+      "kind": "f_ai",
+      "src": "art_05_f_ai.png",
+      "type": "image"
+    },
+    {
+      "text": "An opponent that never cheats",
+      "type": "text"
+    },
+    {
+      "text": "Scripted or neural, the AI plays your rules and sees only what its sensors see.",
+      "type": "text"
+    },
+    {
+      "text": "The loop",
+      "type": "heading"
+    },
+    {
+      "text": "Mine, haul, build, attack, take worlds. Your worlds feed and power it all.",
+      "type": "text"
+    },
+    {
+      "text": "Research what your strategy needs, and strike before the enemy outgrows you.",
+      "type": "text"
+    },
+    {
+      "text": "What you can see",
+      "type": "heading"
+    },
+    {
+      "kind": "fog",
+      "src": "art_06_fog.png",
+      "type": "image"
+    },
+    {
+      "text": "Ships inside a spice nebula stay hidden unless an enemy is close; a seen enemy starbase stays on your map.",
+      "type": "text"
+    },
+    {
+      "text": "Resources",
+      "type": "heading"
+    },
+    {
+      "text": "A finite galaxy",
+      "type": "heading"
+    },
+    {
+      "text": "Nothing refills. Rocks, gas giants, worlds' crusts and spice nebulae all run out, so a long match becomes a fight over what is left.",
+      "type": "text"
+    },
+    {
+      "text": "Winning and losing",
+      "type": "heading"
+    },
+    {
+      "kind": "lose",
+      "src": "art_07_lose.png",
+      "type": "image"
+    },
+    {
+      "text": "Destroy every enemy starbase and Constructor, or starve them into a Terminal Blackout. Losing every world does not end the game.",
+      "type": "text"
+    }
+  ],
+  "id": "overview",
+  "title": "Overview"
+}

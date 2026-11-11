@@ -1,0 +1,14 @@
+{
+  "blocks": [
+    {
+      "text": "Opponents",
+      "type": "heading"
+    },
+    {
+      "text": "Play against scripted AI opponents or neural-network opponents, alone or in teams.",
+      "type": "text"
+    }
+  ],
+  "id": "ai",
+  "title": "Opponents"
+}

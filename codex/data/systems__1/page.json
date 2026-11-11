@@ -1,0 +1,23 @@
+{
+  "blocks": [
+    {
+      "text": "Belts",
+      "type": "heading"
+    },
+    {
+      "text": "Every player starts with three belts of their own:",
+      "type": "text"
+    },
+    {
+      "kind": "belts_wide",
+      "src": "art_01_belts_wide.png",
+      "type": "image"
+    },
+    {
+      "text": "Neutral belts lie between the star's Radiation and the map edge: long mineral arcs or tight spice clusters. About one rock in seven is spice (one in three in the Kharon Expanse); richer belts have more big rocks.",
+      "type": "text"
+    }
+  ],
+  "id": "systems/1",
+  "title": "Belts"
+}

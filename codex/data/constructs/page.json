@@ -1,0 +1,33 @@
+{
+  "blocks": [
+    {
+      "text": "Constructs",
+      "type": "heading"
+    },
+    {
+      "h": 150,
+      "src": "img_01_sprite.png",
+      "type": "sprite",
+      "w": 0
+    },
+    {
+      "text": "Constructs",
+      "type": "text"
+    },
+    {
+      "text": "Constructs are stations you build.",
+      "type": "text"
+    },
+    {
+      "kind": "shipyard",
+      "src": "art_02_shipyard.png",
+      "type": "image"
+    },
+    {
+      "text": "Shipyards",
+      "type": "text"
+    }
+  ],
+  "id": "constructs",
+  "title": "Constructs"
+}

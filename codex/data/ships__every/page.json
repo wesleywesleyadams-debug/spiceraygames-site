@@ -1,0 +1,254 @@
+{
+  "blocks": [
+    {
+      "text": "Every ship",
+      "type": "heading"
+    },
+    {
+      "text": "Every ship in the game, with its stats.",
+      "type": "text"
+    },
+    {
+      "text": "Stats as built, before research. Specialist variants share their generalist's hull; they cost a fee per gun more and change only its damage (see Combat > Variants).",
+      "type": "text"
+    },
+    {
+      "h": 132,
+      "src": "img_01_ship_miner.png",
+      "type": "sprite",
+      "w": 200
+    },
+    {
+      "h": 132,
+      "src": "img_02_ship_miner_team.png",
+      "type": "sprite",
+      "w": 200
+    },
+    {
+      "text": "Mining Barge",
+      "type": "text"
+    },
+    {
+      "text": "Hauls ore. Right-click an asteroid to mine it and it shuttles loads back to a starbase on its own; orange-flecked rocks carry spice. Asteroids run dry, so miners keep moving outward as a belt empties.",
+      "type": "text"
+    },
+    {
+      "h": 150,
+      "src": "img_03_ship_skimmer.png",
+      "type": "sprite",
+      "w": 200
+    },
+    {
+      "h": 150,
+      "src": "img_04_ship_skimmer_team.png",
+      "type": "sprite",
+      "w": 200
+    },
+    {
+      "text": "Gas Skimmer",
+      "type": "text"
+    },
+    {
+      "text": "needs Gas Skimming",
+      "type": "text"
+    },
+    {
+      "h": 129,
+      "src": "img_05_ship_colony.png",
+      "type": "sprite",
+      "w": 200
+    },
+    {
+      "h": 129,
+      "src": "img_06_ship_colony_team.png",
+      "type": "sprite",
+      "w": 200
+    },
+    {
+      "text": "Colony Ship",
+      "type": "text"
+    },
+    {
+      "text": "Settles a free world, and is used up doing it.",
+      "type": "text"
+    },
+    {
+      "h": 164,
+      "src": "img_07_ship_constructor.png",
+      "type": "sprite",
+      "w": 200
+    },
+    {
+      "h": 164,
+      "src": "img_08_ship_constructor_team.png",
+      "type": "sprite",
+      "w": 200
+    },
+    {
+      "text": "Constructor",
+      "type": "text"
+    },
+    {
+      "text": "Builds stations and is used up doing it: a starbase, Mining Station, Shipyard, Frontier Outpost, Warp Gate or Field Wall Generator.",
+      "type": "text"
+    },
+    {
+      "h": 135,
+      "src": "img_09_ship_scout.png",
+      "type": "sprite",
+      "w": 200
+    },
+    {
+      "h": 135,
+      "src": "img_10_ship_scout_team.png",
+      "type": "sprite",
+      "w": 200
+    },
+    {
+      "text": "Scout",
+      "type": "text"
+    },
+    {
+      "text": "Deep Sensors: Sees far, into spice nebulae and through ion storms.",
+      "type": "text"
+    },
+    {
+      "text": "Cheap, fast and unarmed: its only purpose is sight. It sees far, into spice nebulae and through ion storms, and its beacons keep watching a spot after it has moved on.",
+      "type": "text"
+    },
+    {
+      "h": 138,
+      "src": "img_11_ship_tender.png",
+      "type": "sprite",
+      "w": 200
+    },
+    {
+      "h": 138,
+      "src": "img_12_ship_tender_team.png",
+      "type": "sprite",
+      "w": 200
+    },
+    {
+      "text": "Repair Tender",
+      "type": "text"
+    },
+    {
+      "text": "Keeps a fleet alive between battles. Armor never comes back any other way, so a tender is what turns a worn-down fleet into a fresh one without going home.",
+      "type": "text"
+    },
+    {
+      "h": 168,
+      "src": "img_13_ship_radiation_sail_array.png",
+      "type": "sprite",
+      "w": 200
+    },
+    {
+      "h": 168,
+      "src": "img_14_ship_radiation_sail_array_team.png",
+      "type": "sprite",
+      "w": 200
+    },
+    {
+      "text": "Radiation Sail Array",
+      "type": "text"
+    },
+    {
+      "text": "Support ship for Radiation zones. Unarmed.",
+      "type": "text"
+    },
+    {
+      "h": 147,
+      "src": "img_15_ship_corvette.png",
+      "type": "sprite",
+      "w": 200
+    },
+    {
+      "h": 147,
+      "src": "img_16_ship_corvette_team.png",
+      "type": "sprite",
+      "w": 200
+    },
+    {
+      "text": "Corvette",
+      "type": "text"
+    },
+    {
+      "text": "The cheap body of a fleet. Fast and short-ranged, it is bought in numbers.",
+      "type": "text"
+    },
+    {
+      "h": 88,
+      "src": "img_17_sprite.png",
+      "type": "sprite",
+      "w": 200
+    },
+    {
+      "h": 88,
+      "src": "img_18_sprite.png",
+      "type": "sprite",
+      "w": 200
+    },
+    {
+      "text": "Destroyer",
+      "type": "text"
+    },
+    {
+      "text": "needs Destroyers",
+      "type": "text"
+    },
+    {
+      "text": "An armored boat with two light turrets that track a target without turning the hull, and the longest reach of the small hulls.",
+      "type": "text"
+    },
+    {
+      "h": 121,
+      "src": "img_19_sprite.png",
+      "type": "sprite",
+      "w": 222
+    },
+    {
+      "h": 121,
+      "src": "img_20_sprite.png",
+      "type": "sprite",
+      "w": 222
+    },
+    {
+      "text": "Cruiser",
+      "type": "text"
+    },
+    {
+      "text": "needs Cruisers",
+      "type": "text"
+    },
+    {
+      "text": "Heavy shields and three laser turrets that outrange everything smaller. Slow to turn, so it is punished by anything that can stay off its nose, and it wants an escort of its own.",
+      "type": "text"
+    },
+    {
+      "h": 183,
+      "src": "img_21_sprite.png",
+      "type": "sprite",
+      "w": 357
+    },
+    {
+      "h": 183,
+      "src": "img_22_sprite.png",
+      "type": "sprite",
+      "w": 357
+    },
+    {
+      "text": "Carrier",
+      "type": "text"
+    },
+    {
+      "text": "needs Carriers",
+      "type": "text"
+    },
+    {
+      "text": "The heaviest hull, armored and shielded far more than its hull, with four turrets that traverse on their own, so the hull never has to come about to fire. Its Mods trade the turrets for drones, add tractor beams, or fire long-range missile salvos.",
+      "type": "text"
+    }
+  ],
+  "id": "ships/every",
+  "title": "Every ship"
+}

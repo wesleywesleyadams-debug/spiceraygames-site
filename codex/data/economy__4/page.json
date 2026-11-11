@@ -1,0 +1,14 @@
+{
+  "blocks": [
+    {
+      "text": "Power Plant fuel",
+      "type": "heading"
+    },
+    {
+      "text": "A working Power Plant burns minerals instead of energy, so it never shuts down.",
+      "type": "text"
+    }
+  ],
+  "id": "economy/4",
+  "title": "Power Plant fuel"
+}

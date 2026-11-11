@@ -1,0 +1,34 @@
+{
+  "blocks": [
+    {
+      "text": "Defense layers",
+      "type": "heading"
+    },
+    {
+      "text": "Shields, armor and hull: what each layer stops and how it recovers.",
+      "type": "text"
+    },
+    {
+      "text": "Damage drains shields, then armor, then hull.",
+      "type": "text"
+    },
+    {
+      "text": "Armor never comes back on its own: only a Repair Tender restores it.",
+      "type": "text"
+    },
+    {
+      "text": "Hull doesn't regenerate either (research or faction bonuses can add that); a Repair Tender heals it, hull first, then armor.",
+      "type": "text"
+    },
+    {
+      "text": "Spread fire lets unhit ships recover; focused fire keeps their shields down.",
+      "type": "text"
+    },
+    {
+      "text": "Research can raise every layer, and add screens that cut a share of each hit: see Research > Protection.",
+      "type": "text"
+    }
+  ],
+  "id": "combat/layers",
+  "title": "Defense layers"
+}

@@ -1,0 +1,130 @@
+{
+  "blocks": [
+    {
+      "text": "Constructs",
+      "type": "heading"
+    },
+    {
+      "text": "Constructs are stations you build.",
+      "type": "text"
+    },
+    {
+      "text": "Sites need clear room.",
+      "type": "text"
+    },
+    {
+      "h": 126,
+      "src": "img_01_sprite.png",
+      "type": "sprite",
+      "w": 130
+    },
+    {
+      "h": 126,
+      "src": "img_02_starbase_team.png",
+      "type": "sprite",
+      "w": 130
+    },
+    {
+      "text": "Starbase",
+      "type": "text"
+    },
+    {
+      "text": "Builds economy and support ships (warships come from a Shipyard), takes in cargo and defends itself, but makes no resources. Lose every starbase with no Constructor left to build another and you lose; losing your worlds alone does not. Keep it clear of nearly drained gas giants.",
+      "type": "text"
+    },
+    {
+      "h": 70,
+      "src": "img_03_ship_depot_pulsar.png",
+      "type": "sprite",
+      "w": 130
+    },
+    {
+      "h": 70,
+      "src": "img_04_ship_depot_pulsar_team.png",
+      "type": "sprite",
+      "w": 130
+    },
+    {
+      "text": "Shipyard",
+      "type": "text"
+    },
+    {
+      "text": "Builds warships (starbases don't): a hull with the variant and researched Mod you pick (see Shipyards below).",
+      "type": "text"
+    },
+    {
+      "h": 130,
+      "src": "img_05_ship_mining_station.png",
+      "type": "sprite",
+      "w": 130
+    },
+    {
+      "h": 130,
+      "src": "img_06_ship_mining_station_team.png",
+      "type": "sprite",
+      "w": 130
+    },
+    {
+      "text": "Mining Station",
+      "type": "text"
+    },
+    {
+      "text": "A forward drop-off: harvesters unload here instead of flying home, so a station beside a far belt or nebula shortens every trip. Unarmed: guard it.",
+      "type": "text"
+    },
+    {
+      "h": 97,
+      "src": "img_07_sprite.png",
+      "type": "sprite",
+      "w": 130
+    },
+    {
+      "h": 97,
+      "src": "img_08_ship_frontier_outpost_team.png",
+      "type": "sprite",
+      "w": 130
+    },
+    {
+      "text": "Frontier Outpost",
+      "type": "text"
+    },
+    {
+      "text": "Half a starbase that only holds ground: no building, no cargo. Construct weapon research applies to its guns.",
+      "type": "text"
+    },
+    {
+      "h": 83,
+      "src": "img_09_ship_warp_gate.png",
+      "type": "sprite",
+      "w": 130
+    },
+    {
+      "h": 83,
+      "src": "img_10_ship_warp_gate_team.png",
+      "type": "sprite",
+      "w": 130
+    },
+    {
+      "text": "Warp Gate",
+      "type": "text"
+    },
+    {
+      "text": "Right-click it with ships selected to garrison them; they still cost upkeep and die with the gate.",
+      "type": "text"
+    },
+    {
+      "text": "Stats read cost, build time, shield / armor / hull, guns and upkeep.",
+      "type": "text"
+    },
+    {
+      "text": "Construct guns get flat extra reach, so every gun hits a corvette at max range from any angle.",
+      "type": "text"
+    },
+    {
+      "text": "The bonus ignores Mods and Munitions research.",
+      "type": "text"
+    }
+  ],
+  "id": "constructs/0",
+  "title": "Constructs"
+}

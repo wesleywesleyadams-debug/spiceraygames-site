@@ -1,0 +1,27 @@
+{
+  "blocks": [
+    {
+      "text": "Shipyards",
+      "type": "heading"
+    },
+    {
+      "kind": "shipyard",
+      "src": "art_01_shipyard.png",
+      "type": "image"
+    },
+    {
+      "text": "A Shipyard builds a hull with the variant and Mod you pick.",
+      "type": "text"
+    },
+    {
+      "text": "Click a box in its grid to choose a variant and Mod, then a hull to queue it; prices are on Combat > Weapon Mods.",
+      "type": "text"
+    },
+    {
+      "text": "Construct guns, toughness, build speed and the Outpost / Warp Gate unlocks: see Research > Constructs.",
+      "type": "text"
+    }
+  ],
+  "id": "constructs/1",
+  "title": "Shipyards"
+}

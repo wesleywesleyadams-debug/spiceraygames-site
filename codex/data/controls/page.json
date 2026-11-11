@@ -1,0 +1,34 @@
+{
+  "blocks": [
+    {
+      "text": "Panel grid",
+      "type": "heading"
+    },
+    {
+      "text": "The bottom-left panel's buttons map to a grid of keys, in order, and each shows its letter in the corner. Letters never move: whatever is selected, the first button is Q, the fourth A, the seventh Z.",
+      "type": "text"
+    },
+    {
+      "text": "The build picker on one of your worlds uses the same letters.",
+      "type": "text"
+    },
+    {
+      "text": "Rebind any key in Options > Hotkeys, which has a Reset to defaults button. Button letters follow your bindings.",
+      "type": "text"
+    },
+    {
+      "text": "Build grid",
+      "type": "heading"
+    },
+    {
+      "text": "A starbase builds economy and support ships; warships come from a Shipyard. With nothing selected, a letter selects every ship of one class you own, anywhere on the map.",
+      "type": "text"
+    },
+    {
+      "text": "Everything else",
+      "type": "heading"
+    }
+  ],
+  "id": "controls",
+  "title": "Controls"
+}

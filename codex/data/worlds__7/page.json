@@ -1,0 +1,22 @@
+{
+  "blocks": [
+    {
+      "text": "Siege",
+      "type": "heading"
+    },
+    {
+      "text": "Attackers break a world's shield first, then its buildings, then its pops.",
+      "type": "text"
+    },
+    {
+      "text": "Worlds are taken by bombardment, in this order.",
+      "type": "text"
+    },
+    {
+      "text": "Food, growth, population cap, colony and energy techs: see Research > Worlds.",
+      "type": "text"
+    }
+  ],
+  "id": "worlds/7",
+  "title": "Siege"
+}

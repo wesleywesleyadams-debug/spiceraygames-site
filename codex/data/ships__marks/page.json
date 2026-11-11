@@ -1,0 +1,31 @@
+{
+  "blocks": [
+    {
+      "text": "Marks",
+      "type": "heading"
+    },
+    {
+      "text": "Mk I to Mk IV, and what each mark adds.",
+      "type": "text"
+    },
+    {
+      "kind": "marks_wide",
+      "src": "art_01_marks_wide.png",
+      "type": "image"
+    },
+    {
+      "text": "Research then multiplies these base values, so marks and techs stack.",
+      "type": "text"
+    },
+    {
+      "text": "Each class researches its own marks. A new mark applies at once to every ship of that class, existing ones included.",
+      "type": "text"
+    },
+    {
+      "text": "Costs and times for every mark: see Research > Warships.",
+      "type": "text"
+    }
+  ],
+  "id": "ships/marks",
+  "title": "Marks"
+}

@@ -1,0 +1,122 @@
+{
+  "blocks": [
+    {
+      "text": "Economy",
+      "type": "heading"
+    },
+    {
+      "h": 150,
+      "src": "img_01_ship_miner.png",
+      "type": "sprite",
+      "w": 0
+    },
+    {
+      "text": "Harvesting",
+      "type": "text"
+    },
+    {
+      "text": "Harvesters fill their holds at rocks, gas giants and nebulae, then haul the load home.",
+      "type": "text"
+    },
+    {
+      "h": 150,
+      "src": "img_02_asteroid_0.png",
+      "type": "sprite",
+      "w": 0
+    },
+    {
+      "text": "Asteroid sizes",
+      "type": "text"
+    },
+    {
+      "text": "A small rock holds the same amount whether it is minerals or spice, and so does a large one, on every map.",
+      "type": "text"
+    },
+    {
+      "text": "Gas giants",
+      "type": "text"
+    },
+    {
+      "h": 150,
+      "src": "img_03_ship_skimmer.png",
+      "type": "sprite",
+      "w": 0
+    },
+    {
+      "text": "Spice nebulae",
+      "type": "text"
+    },
+    {
+      "h": 150,
+      "src": "img_04_bld_generator.png",
+      "type": "sprite",
+      "w": 0
+    },
+    {
+      "text": "Power Plant fuel",
+      "type": "text"
+    },
+    {
+      "text": "A working Power Plant burns minerals instead of energy, so it never shuts down.",
+      "type": "text"
+    },
+    {
+      "h": 150,
+      "src": "img_05_icon_upkeep.png",
+      "type": "sprite",
+      "w": 0
+    },
+    {
+      "text": "Upkeep",
+      "type": "text"
+    },
+    {
+      "text": "Every ship, construct and working building costs energy each minute.",
+      "type": "text"
+    },
+    {
+      "h": 150,
+      "src": "img_06_icon_energy.png",
+      "type": "sprite",
+      "w": 0
+    },
+    {
+      "text": "Brownout and Blackout",
+      "type": "text"
+    },
+    {
+      "text": "Run short of energy and things shut down; run out of everything and you're eliminated.",
+      "type": "text"
+    },
+    {
+      "h": 150,
+      "src": "img_07_icon_spice.png",
+      "type": "sprite",
+      "w": 0
+    },
+    {
+      "text": "Spice cover",
+      "type": "text"
+    },
+    {
+      "text": "Spice pays any food, mineral or energy shortfall, unless you switch it off.",
+      "type": "text"
+    },
+    {
+      "h": 150,
+      "src": "img_08_icon_minerals.png",
+      "type": "sprite",
+      "w": 0
+    },
+    {
+      "text": "Net per minute",
+      "type": "text"
+    },
+    {
+      "text": "The resource bar shows each stockpile and its net change per minute (green rising, red falling).",
+      "type": "text"
+    }
+  ],
+  "id": "economy",
+  "title": "Economy"
+}

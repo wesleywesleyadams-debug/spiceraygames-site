@@ -1,0 +1,22 @@
+{
+  "blocks": [
+    {
+      "text": "Net per minute",
+      "type": "heading"
+    },
+    {
+      "text": "The resource bar shows each stockpile and its net change per minute (green rising, red falling).",
+      "type": "text"
+    },
+    {
+      "text": "The net is averaged over the last minute: all income minus all spending (upkeep, building upkeep, Power Plant fuel, food eaten, research, construction and ships).",
+      "type": "text"
+    },
+    {
+      "text": "A world's panel shows that world's own net; hover for the breakdown.",
+      "type": "text"
+    }
+  ],
+  "id": "economy/8",
+  "title": "Net per minute"
+}

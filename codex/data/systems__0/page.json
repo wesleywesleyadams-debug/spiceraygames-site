@@ -1,0 +1,18 @@
+{
+  "blocks": [
+    {
+      "text": "Systems",
+      "type": "heading"
+    },
+    {
+      "text": "One star system per match, picked in the lobby. Every system is symmetric: all players get the same worlds, rocks and distances.",
+      "type": "text"
+    },
+    {
+      "text": "All but the Silent Void have spice nebulae (spice for Gas Skimmers, low Radiation inside). Star, feature and gas placement shape each match.",
+      "type": "text"
+    }
+  ],
+  "id": "systems/0",
+  "title": "Systems"
+}

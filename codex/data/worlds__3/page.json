@@ -1,0 +1,26 @@
+{
+  "blocks": [
+    {
+      "text": "Population",
+      "type": "heading"
+    },
+    {
+      "text": "Pops wait in the City, then work factories; unfed pops go to the Refugee camp.",
+      "type": "text"
+    },
+    {
+      "text": "Working pops are never moved.",
+      "type": "text"
+    },
+    {
+      "text": "Click a lot's arrow to send a pop back to the City; click a lot to send one from the City.",
+      "type": "text"
+    },
+    {
+      "text": "Fed again, a starving pop's bar runs back and it returns to the City.",
+      "type": "text"
+    }
+  ],
+  "id": "worlds/3",
+  "title": "Population"
+}

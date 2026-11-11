@@ -1,0 +1,252 @@
+{
+  "blocks": [
+    {
+      "text": "Warships",
+      "type": "heading"
+    },
+    {
+      "text": "Unlock each warship class and raise its mark, Mk I through Mk IV. Every class is its own line.",
+      "type": "text"
+    },
+    {
+      "text": "A mark applies at once to every ship of that class, built or not yet built, and multiplies with Munitions and Protection research.",
+      "type": "text"
+    },
+    {
+      "text": "BASIC",
+      "type": "text"
+    },
+    {
+      "text": "ADVANCED",
+      "type": "text"
+    },
+    {
+      "text": "EXPERIMENTAL",
+      "type": "text"
+    },
+    {
+      "text": "CORVETTES",
+      "type": "text"
+    },
+    {
+      "h": 96,
+      "src": "img_01_sprite.png",
+      "type": "sprite",
+      "w": 96
+    },
+    {
+      "text": "Mk II Corvette",
+      "type": "text"
+    },
+    {
+      "h": 12,
+      "src": "img_02_icon_spice.png",
+      "type": "sprite",
+      "w": 12
+    },
+    {
+      "h": 96,
+      "src": "img_03_sprite.png",
+      "type": "sprite",
+      "w": 96
+    },
+    {
+      "text": "Mk III Corvette",
+      "type": "text"
+    },
+    {
+      "h": 0,
+      "src": "img_04_sprite.png",
+      "type": "sprite",
+      "w": 0
+    },
+    {
+      "h": 96,
+      "src": "img_05_sprite.png",
+      "type": "sprite",
+      "w": 96
+    },
+    {
+      "text": "Mk IV Corvette",
+      "type": "text"
+    },
+    {
+      "text": "Not available yet...",
+      "type": "text"
+    },
+    {
+      "text": "Not available yet...",
+      "type": "text"
+    },
+    {
+      "text": "DESTROYERS",
+      "type": "text"
+    },
+    {
+      "h": 96,
+      "src": "img_06_sprite.png",
+      "type": "sprite",
+      "w": 96
+    },
+    {
+      "text": "Destroyers",
+      "type": "text"
+    },
+    {
+      "text": "Unlocks the Destroyer.",
+      "type": "text"
+    },
+    {
+      "h": 96,
+      "src": "img_07_sprite.png",
+      "type": "sprite",
+      "w": 96
+    },
+    {
+      "text": "Mk II Destroyer",
+      "type": "text"
+    },
+    {
+      "h": 96,
+      "src": "img_08_sprite.png",
+      "type": "sprite",
+      "w": 96
+    },
+    {
+      "text": "Mk III Destroyer",
+      "type": "text"
+    },
+    {
+      "h": 96,
+      "src": "img_09_sprite.png",
+      "type": "sprite",
+      "w": 96
+    },
+    {
+      "text": "Mk IV Destroyer",
+      "type": "text"
+    },
+    {
+      "text": "Not available yet...",
+      "type": "text"
+    },
+    {
+      "text": "Not available yet...",
+      "type": "text"
+    },
+    {
+      "text": "CRUISERS",
+      "type": "text"
+    },
+    {
+      "h": 96,
+      "src": "img_10_sprite.png",
+      "type": "sprite",
+      "w": 96
+    },
+    {
+      "text": "Cruisers",
+      "type": "text"
+    },
+    {
+      "text": "Unlocks the Cruiser.",
+      "type": "text"
+    },
+    {
+      "h": 96,
+      "src": "img_11_sprite.png",
+      "type": "sprite",
+      "w": 96
+    },
+    {
+      "text": "Mk II Cruiser",
+      "type": "text"
+    },
+    {
+      "h": 96,
+      "src": "img_12_sprite.png",
+      "type": "sprite",
+      "w": 96
+    },
+    {
+      "text": "Mk III Cruiser",
+      "type": "text"
+    },
+    {
+      "h": 96,
+      "src": "img_13_sprite.png",
+      "type": "sprite",
+      "w": 96
+    },
+    {
+      "text": "Mk IV Cruiser",
+      "type": "text"
+    },
+    {
+      "text": "Not available yet...",
+      "type": "text"
+    },
+    {
+      "text": "Not available yet...",
+      "type": "text"
+    },
+    {
+      "text": "CARRIERS",
+      "type": "text"
+    },
+    {
+      "h": 96,
+      "src": "img_14_sprite.png",
+      "type": "sprite",
+      "w": 96
+    },
+    {
+      "text": "Carriers",
+      "type": "text"
+    },
+    {
+      "text": "Unlocks the Carrier.",
+      "type": "text"
+    },
+    {
+      "h": 96,
+      "src": "img_15_sprite.png",
+      "type": "sprite",
+      "w": 96
+    },
+    {
+      "text": "Mk II Carrier",
+      "type": "text"
+    },
+    {
+      "h": 96,
+      "src": "img_16_sprite.png",
+      "type": "sprite",
+      "w": 96
+    },
+    {
+      "text": "Mk III Carrier",
+      "type": "text"
+    },
+    {
+      "h": 96,
+      "src": "img_17_sprite.png",
+      "type": "sprite",
+      "w": 96
+    },
+    {
+      "text": "Mk IV Carrier",
+      "type": "text"
+    },
+    {
+      "text": "Not available yet...",
+      "type": "text"
+    },
+    {
+      "text": "Not available yet...",
+      "type": "text"
+    }
+  ],
+  "id": "research/warships",
+  "title": "Warships"
+}

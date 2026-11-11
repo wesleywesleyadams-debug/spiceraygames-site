@@ -1,0 +1,136 @@
+{
+  "blocks": [
+    {
+      "text": "Research",
+      "type": "heading"
+    },
+    {
+      "h": 150,
+      "src": "img_01_emblem_generic.png",
+      "type": "sprite",
+      "w": 0
+    },
+    {
+      "text": "Overview",
+      "type": "text"
+    },
+    {
+      "text": "How the research grid works: rows, columns, tiers and prices.",
+      "type": "text"
+    },
+    {
+      "h": 150,
+      "src": "img_02_tab_warships.png",
+      "type": "sprite",
+      "w": 0
+    },
+    {
+      "text": "Warships",
+      "type": "text"
+    },
+    {
+      "text": "Unlock each warship class and raise its mark, Mk I through Mk IV. Every class is its own line.",
+      "type": "text"
+    },
+    {
+      "h": 150,
+      "src": "img_03_tab_defense.png",
+      "type": "sprite",
+      "w": 0
+    },
+    {
+      "text": "Defense",
+      "type": "text"
+    },
+    {
+      "text": "Ship toughness: the three damage layers (shields, armor, hull), plus deflectors, which soak a slice of every hit first. Pick a line and commit.",
+      "type": "text"
+    },
+    {
+      "h": 150,
+      "src": "img_04_tab_weapons.png",
+      "type": "sprite",
+      "w": 0
+    },
+    {
+      "text": "Munitions",
+      "type": "text"
+    },
+    {
+      "text": "Weapon output: damage, rate of fire, penetration, and shot speed with range.",
+      "type": "text"
+    },
+    {
+      "h": 150,
+      "src": "img_05_tab_science.png",
+      "type": "sprite",
+      "w": 0
+    },
+    {
+      "text": "Science",
+      "type": "text"
+    },
+    {
+      "text": "Faster research and other research upgrades.",
+      "type": "text"
+    },
+    {
+      "h": 150,
+      "src": "img_06_tab_mods.png",
+      "type": "sprite",
+      "w": 0
+    },
+    {
+      "text": "Mods",
+      "type": "text"
+    },
+    {
+      "text": "Weapon Mods: research each once, then pick it when a Shipyard builds a warship.",
+      "type": "text"
+    },
+    {
+      "h": 150,
+      "src": "img_07_tab_constructs.png",
+      "type": "sprite",
+      "w": 0
+    },
+    {
+      "text": "Constructs",
+      "type": "text"
+    },
+    {
+      "text": "Starbases, Shipyards and the other things you build rather than fly.",
+      "type": "text"
+    },
+    {
+      "h": 150,
+      "src": "img_08_tab_worlds.png",
+      "type": "sprite",
+      "w": 0
+    },
+    {
+      "text": "Worlds",
+      "type": "text"
+    },
+    {
+      "text": "Running your colonies: food, growth, population, new colonies and industry.",
+      "type": "text"
+    },
+    {
+      "h": 150,
+      "src": "img_09_tab_logistics.png",
+      "type": "sprite",
+      "w": 0
+    },
+    {
+      "text": "Logistics",
+      "type": "text"
+    },
+    {
+      "text": "Hauling, skimming and fleet speed: how fast cargo and ships get there.",
+      "type": "text"
+    }
+  ],
+  "id": "research",
+  "title": "Research"
+}

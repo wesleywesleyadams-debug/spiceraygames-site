@@ -1,0 +1,262 @@
+{
+  "blocks": [
+    {
+      "text": "Eldar Covenant",
+      "type": "heading"
+    },
+    {
+      "h": 128,
+      "src": "img_01_emblem_elder_covenant.png",
+      "type": "sprite",
+      "w": 128
+    },
+    {
+      "text": "What we hold, we keep: an ancient order that makes its ground a graveyard for intruders.",
+      "type": "text"
+    },
+    {
+      "text": "Unique technologies: Eldar Covenant",
+      "type": "heading"
+    },
+    {
+      "text": "The Eldar Covenant's own technologies: watch, mend, ward and hallow the ground you hold.",
+      "type": "text"
+    },
+    {
+      "text": "BASIC",
+      "type": "text"
+    },
+    {
+      "text": "ADVANCED",
+      "type": "text"
+    },
+    {
+      "text": "EXPERIMENTAL",
+      "type": "text"
+    },
+    {
+      "text": "WATCHFIRES",
+      "type": "text"
+    },
+    {
+      "h": 96,
+      "src": "img_02_sprite.png",
+      "type": "sprite",
+      "w": 96
+    },
+    {
+      "text": "Beacons",
+      "type": "text"
+    },
+    {
+      "h": 12,
+      "src": "img_03_icon_spice.png",
+      "type": "sprite",
+      "w": 12
+    },
+    {
+      "h": 96,
+      "src": "img_04_sprite.png",
+      "type": "sprite",
+      "w": 96
+    },
+    {
+      "text": "Signal Pyres",
+      "type": "text"
+    },
+    {
+      "h": 0,
+      "src": "img_05_sprite.png",
+      "type": "sprite",
+      "w": 0
+    },
+    {
+      "h": 96,
+      "src": "img_06_sprite.png",
+      "type": "sprite",
+      "w": 96
+    },
+    {
+      "text": "Eternal Flame",
+      "type": "text"
+    },
+    {
+      "text": "Not available yet...",
+      "type": "text"
+    },
+    {
+      "text": "Not available yet...",
+      "type": "text"
+    },
+    {
+      "text": "SANCTUARY",
+      "type": "text"
+    },
+    {
+      "h": 96,
+      "src": "img_07_sprite.png",
+      "type": "sprite",
+      "w": 96
+    },
+    {
+      "text": "Mending Rites",
+      "type": "text"
+    },
+    {
+      "h": 96,
+      "src": "img_08_sprite.png",
+      "type": "sprite",
+      "w": 96
+    },
+    {
+      "text": "Hallowed Docks",
+      "type": "text"
+    },
+    {
+      "h": 96,
+      "src": "img_09_sprite.png",
+      "type": "sprite",
+      "w": 96
+    },
+    {
+      "text": "Elder's Grace",
+      "type": "text"
+    },
+    {
+      "text": "Not available yet...",
+      "type": "text"
+    },
+    {
+      "text": "Not available yet...",
+      "type": "text"
+    },
+    {
+      "text": "WARDING",
+      "type": "text"
+    },
+    {
+      "h": 96,
+      "src": "img_10_sprite.png",
+      "type": "sprite",
+      "w": 96
+    },
+    {
+      "text": "Ward Stones",
+      "type": "text"
+    },
+    {
+      "h": 96,
+      "src": "img_11_sprite.png",
+      "type": "sprite",
+      "w": 96
+    },
+    {
+      "text": "Bound Wards",
+      "type": "text"
+    },
+    {
+      "h": 96,
+      "src": "img_12_sprite.png",
+      "type": "sprite",
+      "w": 96
+    },
+    {
+      "text": "Unbroken Ward",
+      "type": "text"
+    },
+    {
+      "text": "Not available yet...",
+      "type": "text"
+    },
+    {
+      "text": "Not available yet...",
+      "type": "text"
+    },
+    {
+      "text": "HALLOWED GROUND",
+      "type": "text"
+    },
+    {
+      "h": 96,
+      "src": "img_13_sprite.png",
+      "type": "sprite",
+      "w": 96
+    },
+    {
+      "text": "Old Soil",
+      "type": "text"
+    },
+    {
+      "h": 96,
+      "src": "img_14_sprite.png",
+      "type": "sprite",
+      "w": 96
+    },
+    {
+      "text": "Bitter Earth",
+      "type": "text"
+    },
+    {
+      "h": 96,
+      "src": "img_15_sprite.png",
+      "type": "sprite",
+      "w": 96
+    },
+    {
+      "text": "Decay",
+      "type": "text"
+    },
+    {
+      "text": "Not available yet...",
+      "type": "text"
+    },
+    {
+      "text": "Not available yet...",
+      "type": "text"
+    },
+    {
+      "text": "CONSECRATION",
+      "type": "text"
+    },
+    {
+      "h": 96,
+      "src": "img_16_sprite.png",
+      "type": "sprite",
+      "w": 96
+    },
+    {
+      "text": "Anointed Walls",
+      "type": "text"
+    },
+    {
+      "h": 96,
+      "src": "img_17_sprite.png",
+      "type": "sprite",
+      "w": 96
+    },
+    {
+      "text": "Sacred Bounds",
+      "type": "text"
+    },
+    {
+      "h": 96,
+      "src": "img_18_sprite.png",
+      "type": "sprite",
+      "w": 96
+    },
+    {
+      "text": "Holy Bastions",
+      "type": "text"
+    },
+    {
+      "text": "Not available yet...",
+      "type": "text"
+    },
+    {
+      "text": "Not available yet...",
+      "type": "text"
+    }
+  ],
+  "id": "factions/elder_covenant",
+  "title": "Eldar Covenant"
+}

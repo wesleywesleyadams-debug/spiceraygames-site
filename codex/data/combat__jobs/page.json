@@ -1,0 +1,34 @@
+{
+  "blocks": [
+    {
+      "text": "Support",
+      "type": "heading"
+    },
+    {
+      "text": "Scouts, tenders and sail arrays that help a fight.",
+      "type": "text"
+    },
+    {
+      "text": "Support ships help a fight without shooting. Passive abilities always work.",
+      "type": "text"
+    },
+    {
+      "text": "Use an active one with Q or its ship panel button.",
+      "type": "text"
+    },
+    {
+      "text": "Deep Sensors: Sees far, into spice nebulae and through ion storms.",
+      "type": "text"
+    },
+    {
+      "text": "Radiation Sail: Support ship for Radiation zones. Unarmed.",
+      "type": "text"
+    },
+    {
+      "text": "Radiation Sail Arrays whose bubbles touch share one Mega Shield.",
+      "type": "text"
+    }
+  ],
+  "id": "combat/jobs",
+  "title": "Support"
+}

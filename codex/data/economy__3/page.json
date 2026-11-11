@@ -1,0 +1,18 @@
+{
+  "blocks": [
+    {
+      "text": "Spice nebulae",
+      "type": "heading"
+    },
+    {
+      "text": "A skimmer pulls in the pixels nearest it; harvested pixels are gone for good.",
+      "type": "text"
+    },
+    {
+      "text": "A ship takes Radiation, and is hidden, only while its hull touches a lit pixel.",
+      "type": "text"
+    }
+  ],
+  "id": "economy/3",
+  "title": "Spice nebulae"
+}

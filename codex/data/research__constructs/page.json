@@ -1,0 +1,272 @@
+{
+  "blocks": [
+    {
+      "text": "Constructs",
+      "type": "heading"
+    },
+    {
+      "text": "Starbases, Shipyards and the other things you build rather than fly.",
+      "type": "text"
+    },
+    {
+      "text": "BASIC",
+      "type": "text"
+    },
+    {
+      "text": "ADVANCED",
+      "type": "text"
+    },
+    {
+      "text": "EXPERIMENTAL",
+      "type": "text"
+    },
+    {
+      "text": "EXPANSION",
+      "type": "text"
+    },
+    {
+      "h": 96,
+      "src": "img_01_sprite.png",
+      "type": "sprite",
+      "w": 96
+    },
+    {
+      "text": "Outposts",
+      "type": "text"
+    },
+    {
+      "h": 12,
+      "src": "img_02_icon_spice.png",
+      "type": "sprite",
+      "w": 12
+    },
+    {
+      "text": "Unlocks the Frontier Outpost.",
+      "type": "text"
+    },
+    {
+      "h": 96,
+      "src": "img_03_sprite.png",
+      "type": "sprite",
+      "w": 96
+    },
+    {
+      "text": "Field Walls",
+      "type": "text"
+    },
+    {
+      "text": "Unlocks the Field Wall Generator: a shield bubble on its own; linked generators raise walls that stop enemy ships and fire.",
+      "type": "text"
+    },
+    {
+      "h": 96,
+      "src": "img_04_sprite.png",
+      "type": "sprite",
+      "w": 96
+    },
+    {
+      "text": "Warp Gates",
+      "type": "text"
+    },
+    {
+      "text": "Unlocks the Warp Gate.",
+      "type": "text"
+    },
+    {
+      "text": "CONSTRUCTION",
+      "type": "text"
+    },
+    {
+      "h": 96,
+      "src": "img_05_sprite.png",
+      "type": "sprite",
+      "w": 96
+    },
+    {
+      "text": "Assembly Drones",
+      "type": "text"
+    },
+    {
+      "h": 96,
+      "src": "img_06_sprite.png",
+      "type": "sprite",
+      "w": 96
+    },
+    {
+      "text": "Fabrication Overdrive",
+      "type": "text"
+    },
+    {
+      "h": 0,
+      "src": "img_07_sprite.png",
+      "type": "sprite",
+      "w": 0
+    },
+    {
+      "h": 96,
+      "src": "img_08_sprite.png",
+      "type": "sprite",
+      "w": 96
+    },
+    {
+      "text": "Orbital Elevators",
+      "type": "text"
+    },
+    {
+      "text": "Not available yet...",
+      "type": "text"
+    },
+    {
+      "text": "Not available yet...",
+      "type": "text"
+    },
+    {
+      "text": "SHIPYARDS",
+      "type": "text"
+    },
+    {
+      "h": 96,
+      "src": "img_09_sprite.png",
+      "type": "sprite",
+      "w": 96
+    },
+    {
+      "text": "Orbital Yards",
+      "type": "text"
+    },
+    {
+      "h": 96,
+      "src": "img_10_sprite.png",
+      "type": "sprite",
+      "w": 96
+    },
+    {
+      "text": "Assembly Lines",
+      "type": "text"
+    },
+    {
+      "h": 96,
+      "src": "img_11_sprite.png",
+      "type": "sprite",
+      "w": 96
+    },
+    {
+      "text": "Shipyard Networks",
+      "type": "text"
+    },
+    {
+      "h": 96,
+      "src": "img_12_sprite.png",
+      "type": "sprite",
+      "w": 96
+    },
+    {
+      "text": "Modifications",
+      "type": "text"
+    },
+    {
+      "text": "Opens the Mods tree.",
+      "type": "text"
+    },
+    {
+      "h": 96,
+      "src": "img_13_sprite.png",
+      "type": "sprite",
+      "w": 96
+    },
+    {
+      "text": "Variants",
+      "type": "text"
+    },
+    {
+      "text": "Shipyards can fabricate every variant.",
+      "type": "text"
+    },
+    {
+      "text": "FORTIFICATION",
+      "type": "text"
+    },
+    {
+      "h": 96,
+      "src": "img_14_sprite.png",
+      "type": "sprite",
+      "w": 96
+    },
+    {
+      "text": "Ablative Cladding",
+      "type": "text"
+    },
+    {
+      "h": 96,
+      "src": "img_15_sprite.png",
+      "type": "sprite",
+      "w": 96
+    },
+    {
+      "text": "Reinforced Docks",
+      "type": "text"
+    },
+    {
+      "h": 96,
+      "src": "img_16_sprite.png",
+      "type": "sprite",
+      "w": 96
+    },
+    {
+      "text": "Citadel Protocols",
+      "type": "text"
+    },
+    {
+      "text": "Not available yet...",
+      "type": "text"
+    },
+    {
+      "text": "Not available yet...",
+      "type": "text"
+    },
+    {
+      "text": "BASTIONS",
+      "type": "text"
+    },
+    {
+      "h": 96,
+      "src": "img_17_sprite.png",
+      "type": "sprite",
+      "w": 96
+    },
+    {
+      "text": "Lumen Batteries",
+      "type": "text"
+    },
+    {
+      "h": 96,
+      "src": "img_18_sprite.png",
+      "type": "sprite",
+      "w": 96
+    },
+    {
+      "text": "Photon Condensers",
+      "type": "text"
+    },
+    {
+      "h": 96,
+      "src": "img_19_sprite.png",
+      "type": "sprite",
+      "w": 96
+    },
+    {
+      "text": "Sunlance Arrays",
+      "type": "text"
+    },
+    {
+      "text": "Not available yet...",
+      "type": "text"
+    },
+    {
+      "text": "Not available yet...",
+      "type": "text"
+    }
+  ],
+  "id": "research/constructs",
+  "title": "Constructs"
+}
