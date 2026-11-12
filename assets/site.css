@@ -15,7 +15,9 @@ header.top nav a:hover,header.top nav a.on{color:var(--accent)}
 /* Game sub-tabs */
 .tabs{border-top:2px solid var(--line);border-bottom:2px solid var(--line);background:var(--panel)}
 .tabs .wrap{display:flex;align-items:center;gap:4px;flex-wrap:wrap}
-.tabs .game{color:var(--warm);text-transform:uppercase;letter-spacing:.12em;font-weight:700;margin-right:16px;padding:8px 0}
+.tabs .game{color:var(--warm);text-transform:uppercase;letter-spacing:.12em;font-weight:700;margin-right:16px;padding:8px 0;text-decoration:none;border-bottom:2px solid transparent;margin-bottom:-2px}
+.tabs .game:hover{color:#ffc68a}
+.tabs .game.on{border-bottom-color:var(--warm)}
 .tabs a.tab{padding:8px 14px;text-decoration:none;color:var(--text);text-transform:uppercase;letter-spacing:.08em;font-size:.85rem;border-bottom:2px solid transparent;margin-bottom:-2px}
 .tabs a.tab:hover{color:var(--accent)}
 .tabs a.tab.on{color:var(--accent);border-bottom-color:var(--accent)}

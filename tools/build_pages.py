@@ -41,8 +41,8 @@ def game_tabs(active):
         on = " on" if key == active else ""
         return f'<a class="tab{on}" href="{href}">{label}</a>'
     return f"""<div class="tabs"><div class="wrap">
-  <span class="game">Aegis Matrix</span>
-  {tab('/games/aegis-matrix/', 'Home', 'home')}{tab('/games/aegis-matrix/codex/', 'Codex', 'codex')}
+  <a class="game{' on' if active == 'home' else ''}" href="/games/aegis-matrix/">Aegis Matrix</a>
+  {tab('/games/aegis-matrix/codex/', 'Codex', 'codex')}
 </div></div>
 """
 
