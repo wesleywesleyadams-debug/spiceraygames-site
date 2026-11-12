@@ -49,11 +49,11 @@
       "type": "text"
     },
     {
-      "text": "Spice nebulae: one cloud on each flank, equally far from both bases - the contested middle.",
+      "text": "Spice nebulae: one cloud on each flank, equally far from both bases, in the contested middle.",
       "type": "text"
     },
     {
-      "text": "How it plays: The even, open map. Both flank clouds are as close to the enemy as to you, so spice goes to whoever holds the middle - send skimmers with an escort.",
+      "text": "How it plays: The even, open map. Both flank clouds lie as close to the enemy as to you, so the spice goes to whoever holds the middle: send your skimmers with an escort.",
       "type": "text"
     },
     {
@@ -65,6 +65,10 @@
       "type": "text"
     },
     {
+      "text": "Star: twin White Star.",
+      "type": "text"
+    },
+    {
       "text": "Twin suns: two radiation zones circle the center, and the safe lane between them keeps moving.",
       "type": "text"
     },
@@ -73,7 +77,7 @@
       "type": "text"
     },
     {
-      "text": "How it plays: The suns' radiation sweeps the center, so the lane between bases opens and closes. Time attacks for when it is clear, and harvest the bands when the enemy fleet is elsewhere.",
+      "text": "How it plays: The suns' radiation sweeps the center, so the lane between the bases opens and closes. Time your attacks for when it is clear, and harvest the bands while the enemy fleet is elsewhere.",
       "type": "text"
     },
     {
@@ -85,11 +89,11 @@
       "type": "text"
     },
     {
-      "text": "Spice nebula: a full ring of gas around the star, seeded with extra spice rocks - on top of a third of all rocks being spice.",
+      "text": "Spice nebula: a full ring of gas around the star, seeded with extra spice rocks, on top of a third of all rocks being spice.",
       "type": "text"
     },
     {
-      "text": "How it plays: Few worlds, but the most spice anywhere: about a third of its rocks are spice, plus a wide spice ring around the star. The gas carries low Radiation: shields stay down while you are inside, so expect drawn-out fights there.",
+      "text": "How it plays: Few worlds, but the richest spice anywhere: about a third of its rocks, plus a wide ring of gas around the star. That gas carries low Radiation, so shields stay down inside it: expect long, grinding fights there.",
       "type": "text"
     },
     {
@@ -101,7 +105,7 @@
       "type": "text"
     },
     {
-      "text": "Debris ring: an impassable wall of rubble with a few narrow gaps (how many varies by seed), which makes those gaps chokepoints. Two worlds per player, of any rocky type and size, lie inside it.",
+      "text": "Debris ring: an impassable wall of rubble broken by a few narrow gaps (how many varies by seed), each one a chokepoint. Two worlds per player, of any rocky type and size, lie inside it.",
       "type": "text"
     },
     {
@@ -109,7 +113,7 @@
       "type": "text"
     },
     {
-      "text": "How it plays: The inner worlds sit behind the debris ring, reachable only through its gaps. Hold a gap and you hold the inner system; the outer pockets are easy, safe spice.",
+      "text": "How it plays: The inner worlds sit behind the debris ring, reachable only through its gaps. Hold a gap and you hold the inner system; the outer pockets offer easy, safe spice.",
       "type": "text"
     },
     {
@@ -121,15 +125,15 @@
       "type": "text"
     },
     {
-      "text": "Ion storms: ragged clouds of charged gas drift around the system, crackling with lightning.",
+      "text": "Ion storms: ragged clouds of charged gas drift through the system, crackling with lightning.",
       "type": "text"
     },
     {
-      "text": "Spice nebulae: a great cloud on each base's flank - your own to harvest, the enemy's to raid.",
+      "text": "Spice nebulae: a great cloud on each base's flank, your own to harvest and the enemy's to raid.",
       "type": "text"
     },
     {
-      "text": "How it plays: Heavy belts and sparse worlds: a mining race. Ion storms slow, blind and burn anything they cross and knock its shields offline, and each side's spice drift is an inviting raid target.",
+      "text": "How it plays: Heavy belts and sparse worlds make it a mining race. Ion storms slow, blind and burn anything they catch, knocking its shields offline, and each side's spice cloud is an inviting raid target.",
       "type": "text"
     },
     {
@@ -141,7 +145,7 @@
       "type": "text"
     },
     {
-      "text": "How it plays: Nothing in the way and nothing to hide in: no nebulae, storms or rings, only the star's own zone. With no nebulae, spice comes only from rocks and Spice Extractors. Fleets meet in the open.",
+      "text": "How it plays: Nothing in the way and nowhere to hide: no nebulae, storms or rings, only the star's own zone. Spice comes only from rocks and Spice Extractors, and fleets meet in the open.",
       "type": "text"
     },
     {
@@ -153,7 +157,7 @@
       "type": "text"
     },
     {
-      "text": "Everything is drawn fresh each match from the match's seed, and the same seed always gives the same system:",
+      "text": "Everything is drawn fresh from the match's seed, and the same seed always gives the same system:",
       "type": "text"
     },
     {
@@ -161,7 +165,7 @@
       "type": "text"
     },
     {
-      "text": "How it plays: scout first. Nothing about the map is known in advance, so an early Scout and a look at where the gas lies matter more here than anywhere.",
+      "text": "How it plays: scout first. Nothing about the map is known in advance, so an early Scout, and an early look at where the gas lies, matter more here than anywhere.",
       "type": "text"
     }
   ],

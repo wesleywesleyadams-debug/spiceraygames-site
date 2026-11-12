@@ -10,37 +10,37 @@
     },
     {
       "src": "img_01_ship_miner.png",
-      "text": "Hauls ore. Right-click an asteroid to mine it and it shuttles loads back to a starbase on its own; orange-flecked rocks carry spice. Asteroids run dry, so miners keep moving outward as a belt empties.",
+      "text": "The backbone of your economy. Right-click an asteroid and it shuttles ore back to a starbase on its own; orange-flecked rocks carry spice. Asteroids run dry, so your miners push ever outward as a belt empties.",
       "title": "Mining Barge",
       "type": "card"
     },
     {
       "src": "img_02_ship_skimmer.png",
-      "text": "needs Gas Skimming\nMines minerals from gas giants and harvests spice gas inside a spice nebula: right-click a spot in the cloud and it thins the gas around it pixel by pixel, moving on to the nearest gas left until the nebula is gone.",
+      "text": "needs Gas Skimming\nDrinks minerals from gas giants and spice from nebulae. In a nebula, right-click a spot and the skimmer thins the gas around it pixel by pixel, moving on to the nearest gas left until the cloud is gone.",
       "title": "Gas Skimmer",
       "type": "card"
     },
     {
       "src": "img_03_ship_colony.png",
-      "text": "Settles a free world, and is used up doing it.",
+      "text": "Carries the first settlers to a free world and is used up founding the colony.",
       "title": "Colony Ship",
       "type": "card"
     },
     {
       "src": "img_04_ship_constructor.png",
-      "text": "Builds stations and is used up doing it: a starbase, Mining Station, Shipyard, Frontier Outpost, Warp Gate or Field Wall Generator.",
+      "text": "Raises your empire's stations and gives itself to the work: a starbase, Mining Station, Shipyard, Frontier Outpost, Warp Gate or Field Wall Generator.",
       "title": "Constructor",
       "type": "card"
     },
     {
       "src": "img_05_ship_scout.png",
-      "text": "Deep Sensors: Sees far, into spice nebulae and through ion storms.\nCheap, fast and unarmed: its only purpose is sight. It sees far, into spice nebulae and through ion storms, and its beacons keep watching a spot after it has moved on.",
+      "text": "Deep Sensors: Sees far, into spice nebulae and through ion storms.\nCheap, fast and unarmed, it exists to see. Its sensors reach far, into spice nebulae and through ion storms, and the beacons it drops keep watch long after it has moved on.",
       "title": "Scout",
       "type": "card"
     },
     {
       "src": "img_06_ship_tender.png",
-      "text": "Keeps a fleet alive between battles. Armor never comes back any other way, so a tender is what turns a worn-down fleet into a fresh one without going home.",
+      "text": "Keeps a fleet alive between battles. Armor never comes back any other way, so a tender turns a battered fleet into a fresh one without the long trip home.",
       "title": "Repair Tender",
       "type": "card"
     },
@@ -52,25 +52,25 @@
     },
     {
       "src": "img_08_ship_corvette.png",
-      "text": "The cheap body of a fleet.",
+      "text": "The cheap, quick heart of any fleet. Short-ranged and lightly built, it wins by numbers.",
       "title": "Corvette",
       "type": "card"
     },
     {
       "src": "img_09_sprite.png",
-      "text": "needs Destroyers\nAn armored boat with two light turrets that track a target without turning the hull, and the longest reach of the small hulls.",
+      "text": "needs Destroyers\nA tough, armored escort with two light turrets that track their target without turning the hull, and the longest reach of the small hulls.",
       "title": "Destroyer",
       "type": "card"
     },
     {
       "src": "img_10_sprite.png",
-      "text": "needs Cruisers\nHeavy shields and three laser turrets that outrange everything smaller. Slow to turn, so it is punished by anything that can stay off its nose, and it wants an escort of its own.",
+      "text": "needs Cruisers\nHeavy shields and three laser turrets that outrange everything smaller. It is slow to turn, so anything that stays off its nose can punish it: give it an escort.",
       "title": "Cruiser",
       "type": "card"
     },
     {
       "src": "img_11_sprite.png",
-      "text": "needs Carriers\nThe heaviest hull, armored and shielded far more than its hull, with four turrets that traverse on their own, so the hull never has to come about to fire. Its Mods trade the turrets for drones, add tractor beams, or fire long-range missile salvos.",
+      "text": "needs Carriers\nThe fleet's flagship: its shields and armor dwarf its hull, and four independent turrets let it fire in every direction without ever coming about. Its Mods trade the turrets for drones, tractor beams or long-range missile salvos.",
       "title": "Carrier",
       "type": "card"
     }

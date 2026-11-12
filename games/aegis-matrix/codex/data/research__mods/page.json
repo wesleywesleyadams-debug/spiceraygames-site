@@ -59,7 +59,7 @@
       "techs": [
         "Tractor Beams"
       ],
-      "text": "Each turret's beam pulls its target in.",
+      "text": "Each turret's beam drags its target in.",
       "type": "stack"
     },
     {
@@ -69,7 +69,7 @@
       "techs": [
         "Ion Lance"
       ],
-      "text": "Beam ramps up on one target; weak vs swarms.",
+      "text": "A beam that burns hotter the longer it holds one target; weak against swarms.",
       "type": "stack"
     },
     {
@@ -79,7 +79,7 @@
       "techs": [
         "Homing Missiles"
       ],
-      "text": "",
+      "text": "Volleys of homing missiles that chase down their target.",
       "type": "stack"
     },
     {
@@ -129,7 +129,7 @@
       "techs": [
         "Cluster Bombs"
       ],
-      "text": "A spread of unguided bomblets.",
+      "text": "Drops a spread of unguided bomblets over the target.",
       "type": "stack"
     }
   ],
