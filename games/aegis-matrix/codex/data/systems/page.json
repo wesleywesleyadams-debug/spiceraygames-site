@@ -5,29 +5,39 @@
       "type": "heading"
     },
     {
+      "link": "systems/0",
+      "link_folder": "systems__0",
       "src": "art_01_f_systems.png",
       "text": "One star system per match, picked in the lobby.",
       "title": "Systems",
       "type": "card"
     },
     {
+      "link": "systems/1",
+      "link_folder": "systems__1",
       "src": "img_02_asteroid_big_1.png",
       "text": "Every player starts with three belts of their own.",
       "title": "Belts",
       "type": "card"
     },
     {
+      "link": "systems/2",
+      "link_folder": "systems__2",
       "src": "img_03_star_blue.png",
       "text": "A system keeps its star, signature feature and character, but its seed reshuffles the details.",
       "title": "Every match is different",
       "type": "card"
     },
     {
+      "link": "systems/3",
+      "link_folder": "systems__3",
       "text": "Every system has a sun at its centre, ringed by a radiation zone that hurts anything inside.",
       "title": "The star",
       "type": "card"
     },
     {
+      "link": "systems/4",
+      "link_folder": "systems__4",
       "src": "art_04_radiation.png",
       "text": "Radiation around the sun hurts every ship inside it, whoever owns it.",
       "title": "Radiation",

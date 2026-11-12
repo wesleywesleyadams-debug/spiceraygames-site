@@ -1,4 +1,316 @@
 {
+  "nav": [
+    {
+      "children": [],
+      "folder": "overview",
+      "id": "overview",
+      "title": "Overview"
+    },
+    {
+      "children": [],
+      "folder": "controls",
+      "id": "controls",
+      "title": "Controls"
+    },
+    {
+      "children": [
+        {
+          "folder": "combat__layers",
+          "id": "combat/layers",
+          "title": "Defense layers"
+        },
+        {
+          "folder": "combat__classes",
+          "id": "combat/classes",
+          "title": "Classes"
+        },
+        {
+          "folder": "combat__variants",
+          "id": "combat/variants",
+          "title": "Variants"
+        },
+        {
+          "folder": "combat__mods",
+          "id": "combat/mods",
+          "title": "Weapon Mods"
+        },
+        {
+          "folder": "combat__matchups",
+          "id": "combat/matchups",
+          "title": "Matchups"
+        },
+        {
+          "folder": "combat__jobs",
+          "id": "combat/jobs",
+          "title": "Support"
+        },
+        {
+          "folder": "combat__engagement",
+          "id": "combat/engagement",
+          "title": "Stance & Modes"
+        }
+      ],
+      "folder": "combat",
+      "id": "combat",
+      "title": "Combat"
+    },
+    {
+      "children": [
+        {
+          "folder": "ships__overview",
+          "id": "ships/overview",
+          "title": "Overview"
+        },
+        {
+          "folder": "ships__marks",
+          "id": "ships/marks",
+          "title": "Marks"
+        },
+        {
+          "folder": "ships__every",
+          "id": "ships/every",
+          "title": "Every ship"
+        }
+      ],
+      "folder": "ships",
+      "id": "ships",
+      "title": "Ships"
+    },
+    {
+      "children": [
+        {
+          "folder": "research__overview",
+          "id": "research/overview",
+          "title": "Overview"
+        },
+        {
+          "folder": "research__warships",
+          "id": "research/warships",
+          "title": "Warships"
+        },
+        {
+          "folder": "research__defense",
+          "id": "research/defense",
+          "title": "Defense"
+        },
+        {
+          "folder": "research__weapons",
+          "id": "research/weapons",
+          "title": "Munitions"
+        },
+        {
+          "folder": "research__science",
+          "id": "research/science",
+          "title": "Science"
+        },
+        {
+          "folder": "research__mods",
+          "id": "research/mods",
+          "title": "Mods"
+        },
+        {
+          "folder": "research__constructs",
+          "id": "research/constructs",
+          "title": "Constructs"
+        },
+        {
+          "folder": "research__worlds",
+          "id": "research/worlds",
+          "title": "Worlds"
+        },
+        {
+          "folder": "research__logistics",
+          "id": "research/logistics",
+          "title": "Logistics"
+        }
+      ],
+      "folder": "research",
+      "id": "research",
+      "title": "Research"
+    },
+    {
+      "children": [
+        {
+          "folder": "factions__trade_federation",
+          "id": "factions/trade_federation",
+          "title": "Trade Federation"
+        },
+        {
+          "folder": "factions__hive_mind",
+          "id": "factions/hive_mind",
+          "title": "Hive Mind"
+        },
+        {
+          "folder": "factions__elder_covenant",
+          "id": "factions/elder_covenant",
+          "title": "Eldar Covenant"
+        }
+      ],
+      "folder": "factions",
+      "id": "factions",
+      "title": "Factions"
+    },
+    {
+      "children": [
+        {
+          "folder": "economy__0",
+          "id": "economy/0",
+          "title": "Harvesting"
+        },
+        {
+          "folder": "economy__1",
+          "id": "economy/1",
+          "title": "Asteroid sizes"
+        },
+        {
+          "folder": "economy__2",
+          "id": "economy/2",
+          "title": "Gas giants"
+        },
+        {
+          "folder": "economy__3",
+          "id": "economy/3",
+          "title": "Spice nebulae"
+        },
+        {
+          "folder": "economy__4",
+          "id": "economy/4",
+          "title": "Power Plant fuel"
+        },
+        {
+          "folder": "economy__5",
+          "id": "economy/5",
+          "title": "Upkeep"
+        },
+        {
+          "folder": "economy__6",
+          "id": "economy/6",
+          "title": "Brownout and Blackout"
+        },
+        {
+          "folder": "economy__7",
+          "id": "economy/7",
+          "title": "Spice cover"
+        },
+        {
+          "folder": "economy__8",
+          "id": "economy/8",
+          "title": "Net per minute"
+        }
+      ],
+      "folder": "economy",
+      "id": "economy",
+      "title": "Economy"
+    },
+    {
+      "children": [
+        {
+          "folder": "worlds__0",
+          "id": "worlds/0",
+          "title": "Planets"
+        },
+        {
+          "folder": "worlds__1",
+          "id": "worlds/1",
+          "title": "Mineral crust"
+        },
+        {
+          "folder": "worlds__2",
+          "id": "worlds/2",
+          "title": "Colonizing"
+        },
+        {
+          "folder": "worlds__3",
+          "id": "worlds/3",
+          "title": "Population"
+        },
+        {
+          "folder": "worlds__4",
+          "id": "worlds/4",
+          "title": "Buildings"
+        },
+        {
+          "folder": "worlds__5",
+          "id": "worlds/5",
+          "title": "Food"
+        },
+        {
+          "folder": "worlds__6",
+          "id": "worlds/6",
+          "title": "World defenses"
+        },
+        {
+          "folder": "worlds__7",
+          "id": "worlds/7",
+          "title": "Siege"
+        }
+      ],
+      "folder": "worlds",
+      "id": "worlds",
+      "title": "Worlds"
+    },
+    {
+      "children": [
+        {
+          "folder": "constructs__0",
+          "id": "constructs/0",
+          "title": "Constructs"
+        },
+        {
+          "folder": "constructs__1",
+          "id": "constructs/1",
+          "title": "Shipyards"
+        }
+      ],
+      "folder": "constructs",
+      "id": "constructs",
+      "title": "Constructs"
+    },
+    {
+      "children": [
+        {
+          "folder": "systems__0",
+          "id": "systems/0",
+          "title": "Systems"
+        },
+        {
+          "folder": "systems__1",
+          "id": "systems/1",
+          "title": "Belts"
+        },
+        {
+          "folder": "systems__2",
+          "id": "systems/2",
+          "title": "Every match is different"
+        },
+        {
+          "folder": "systems__3",
+          "id": "systems/3",
+          "title": "The star"
+        },
+        {
+          "folder": "systems__4",
+          "id": "systems/4",
+          "title": "Radiation"
+        }
+      ],
+      "folder": "systems",
+      "id": "systems",
+      "title": "Systems"
+    },
+    {
+      "children": [],
+      "folder": "ai",
+      "id": "ai",
+      "title": "Opponents"
+    },
+    {
+      "children": [],
+      "folder": "terms",
+      "id": "terms",
+      "title": "Terminology"
+    }
+  ],
   "pages": [
     {
       "folder": "overview",

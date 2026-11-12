@@ -13,18 +13,24 @@
       "type": "text"
     },
     {
+      "link": "factions/trade_federation",
+      "link_folder": "factions__trade_federation",
       "src": "img_01_emblem_trade_federation.png",
       "text": "Masters of credit: they build now and pay later.",
       "title": "Trade Federation",
       "type": "card"
     },
     {
+      "link": "factions/hive_mind",
+      "link_folder": "factions__hive_mind",
       "src": "img_02_emblem_hive_mind.png",
       "text": "One mind, countless bodies: a swarm that multiplies.",
       "title": "Hive Mind",
       "type": "card"
     },
     {
+      "link": "factions/elder_covenant",
+      "link_folder": "factions__elder_covenant",
       "src": "img_03_emblem_elder_covenant.png",
       "text": "What we hold, we keep: an ancient order that makes its ground a graveyard for intruders.",
       "title": "Eldar Covenant",

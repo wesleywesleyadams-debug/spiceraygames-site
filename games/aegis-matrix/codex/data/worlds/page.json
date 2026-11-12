@@ -5,48 +5,64 @@
       "type": "heading"
     },
     {
+      "link": "worlds/0",
+      "link_folder": "worlds__0",
       "src": "art_01_world_sizes.png",
       "text": "Bigger worlds hold more pops and get more building lots.",
       "title": "Planets",
       "type": "card"
     },
     {
+      "link": "worlds/1",
+      "link_folder": "worlds__1",
       "src": "img_02_bld_mine.png",
       "text": "Mines dig minerals out of a world's crust; bigger worlds hold more.",
       "title": "Mineral crust",
       "type": "card"
     },
     {
+      "link": "worlds/2",
+      "link_folder": "worlds__2",
       "src": "img_03_ship_colony.png",
       "text": "A Colony Ship settles a free, habitable world and is used up doing it.",
       "title": "Colonizing",
       "type": "card"
     },
     {
+      "link": "worlds/3",
+      "link_folder": "worlds__3",
       "src": "img_04_icon_pop.png",
       "text": "",
       "title": "Population",
       "type": "card"
     },
     {
+      "link": "worlds/4",
+      "link_folder": "worlds__4",
       "src": "img_05_bld_shield_generator.png",
       "text": "",
       "title": "Buildings",
       "type": "card"
     },
     {
+      "link": "worlds/5",
+      "link_folder": "worlds__5",
       "src": "img_06_icon_food.png",
       "text": "Every pop eats food each minute; Farms worked by pops make it.",
       "title": "Food",
       "type": "card"
     },
     {
+      "link": "worlds/6",
+      "link_folder": "worlds__6",
       "src": "img_07_bld_battery.png",
       "text": "Shield Generators and Defense Batteries protect a world from siege.",
       "title": "World defenses",
       "type": "card"
     },
     {
+      "link": "worlds/7",
+      "link_folder": "worlds__7",
       "src": "art_08_siege.png",
       "text": "Attackers break a world's shield first, then its buildings, then its pops.",
       "title": "Siege",

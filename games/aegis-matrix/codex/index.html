@@ -16,6 +16,11 @@ img{height:auto}
 #nav .sub{display:block;padding:3px 16px 3px 28px;color:var(--text);text-decoration:none;font-size:.85rem}
 #nav a:hover{color:var(--accent)}
 #nav a.on{background:#141a36;color:var(--accent)}
+#nav .sec.open{color:var(--accent)}
+#page a.card.link{display:block;text-decoration:none;color:var(--text);cursor:pointer}
+#page a.card.link:hover{border-color:var(--accent)}
+#page a.card.link h3::after{content:" →";color:var(--accent)}
+.back{display:inline-block;margin:4px 0 4px;text-decoration:none}
 #page{padding:16px 24px 64px;min-width:0}
 #page h1{color:var(--accent);text-transform:uppercase;letter-spacing:.12em;font-size:1.2rem;border-bottom:2px solid var(--line);padding-bottom:8px}
 #page h2{color:var(--warm);font-size:1rem;margin:24px 0 6px;border:0;text-transform:none;letter-spacing:0;padding:0}
@@ -72,35 +77,46 @@ menu.onclick = () => { const o = nav.classList.toggle('open'); menu.setAttribute
 
 function esc(s){ return s.replace(/[&<>"]/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c])); }
 
+let sections = [], sectionOf = {};
 async function init(){
-  const idx = await (await fetch('data/index.json')).json();
+  const idx = await (await fetch('data/index.json', {cache: 'no-cache'})).json();
   // Drop pages that are only a heading
-  const checks = await Promise.all(idx.pages.map(async p => {
-    const j = await (await fetch('data/' + p.folder + '/page.json')).json();
-    return j.blocks.filter(b => b.type !== 'heading').length ? p : null;
-  }));
-  pages = checks.filter(Boolean);
-  nav.innerHTML = pages.map(p => {
-    const top = !p.id.includes('/');
-    return `<a class="${top ? 'sec' : 'sub'}" href="#${p.id}" data-id="${p.id}">${esc(p.title)}</a>`;
-  }).join('');
+  const keep = new Set((await Promise.all(idx.pages.map(async p => {
+    const j = await (await fetch('data/' + p.folder + '/page.json', {cache: 'no-cache'})).json();
+    return j.blocks.filter(b => b.type !== 'heading').length ? p.id : null;
+  }))).filter(Boolean));
+  sections = idx.nav.filter(s => keep.has(s.id)).map(s => ({...s, children: (s.children || []).filter(c => keep.has(c.id))}));
+  pages = [];
+  for (const s of sections) { pages.push(s); sectionOf[s.id] = s; for (const c of s.children) { pages.push(c); sectionOf[c.id] = s; } }
   window.onhashchange = show;
   show();
+}
+
+function drawNav(cur){
+  const open = sectionOf[cur.id];
+  nav.innerHTML = sections.map(s => {
+    let h = `<a class="sec${s === open ? ' open' : ''}${s.id === cur.id ? ' on' : ''}" href="#${s.id}">${esc(s.title)}</a>`;
+    if (s === open) h += s.children.map(c => `<a class="sub${c.id === cur.id ? ' on' : ''}" href="#${c.id}">${esc(c.title)}</a>`).join('');
+    return h;
+  }).join('');
 }
 
 async function show(){
   const id = decodeURIComponent(location.hash.slice(1)) || pages[0].id;
   const i = Math.max(0, pages.findIndex(p => p.id === id));
   const p = pages[i];
-  const j = await (await fetch('data/' + p.folder + '/page.json')).json();
+  const j = await (await fetch('data/' + p.folder + '/page.json', {cache: 'no-cache'})).json();
   const base = 'data/' + p.folder + '/';
-  let html = '', first = true, grid = null;
+  const sec = sectionOf[p.id];
+  let html = sec && sec.id !== p.id ? `<a class="back" href="#${sec.id}">&lt; All ${esc(sec.title)}</a>` : '';
+  let first = true, grid = null;
   const GRID = {card: 'cards', stack: 'stacks', bonus: 'bonuses'};
   for (const b of j.blocks) {
     const g = GRID[b.type] || null;
     if (grid !== g) { if (grid) html += '</div>'; if (g) html += `<div class="${g}">`; grid = g; }
     if (b.type === 'card') {
-      html += `<div class="card">${b.src ? `<img src="${base + b.src}" alt="">` : ''}<h3>${esc(b.title)}</h3><p>${esc(b.text || '')}</p></div>`;
+      const inner = `${b.src ? `<img src="${base + b.src}" alt="">` : ''}<h3>${esc(b.title)}</h3><p>${esc(b.text || '')}</p>`;
+      html += b.link && sectionOf[b.link] ? `<a class="card link" href="#${b.link}">${inner}</a>` : `<div class="card">${inner}</div>`;
     } else if (b.type === 'stack') {
       html += `<div class="card stack">${b.src ? `<img src="${base + b.src}" alt="">` : ''}<div><h3>${esc(b.line)} <span class="era">${esc(b.era || '')}</span></h3><div class="tiers">${(b.techs || []).map(esc).join(' &rarr; ')}</div><p>${esc(b.text || '')}</p></div></div>`;
     } else if (b.type === 'bonus') {
@@ -117,12 +133,12 @@ async function show(){
     }
   }
   if (grid) html += '</div>';
-  if (first) html = `<h1>${esc(p.title)}</h1>` + html;
+  if (first) html = html.replace(/^(<a class="back"[^>]*>.*?<\/a>)?/, m => m + `<h1>${esc(p.title)}</h1>`);
   const prev = pages[i-1], next = pages[i+1];
   html += `<div class="next"><span>${prev ? `<a href="#${prev.id}">&larr; ${esc(prev.title)}</a>` : ''}</span><span>${next ? `<a href="#${next.id}">${esc(next.title)} &rarr;</a>` : ''}</span></div>`;
   main.innerHTML = html;
   document.title = p.title + ' – Aegis Matrix Codex';
-  nav.querySelectorAll('a').forEach(a => a.classList.toggle('on', a.dataset.id === p.id));
+  drawNav(p);
   nav.classList.remove('open'); menu.setAttribute('aria-expanded', false);
   window.scrollTo(0, 0);
 }

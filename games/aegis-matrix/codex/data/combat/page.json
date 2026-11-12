@@ -5,42 +5,56 @@
       "type": "heading"
     },
     {
+      "link": "combat/layers",
+      "link_folder": "combat__layers",
       "src": "img_01_tab_defense.png",
       "text": "Shields, armor and hull: what each layer stops and how it recovers.",
       "title": "Defense layers",
       "type": "card"
     },
     {
+      "link": "combat/classes",
+      "link_folder": "combat__classes",
       "src": "img_02_ship_cruiser.png",
       "text": "Corvettes to carriers: what each warship class is for.",
       "title": "Classes",
       "type": "card"
     },
     {
+      "link": "combat/variants",
+      "link_folder": "combat__variants",
       "src": "art_03_variants.png",
       "text": "Shipyard specialties and what each hits hardest.",
       "title": "Variants",
       "type": "card"
     },
     {
+      "link": "combat/mods",
+      "link_folder": "combat__mods",
       "src": "art_04_beams.png",
       "text": "What a Mod changes, and when to use each one.",
       "title": "Weapon Mods",
       "type": "card"
     },
     {
+      "link": "combat/matchups",
+      "link_folder": "combat__matchups",
       "src": "img_05_tab_weapons.png",
       "text": "Which ships beat which, from real test fights.",
       "title": "Matchups",
       "type": "card"
     },
     {
+      "link": "combat/jobs",
+      "link_folder": "combat__jobs",
       "src": "img_06_ship_tender.png",
       "text": "Scouts, tenders and sail arrays that help a fight.",
       "title": "Support",
       "type": "card"
     },
     {
+      "link": "combat/engagement",
+      "link_folder": "combat__engagement",
       "src": "img_07_tab_tactics.png",
       "text": "Stances and modes: how your ships choose their fights.",
       "title": "Stance & Modes",

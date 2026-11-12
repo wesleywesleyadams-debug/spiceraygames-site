@@ -5,12 +5,16 @@
       "type": "heading"
     },
     {
+      "link": "constructs/0",
+      "link_folder": "constructs__0",
       "src": "img_01_sprite.png",
       "text": "Constructs are stations you build.",
       "title": "Constructs",
       "type": "card"
     },
     {
+      "link": "constructs/1",
+      "link_folder": "constructs__1",
       "src": "art_02_shipyard.png",
       "text": "A Constructor builds one with no research needed.",
       "title": "Shipyards",

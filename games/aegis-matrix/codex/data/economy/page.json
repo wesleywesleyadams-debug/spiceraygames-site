@@ -5,54 +5,72 @@
       "type": "heading"
     },
     {
+      "link": "economy/0",
+      "link_folder": "economy__0",
       "src": "img_01_ship_miner.png",
       "text": "Harvesters fill their holds at rocks, gas giants and nebulae, then haul the load home.",
       "title": "Harvesting",
       "type": "card"
     },
     {
+      "link": "economy/1",
+      "link_folder": "economy__1",
       "src": "img_02_asteroid_0.png",
       "text": "A small rock holds the same amount whether it is minerals or spice, and so does a large one, on every map.",
       "title": "Asteroid sizes",
       "type": "card"
     },
     {
+      "link": "economy/2",
+      "link_folder": "economy__2",
       "src": "art_03_blast.png",
       "text": "",
       "title": "Gas giants",
       "type": "card"
     },
     {
+      "link": "economy/3",
+      "link_folder": "economy__3",
       "src": "img_04_ship_skimmer.png",
       "text": "A spice nebula is made of glowing pixels.",
       "title": "Spice nebulae",
       "type": "card"
     },
     {
+      "link": "economy/4",
+      "link_folder": "economy__4",
       "src": "img_05_bld_generator.png",
       "text": "A working Power Plant burns minerals instead of energy, so it never shuts down.",
       "title": "Power Plant fuel",
       "type": "card"
     },
     {
+      "link": "economy/5",
+      "link_folder": "economy__5",
       "src": "img_06_icon_upkeep.png",
       "text": "Every ship, construct and working building costs energy each minute.",
       "title": "Upkeep",
       "type": "card"
     },
     {
+      "link": "economy/6",
+      "link_folder": "economy__6",
       "src": "img_07_icon_energy.png",
       "text": "Run short of energy and things shut down; run out of everything and you're eliminated.",
       "title": "Brownout and Blackout",
       "type": "card"
     },
     {
+      "link": "economy/7",
+      "link_folder": "economy__7",
       "src": "img_08_icon_spice.png",
       "text": "Spice pays any food, mineral or energy shortfall, unless you switch it off.",
       "title": "Spice cover",
       "type": "card"
     },
     {
+      "link": "economy/8",
+      "link_folder": "economy__8",
       "src": "img_09_icon_minerals.png",
       "text": "The resource bar shows each stockpile and its net change per minute (green rising, red falling).",
       "title": "Net per minute",

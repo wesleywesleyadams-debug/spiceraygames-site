@@ -5,54 +5,72 @@
       "type": "heading"
     },
     {
+      "link": "research/overview",
+      "link_folder": "research__overview",
       "src": "img_01_emblem_generic.png",
       "text": "How the research grid works: rows, columns, tiers and prices.",
       "title": "Overview",
       "type": "card"
     },
     {
+      "link": "research/warships",
+      "link_folder": "research__warships",
       "src": "img_02_tab_warships.png",
       "text": "Unlock each warship class and raise its mark, Mk I through Mk IV. Every class is its own line.",
       "title": "Warships",
       "type": "card"
     },
     {
+      "link": "research/defense",
+      "link_folder": "research__defense",
       "src": "img_03_tab_defense.png",
       "text": "Ship toughness: the three damage layers (shields, armor, hull), plus deflectors, which soak a slice of every hit first. Pick a line and commit.",
       "title": "Defense",
       "type": "card"
     },
     {
+      "link": "research/weapons",
+      "link_folder": "research__weapons",
       "src": "img_04_tab_weapons.png",
       "text": "Weapon output: damage, rate of fire, penetration, and shot speed with range.",
       "title": "Munitions",
       "type": "card"
     },
     {
+      "link": "research/science",
+      "link_folder": "research__science",
       "src": "img_05_tab_science.png",
       "text": "Faster research and other research upgrades.",
       "title": "Science",
       "type": "card"
     },
     {
+      "link": "research/mods",
+      "link_folder": "research__mods",
       "src": "img_06_tab_mods.png",
       "text": "Weapon Mods: research each once, then pick it when a Shipyard builds a warship.",
       "title": "Mods",
       "type": "card"
     },
     {
+      "link": "research/constructs",
+      "link_folder": "research__constructs",
       "src": "img_07_tab_constructs.png",
       "text": "Starbases, Shipyards and the other things you build rather than fly.",
       "title": "Constructs",
       "type": "card"
     },
     {
+      "link": "research/worlds",
+      "link_folder": "research__worlds",
       "src": "img_08_tab_worlds.png",
       "text": "Running your colonies: food, growth, population, new colonies and industry.",
       "title": "Worlds",
       "type": "card"
     },
     {
+      "link": "research/logistics",
+      "link_folder": "research__logistics",
       "src": "img_09_tab_logistics.png",
       "text": "Hauling, skimming and fleet speed: how fast cargo and ships get there.",
       "title": "Logistics",

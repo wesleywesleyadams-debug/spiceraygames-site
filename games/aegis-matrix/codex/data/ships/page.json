@@ -5,18 +5,24 @@
       "type": "heading"
     },
     {
+      "link": "ships/overview",
+      "link_folder": "ships__overview",
       "src": "img_01_ship_destroyer.png",
       "text": "Class, mark and variant: the three traits of every warship.",
       "title": "Overview",
       "type": "card"
     },
     {
+      "link": "ships/marks",
+      "link_folder": "ships__marks",
       "src": "art_02_marks_wide.png",
       "text": "Mk I to Mk IV, and what each mark adds.",
       "title": "Marks",
       "type": "card"
     },
     {
+      "link": "ships/every",
+      "link_folder": "ships__every",
       "src": "img_03_ship_carrier.png",
       "text": "",
       "title": "Every ship",
