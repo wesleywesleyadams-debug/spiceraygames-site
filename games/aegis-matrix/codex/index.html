@@ -37,6 +37,10 @@ img{height:auto}
 #page .card p{margin:0;font-size:.85rem}
 #page .stack{display:flex;gap:12px;align-items:flex-start}
 #page .stack img{margin:0;width:48px;height:48px;flex:none}
+.terms{display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:8px;margin:12px 0}
+.term{background:var(--panel);border:2px solid var(--line);padding:8px 12px}
+.term dt{color:var(--warm);font-weight:700;font-size:.9rem}
+.term dd{margin:2px 0 0;font-size:.85rem}
 .era{color:var(--dim);font-size:.75rem;text-transform:uppercase;margin-left:6px}
 .tiers{color:var(--accent);font-size:.8rem;margin-bottom:4px}
 .next{margin-top:32px;display:flex;justify-content:space-between;gap:12px;border-top:2px solid var(--line);padding-top:12px}
@@ -110,7 +114,7 @@ async function show(){
   const sec = sectionOf[p.id];
   let html = sec && sec.id !== p.id ? `<a class="back" href="#${sec.id}">&lt; All ${esc(sec.title)}</a>` : '';
   let first = true, grid = null;
-  const GRID = {card: 'cards', stack: 'stacks', bonus: 'bonuses'};
+  const GRID = {card: 'cards', stack: 'stacks', bonus: 'bonuses', term: 'terms'};
   for (const b of j.blocks) {
     const g = GRID[b.type] || null;
     if (grid !== g) { if (grid) html += '</div>'; if (g) html += `<div class="${g}">`; grid = g; }
@@ -119,6 +123,8 @@ async function show(){
       html += b.link && sectionOf[b.link] ? `<a class="card link" href="#${b.link}">${inner}</a>` : `<div class="card">${inner}</div>`;
     } else if (b.type === 'stack') {
       html += `<div class="card stack">${b.src ? `<img src="${base + b.src}" alt="">` : ''}<div><h3>${esc(b.line)} <span class="era">${esc(b.era || '')}</span></h3><div class="tiers">${(b.techs || []).map(esc).join(' &rarr; ')}</div><p>${esc(b.text || '')}</p></div></div>`;
+    } else if (b.type === 'term') {
+      html += `<div class="term"><dt>${esc(b.term)}</dt><dd>${esc(b.text || '')}</dd></div>`;
     } else if (b.type === 'bonus') {
       html += `<div class="card bonus"><h3>${esc(b.slot)}</h3><p>${esc(b.text)}</p></div>`;
     } else if (b.type === 'heading') {

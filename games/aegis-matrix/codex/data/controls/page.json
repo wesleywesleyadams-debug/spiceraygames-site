@@ -27,6 +27,106 @@
     {
       "text": "Everything else",
       "type": "heading"
+    },
+    {
+      "term": "Left click / drag",
+      "text": "Select / box select",
+      "type": "term"
+    },
+    {
+      "term": "Shift + click / drag",
+      "text": "Add to the selection",
+      "type": "term"
+    },
+    {
+      "term": "Double-click",
+      "text": "Select every ship of a class on screen",
+      "type": "term"
+    },
+    {
+      "term": "Right click",
+      "text": "Move, attack, mine, colonize",
+      "type": "term"
+    },
+    {
+      "term": "Ctrl + right click",
+      "text": "Attack-move",
+      "type": "term"
+    },
+    {
+      "term": "Shift + right click",
+      "text": "Queue an order after the current one",
+      "type": "term"
+    },
+    {
+      "term": "Right click with a starbase selected",
+      "text": "Set a rally point for new ships",
+      "type": "term"
+    },
+    {
+      "term": "Arrow keys, screen edge, middle-drag",
+      "text": "Pan the camera",
+      "type": "term"
+    },
+    {
+      "term": "Mouse wheel",
+      "text": "Zoom",
+      "type": "term"
+    },
+    {
+      "term": "T",
+      "text": "Stop",
+      "type": "term"
+    },
+    {
+      "term": "Tab",
+      "text": "Select all warships",
+      "type": "term"
+    },
+    {
+      "term": "` (backtick)",
+      "text": "Select all warships and support ships",
+      "type": "term"
+    },
+    {
+      "term": "B",
+      "text": "Go to your starbase, then cycle through the others",
+      "type": "term"
+    },
+    {
+      "term": "Space",
+      "text": "Next world of yours",
+      "type": "term"
+    },
+    {
+      "term": "F",
+      "text": "Build on the focused world",
+      "type": "term"
+    },
+    {
+      "term": "R",
+      "text": "Research",
+      "type": "term"
+    },
+    {
+      "term": "P, or the Pause button",
+      "text": "Pause and resume",
+      "type": "term"
+    },
+    {
+      "term": "-  /  =  or Numpad -  /  +  (Backspace resets)",
+      "text": "Game speed",
+      "type": "term"
+    },
+    {
+      "term": "Delete  /  Shift + Delete",
+      "text": "Self-destruct one selected unit / all selected (starbases ask first)",
+      "type": "term"
+    },
+    {
+      "term": "Esc",
+      "text": "Clear the selection; with nothing selected, the menu",
+      "type": "term"
     }
   ],
   "id": "controls",

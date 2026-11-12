@@ -25,7 +25,7 @@
       "type": "text"
     },
     {
-      "text": "Defensive  As Aggressive.",
+      "text": "Defensive  As Aggressive, but on its own never strays far from where it was parked.",
       "type": "text"
     },
     {
@@ -33,7 +33,7 @@
       "type": "text"
     },
     {
-      "text": "Attack orders ignore the leash.",
+      "text": "A Defensive ship never chases past its leash, whatever its Mode. Attack orders ignore the leash.",
       "type": "text"
     },
     {
@@ -53,7 +53,7 @@
       "type": "text"
     },
     {
-      "text": "It closes again only once the target leaves its reach. New ships start here.",
+      "text": "Standard  Engages at max range and holds: moves in until every gun reaches the target, then stops. It doesn't chase; it closes again only once the target leaves its reach. New ships start here.",
       "type": "text"
     },
     {

@@ -3,6 +3,111 @@
     {
       "text": "Terminology",
       "type": "heading"
+    },
+    {
+      "term": "System",
+      "text": "The map: one star (or two), its planets, belts and features. Called a system, not a map.",
+      "type": "term"
+    },
+    {
+      "term": "Starbase",
+      "text": "Your main station. It builds economy and support ships, takes in cargo and defends itself. Losing every one with no Constructor left to build another loses the match; losing your worlds alone does not.",
+      "type": "term"
+    },
+    {
+      "term": "Shipyard",
+      "text": "Constructor-built station that builds warships, each with the variant and researched Mod you pick.",
+      "type": "term"
+    },
+    {
+      "term": "Class",
+      "text": "The hull a warship was built as, and keeps for life: Corvette, Destroyer, Cruiser or Carrier. You read it off the silhouette.",
+      "type": "term"
+    },
+    {
+      "term": "Mark",
+      "text": "How refined a class is, Mk I to Mk IV, bought on the Warships research tab. It applies to every ship of that class at once.",
+      "type": "term"
+    },
+    {
+      "term": "Generalist",
+      "text": "A warship built with no variant: full damage to every defense layer.",
+      "type": "term"
+    },
+    {
+      "term": "Specialist / variant",
+      "text": "A warship built as a Pulsar, Breacher, Ravager, Disruptor or Inhibitor (Variants research); it stays one for life.",
+      "type": "term"
+    },
+    {
+      "term": "Layers",
+      "text": "Shields, armor and hull, in the order damage takes them.",
+      "type": "term"
+    },
+    {
+      "term": "Radiation",
+      "text": "Environmental damage inside a star's radiation zone (worst near the star) or a spice nebula (low, constant). Hits shields, armor and hull in turn and stops shield regeneration.",
+      "type": "term"
+    },
+    {
+      "term": "Pierce",
+      "text": "Skipping a layer entirely: Disruptor skips shields and armor. (Inhibitor does not pierce: its EMP switches shields off.)",
+      "type": "term"
+    },
+    {
+      "term": "Ability",
+      "text": "What a ship does beyond shooting: Deep Sensors, Radiation Sail, Field Repair.",
+      "type": "term"
+    },
+    {
+      "term": "Mod",
+      "text": "A researched weapon option a Shipyard builds into a warship. Nothing is fitted after a ship is built.",
+      "type": "term"
+    },
+    {
+      "term": "Blast",
+      "text": "The area an exploding shot hits: every enemy inside takes its full damage, the target included.",
+      "type": "term"
+    },
+    {
+      "term": "Mega Shield",
+      "text": "Touching Radiation Sail Array bubbles of yours merged into one. Its points are their sum, every hit is shared among them by charge. If they drift apart, each keeps its share as its own bubble.",
+      "type": "term"
+    },
+    {
+      "term": "Fog of war",
+      "text": "What your sensors can see. Unexplored is black, explored-but-unseen is dimmed and out of date.",
+      "type": "term"
+    },
+    {
+      "term": "Upkeep",
+      "text": "Energy per minute for ships, constructs and buildings, rising as your fleet grows.",
+      "type": "term"
+    },
+    {
+      "term": "Spice",
+      "text": "The rare resource. Pays for research, and automatically covers a shortfall in anything else.",
+      "type": "term"
+    },
+    {
+      "term": "Bombard",
+      "text": "Firing on an enemy planet to kill its population; at zero pops its buildings are destroyed and it goes neutral.",
+      "type": "term"
+    },
+    {
+      "term": "Cancel construct",
+      "text": "Stopping a construct mid-build: what was spent is lost, nothing more is charged, and the Constructor comes back at the site.",
+      "type": "term"
+    },
+    {
+      "term": "Bar counts",
+      "text": "Fleet: warships (corvettes, destroyers, cruisers, carriers) and support ships (Scouts, Repair Tenders, Radiation Sail Arrays). Harvesters: Mining Barges and Gas Skimmers. Ships: every ship you own. Constructs: every station you own (starbases, Shipyards, Mining Stations, Frontier Outposts, Warp Gates, Field Wall Generators), built or under construction.",
+      "type": "term"
+    },
+    {
+      "term": "Colonize",
+      "text": "Settling a free world with a Colony Ship, which is used up in the process.",
+      "type": "term"
     }
   ],
   "id": "terms",
