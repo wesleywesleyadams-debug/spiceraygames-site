@@ -18,18 +18,18 @@
       "type": "text"
     },
     {
-      "text": "When to use each variant",
+      "text": "What each variant hunts",
       "type": "heading"
     },
     {
       "src": "art_02_use_generalist.png",
-      "text": "No weak matchup: the safe pick when you don't yet know the enemy. Against starbases any variant does better, and a Disruptor does best.",
+      "text": "No weak matchup: never far behind against any target. Against starbases every variant does better, and a Disruptor does best.",
       "title": "Generalist",
       "type": "card"
     },
     {
       "src": "art_03_use_pulsar.png",
-      "text": "Fleets heavy on cruisers and carriers when you can't be sure of the mix: it is never far worse than a generalist against any warship.",
+      "text": "Fleets heavy on cruisers and carriers. Against any warship it is never far worse than a generalist.",
       "title": "Pulsar",
       "type": "card"
     },
@@ -47,7 +47,7 @@
     },
     {
       "src": "art_06_use_disruptor.png",
-      "text": "Carriers and starbases: the best pick against both. Weak against corvettes, where it needs more damage than a generalist.",
+      "text": "Carriers and starbases: strongest against both. Weak against corvettes, where it needs more damage than a generalist.",
       "title": "Disruptor",
       "type": "card"
     },

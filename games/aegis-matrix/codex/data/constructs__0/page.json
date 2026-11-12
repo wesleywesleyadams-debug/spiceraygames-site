@@ -14,7 +14,7 @@
     },
     {
       "src": "img_01_sprite.png",
-      "text": "Builds economy and support ships (warships come from a Shipyard), takes in cargo and defends itself, but makes no resources. Lose every starbase with no Constructor left to build another and you lose; losing your worlds alone does not. Keep it clear of nearly drained gas giants.",
+      "text": "Builds economy and support ships (warships come from a Shipyard), takes in cargo and defends itself, but makes no resources. Lose every starbase with no Constructor left to build another and you lose; losing your worlds alone does not. A gas giant blowing up nearby hits it like anything else.",
       "title": "Starbase",
       "type": "card"
     },
@@ -26,7 +26,7 @@
     },
     {
       "src": "img_03_ship_mining_station.png",
-      "text": "A forward drop-off: harvesters unload here instead of flying home, so a station beside a far belt or nebula shortens every trip. Unarmed: guard it.",
+      "text": "A forward drop-off: harvesters unload here instead of flying home, so a station beside a far belt or nebula shortens every trip. It is unarmed.",
       "title": "Mining Station",
       "type": "card"
     },

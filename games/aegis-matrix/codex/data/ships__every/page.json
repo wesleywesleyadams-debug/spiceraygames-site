@@ -22,7 +22,7 @@
     },
     {
       "src": "img_03_ship_colony.png",
-      "text": "Carries the first settlers to a free world and is used up founding the colony.",
+      "text": "Carries the first settlers to a free world and is used up founding the colony. Alone, a colony ship is an easy kill.",
       "title": "Colony Ship",
       "type": "card"
     },
@@ -64,7 +64,7 @@
     },
     {
       "src": "img_10_sprite.png",
-      "text": "needs Cruisers\nHeavy shields and three laser turrets that outrange everything smaller. It is slow to turn, so anything that stays off its nose can punish it: give it an escort.",
+      "text": "needs Cruisers\nHeavy shields and three laser turrets that outrange everything smaller. It is slow to turn, so anything that stays off its nose can punish it.",
       "title": "Cruiser",
       "type": "card"
     },
