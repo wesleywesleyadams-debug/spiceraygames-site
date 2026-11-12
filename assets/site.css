@@ -1,0 +1,60 @@
+@font-face{font-family:"JBM";src:url(/assets/JetBrainsMono.ttf) format("truetype");font-display:swap}
+:root{--bg:#080912;--panel:#0c0e1f;--line:#2b3a6b;--accent:#4fb4ff;--text:#c3cde4;--dim:#6a7596;--warm:#f2a65a}
+*{box-sizing:border-box}
+html,body{margin:0;background:var(--bg);color:var(--text);font:16px/1.6 "JBM",ui-monospace,monospace}
+img{image-rendering:pixelated;image-rendering:crisp-edges;max-width:100%}
+a{color:var(--accent)}
+.wrap{max-width:960px;margin:0 auto;padding:0 16px}
+
+/* Site header */
+header.top{display:flex;justify-content:space-between;align-items:center;padding:16px;max-width:960px;margin:0 auto}
+header.top .studio{font-weight:700;letter-spacing:.15em;text-transform:uppercase;color:var(--warm);text-decoration:none}
+header.top nav a{margin-left:16px;text-decoration:none;color:var(--text)}
+header.top nav a:hover,header.top nav a.on{color:var(--accent)}
+
+/* Game sub-tabs */
+.tabs{border-top:2px solid var(--line);border-bottom:2px solid var(--line);background:var(--panel)}
+.tabs .wrap{display:flex;align-items:center;gap:4px;flex-wrap:wrap}
+.tabs .game{color:var(--warm);text-transform:uppercase;letter-spacing:.12em;font-weight:700;margin-right:16px;padding:8px 0}
+.tabs a.tab{padding:8px 14px;text-decoration:none;color:var(--text);text-transform:uppercase;letter-spacing:.08em;font-size:.85rem;border-bottom:2px solid transparent;margin-bottom:-2px}
+.tabs a.tab:hover{color:var(--accent)}
+.tabs a.tab.on{color:var(--accent);border-bottom-color:var(--accent)}
+
+/* Hero */
+.hero{position:relative;border-bottom:2px solid var(--line);background:#000 url(/assets/title_bg.png) center/cover no-repeat;image-rendering:pixelated;min-height:62vh;display:flex;align-items:center;justify-content:center;text-align:center}
+.hero.short{min-height:44vh}
+.hero.lined{border-top:2px solid var(--line)}
+.hero::after{content:"";position:absolute;inset:0;background:linear-gradient(transparent 55%,var(--bg))}
+.hero-inner{position:relative;z-index:1;padding:24px 16px}
+.hero .logo{width:min(640px,90vw)}
+.hero h1{margin:0;font-size:clamp(2rem,7vw,3.6rem);letter-spacing:.18em;text-transform:uppercase;color:var(--warm);text-shadow:0 4px 0 #000}
+.tag{font-size:1.05rem;margin:12px auto 20px;display:inline-block;padding:6px 12px;background:rgba(8,9,18,.8);border:2px solid var(--line)}
+.btn{display:inline-block;padding:10px 18px;border:2px solid var(--accent);background:var(--panel);color:var(--accent);text-decoration:none;text-transform:uppercase;letter-spacing:.1em;font-size:.85rem}
+.btn[aria-disabled=true]{border-color:var(--dim);color:var(--dim);cursor:default}
+
+section{padding:48px 0}
+h2{color:var(--accent);text-transform:uppercase;letter-spacing:.15em;font-size:1.1rem;border-bottom:2px solid var(--line);padding-bottom:8px}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:16px}
+.card{background:var(--panel);border:2px solid var(--line);padding:16px}
+.card h3{margin:0 0 6px;font-size:1rem;color:var(--warm)}
+.card p{margin:0;color:var(--text);font-size:.9rem}
+
+/* Game card (Games list, homepage) */
+a.gamecard{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1fr);gap:20px;align-items:center;text-decoration:none;color:var(--text);background:var(--panel);border:2px solid var(--line);padding:20px}
+a.gamecard:hover{border-color:var(--accent)}
+a.gamecard .shot{background:#000 url(/assets/title_bg.png) center/cover;aspect-ratio:16/9;display:flex;align-items:center;justify-content:center;border:2px solid var(--line)}
+a.gamecard .shot img{width:80%}
+a.gamecard h3{margin:0 0 6px;color:var(--warm);font-size:1.1rem}
+a.gamecard .more{display:inline-block;margin-top:12px;color:var(--accent)}
+
+.fleet{display:flex;justify-content:center;align-items:center;gap:32px;flex-wrap:wrap;margin:32px 0 0}
+.fleet img:nth-child(1){width:104px}.fleet img:nth-child(2){width:296px}.fleet img:nth-child(3){width:476px}
+
+footer{border-top:2px solid var(--line);padding:24px 16px;text-align:center;color:var(--dim);font-size:.8rem}
+footer p{margin:4px 0}
+
+@media (max-width:600px){
+ header.top nav a{margin-left:12px;font-size:.9rem}
+ .fleet img:nth-child(3){width:100%}
+ a.gamecard{grid-template-columns:1fr}
+}

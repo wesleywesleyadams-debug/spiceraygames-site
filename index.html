@@ -4,82 +4,39 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>Spiceray Games</title>
-<meta name="description" content="Spiceray Games is an independent studio making Aegis Matrix, a pixel-art space RTS.">
-<style>
-@font-face{font-family:"JBM";src:url(assets/JetBrainsMono.ttf) format("truetype");font-display:swap}
-:root{--bg:#080912;--panel:#0c0e1f;--line:#2b3a6b;--accent:#4fb4ff;--text:#c3cde4;--dim:#6a7596;--warm:#f2a65a}
-*{box-sizing:border-box}
-html,body{margin:0;background:var(--bg);color:var(--text);font:16px/1.6 "JBM",ui-monospace,monospace}
-img{image-rendering:pixelated;image-rendering:crisp-edges;max-width:100%}
-a{color:var(--accent)}
-.wrap{max-width:960px;margin:0 auto;padding:0 16px}
-header.top{display:flex;justify-content:space-between;align-items:center;padding:16px;max-width:960px;margin:0 auto}
-.studio{font-weight:700;letter-spacing:.15em;text-transform:uppercase;color:var(--warm)}
-nav a{margin-left:16px;text-decoration:none;color:var(--text)}
-nav a:hover{color:var(--accent)}
-.hero{position:relative;border-top:2px solid var(--line);border-bottom:2px solid var(--line);background:#000 url(assets/title_bg.png) center/cover no-repeat;image-rendering:pixelated;min-height:62vh;display:flex;align-items:center;justify-content:center;text-align:center}
-.hero::after{content:"";position:absolute;inset:0;background:linear-gradient(transparent 55%,var(--bg))}
-.hero-inner{position:relative;z-index:1;padding:24px 16px}
-.hero .logo{width:min(640px,90vw)}
-.tag{font-size:1.1rem;margin:8px auto 20px;display:inline-block;padding:6px 12px;background:rgba(8,9,18,.8);border:2px solid var(--line)}
-.btn{display:inline-block;padding:10px 18px;border:2px solid var(--accent);background:var(--panel);color:var(--accent);text-decoration:none;text-transform:uppercase;letter-spacing:.1em;font-size:.85rem}
-.btn[aria-disabled=true]{border-color:var(--dim);color:var(--dim);cursor:default}
-section{padding:56px 0}
-h2{color:var(--accent);text-transform:uppercase;letter-spacing:.15em;font-size:1.1rem;border-bottom:2px solid var(--line);padding-bottom:8px}
-.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:16px}
-.card{background:var(--panel);border:2px solid var(--line);padding:16px}
-.card h3{margin:0 0 6px;font-size:1rem;color:var(--warm)}
-.card p{margin:0;color:var(--text);font-size:.9rem}
-.fleet{display:flex;justify-content:center;align-items:center;gap:32px;flex-wrap:wrap;margin:32px 0 0}
-.fleet img:nth-child(1){width:104px}.fleet img:nth-child(2){width:296px}.fleet img:nth-child(3){width:476px}
-footer{border-top:2px solid var(--line);padding:24px 16px;text-align:center;color:var(--dim);font-size:.8rem}
-@media (max-width:600px){nav a{margin-left:10px;font-size:.85rem}.fleet img:nth-child(3){width:100%}}
-</style>
+<meta name="description" content="Spiceray Games is an independent studio making pixel-art strategy games.">
+<link rel="stylesheet" href="/assets/site.css">
 </head>
 <body>
 <header class="top">
-  <span class="studio">Spiceray Games</span>
-  <nav><a href="#game">Game</a><a href="codex/">Codex</a><a href="#studio">Studio</a></nav>
+  <a class="studio" href="/">Spiceray Games</a>
+  <nav><a href="/games/">Games</a><a href="/studio/">Studio</a></nav>
 </header>
 
-<div class="hero">
+<div class="hero short lined">
   <div class="hero-inner">
-    <img class="logo" src="assets/logo_aegis_matrix.png" alt="Aegis Matrix">
-    <p class="tag">A pixel-art space RTS. Build, research, and command your fleet across the stars.</p>
-    <!-- Swap for the Steam link once the store page is live -->
-    <a class="btn" aria-disabled="true">Steam page coming soon</a>
+    <h1>Spiceray Games</h1>
+    <p class="tag">An independent studio making pixel-art strategy games.</p>
   </div>
 </div>
 
 <main class="wrap">
-  <section id="game">
-    <h2>Aegis Matrix&#8482;</h2>
-    <p>Lead one of several distinct factions in real-time battles for star systems. Each faction plays differently, with its own technologies and strengths. Expand across planets, mine resources, research technology, and fight fleets that adapt to how you play.</p>
-    <div class="grid">
-      <div class="card"><h3>Distinct factions</h3><p>The Trade Federation, the Hive Mind and the Eldar Covenant, each with its own tech tree and bonuses.</p></div>
-      <div class="card"><h3>Deep tech</h3><p>A tech grid of Basic, Advanced and Experimental upgrades that change how your ships fight.</p></div>
-      <div class="card"><h3>Real fleet battles</h3><p>Lasers, rail cannons, drones, missiles and tractor beams, with every shot simulated.</p></div>
-      <div class="card"><h3>Challenging AI</h3><p>Face two kinds of opponent: AI and NAI, alone or in teams.</p></div>
-    </div>
-    <div class="fleet">
-      <img src="assets/ship_corvette.png" alt="Corvette">
-      <img src="assets/ship_cruiser.png" alt="Cruiser">
-      <img src="assets/ship_carrier.png" alt="Carrier">
-    </div>
-  </section>
-
-  <section id="studio">
-    <h2>The studio</h2>
-    <p>Spiceray Games is an independent studio. Aegis Matrix is its first game, built in the Godot engine. Gameplay videos and streams are welcome, including monetised ones.</p>
-    <p>Press and media: <a href="mailto:press@spiceraygames.com">press@spiceraygames.com</a></p>
+  <section>
+    <h2>Our games</h2>
+<a class="gamecard" href="/games/aegis-matrix/">
+  <div class="shot"><img src="/assets/logo_aegis_matrix.png" alt="Aegis Matrix"></div>
+  <div>
+    <h3>Aegis Matrix&#8482;</h3>
+    <p>A pixel-art space RTS. Lead one of three distinct factions, research a deep tech grid, and command fleets in real-time battles for star systems.</p>
+    <span class="more">View game &rarr;</span>
+  </div>
+</a>
   </section>
 </main>
-
 <footer>
-  <!-- OWNER: swap this one line once the LLC owns the IP (Legal will confirm) -->
   <p>Contact: <a href="mailto:hello@spiceraygames.com">hello@spiceraygames.com</a></p>
   <p>&copy; 2026 Wesley Adams. All rights reserved.</p>
-  <p>Font: JetBrains Mono (<a href="assets/JetBrainsMono-OFL.txt">SIL OFL 1.1</a>).</p>
+  <p>Font: JetBrains Mono (<a href="/assets/JetBrainsMono-OFL.txt">SIL OFL 1.1</a>).</p>
 </footer>
 </body>
 </html>
