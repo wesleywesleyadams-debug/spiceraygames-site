@@ -8,7 +8,7 @@ from pathlib import Path
 ROOT = Path(__file__).resolve().parent.parent
 
 # OWNER: swap this one line once the LLC owns the IP (Legal will confirm).
-OWNER = "Wesley Adams"
+OWNER = "Spiceray Games LLC"
 
 
 def head(title, desc):
