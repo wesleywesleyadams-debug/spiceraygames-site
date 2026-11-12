@@ -9,19 +9,19 @@
       "type": "text"
     },
     {
-      "text": "Each warship also has a Stance (three buttons under Mode): whether, and how far, it chases enemies on its own.",
+      "text": "Each warship also has a Stance (the three buttons under Mode): whether, and how far, it chases enemies on its own.",
       "type": "text"
     },
     {
-      "text": "Mode shapes the fight inside that. Your orders always win.",
+      "text": "Its Mode shapes the fight within that, and your orders always win.",
       "type": "text"
     },
     {
-      "text": "A small square beside the Mode dot marks a non-Aggressive stance.",
+      "text": "A small square beside the Mode dot marks any stance other than Aggressive.",
       "type": "text"
     },
     {
-      "text": "Aggressive  Chases any enemy near its weapon range while it can see it, then returns. Every new and AI ship uses it; balance is tuned for it.",
+      "text": "Aggressive  Chases any enemy near its weapon range for as long as it can see it, then returns. Every new ship, and every AI ship, starts here; the game is balanced around it.",
       "type": "text"
     },
     {
@@ -29,7 +29,7 @@
       "type": "text"
     },
     {
-      "text": "Stand Ground  Holds its spot, turning to fire at anything in range: no closing, kiting or dodging. Move and attack orders still work; it then holds the new spot.",
+      "text": "Stand Ground  Holds its spot and turns to fire at anything in range: no closing, kiting or dodging. Move and attack orders still work, and it holds wherever they leave it.",
       "type": "text"
     },
     {
@@ -45,11 +45,11 @@
       "type": "text"
     },
     {
-      "text": "Each warship has a Mode, set with the buttons in its panel, that shapes how it fights once engaged. Move orders go exactly where sent.",
+      "text": "Each warship has a Mode, set with the buttons in its panel, that shapes how it fights once engaged.",
       "type": "text"
     },
     {
-      "text": "A colored dot under the chevrons marks a non-Standard Mode.",
+      "text": "Move orders still go exactly where you send them. A colored dot under the chevrons marks any Mode other than Standard.",
       "type": "text"
     },
     {

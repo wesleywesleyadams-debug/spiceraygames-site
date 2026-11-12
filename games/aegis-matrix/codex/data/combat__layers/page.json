@@ -22,7 +22,7 @@
       "type": "text"
     },
     {
-      "text": "Hull doesn't regenerate either (research or faction bonuses can add that); a Repair Tender heals it, hull first, then armor.",
+      "text": "Hull doesn't regrow either, unless research or a faction bonus adds that; a Repair Tender mends it, hull first, then armor.",
       "type": "text"
     },
     {
@@ -35,7 +35,7 @@
       "type": "text"
     },
     {
-      "text": "Research can raise every layer, and add screens that cut a share of each hit: see Research > Protection.",
+      "text": "Research can thicken every layer and add deflectors that turn aside part of each hit: see Research > Defense.",
       "type": "text"
     }
   ],

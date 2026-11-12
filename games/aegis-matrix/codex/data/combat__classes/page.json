@@ -1,7 +1,7 @@
 {
   "blocks": [
     {
-      "text": "Generalists",
+      "text": "Classes",
       "type": "heading"
     },
     {
@@ -9,7 +9,7 @@
       "type": "text"
     },
     {
-      "text": "Each class leans on a different layer: corvettes on hull, destroyers on armor, cruisers and carriers on shields, starbases on armor. That gives specialists a target.",
+      "text": "Each class leans on a different layer: corvettes on hull, destroyers and starbases on armor, cruisers and carriers on shields. Know which is which, and a specialist knows its prey.",
       "type": "text"
     },
     {

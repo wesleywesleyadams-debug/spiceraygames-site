@@ -5,7 +5,7 @@
       "type": "heading"
     },
     {
-      "text": "Specialist variants share their generalist's hull; they cost a fee per gun more and change only its damage (see Combat > Variants).",
+      "text": "A specialist shares its generalist's hull: it costs a fee per gun more and changes only the damage it deals (see Combat > Variants).",
       "type": "text"
     },
     {

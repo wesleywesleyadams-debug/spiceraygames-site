@@ -14,43 +14,47 @@
       "type": "image"
     },
     {
-      "text": "Upkeep is paid from the energy stockpile. What can't be paid shuts down. Run out of energy, minerals and spice all at once and you are out (Terminal Blackout).",
+      "text": "Upkeep is paid from the energy stockpile, and whatever can't be paid shuts down. Run out of energy, minerals and spice all at once and you are out (Terminal Blackout).",
       "type": "text"
     },
     {
-      "text": "Eliminated: everything you own stays where it is but nobody controls it any more. Your ships stop, and your queues and research end.",
+      "text": "Once you are eliminated, everything you own stays where it is, but nobody controls it any more: your ships stop, and your queues and research end.",
       "type": "text"
     },
     {
-      "text": "Power Plants burn minerals, not energy, so they are not on the list.",
+      "text": "Power Plants burn minerals rather than energy, so they aren't on this list.",
       "type": "text"
     },
     {
-      "text": "Every consumer pays from the energy stockpile each moment.",
+      "text": "Every consumer pays from the energy stockpile, moment by moment.",
       "type": "text"
     },
     {
-      "text": "When there is not enough for all, buildings on worlds are paid first, then ships and constructs, the cheapest first within each; what can't be paid goes offline, so the dearest ships and constructs go first.",
+      "text": "When there isn't enough for everyone, buildings on worlds are paid first, then ships and constructs, cheapest first within each; whatever can't be paid goes offline, so the dearest ships and constructs go dark first.",
       "type": "text"
     },
     {
-      "text": "Shut down, a thing pays no energy and does nothing.",
+      "text": "Shut down, a unit pays no energy and does nothing.",
       "type": "text"
     },
     {
-      "text": "Ships sit adrift, then pick up their orders again on restart; a carrier's drones keep fighting but its rearm timer pauses.",
+      "text": "Ships drift, then pick up their orders again on restart; a carrier's drones keep fighting, but its rearm timer pauses.",
       "type": "text"
     },
     {
-      "text": "Constructs can't fire or build. Shields stay but don't regenerate.",
+      "text": "Constructs can't fire or build, and their shields hold but don't regenerate. A Defense Battery's gun falls silent.",
       "type": "text"
     },
     {
-      "text": "A Defense Battery's gun stops.",
+      "text": "Recovery: buildings on worlds, Mines included, are the last to lose power, and cheap ships such as harvesters hold on longest among ships and constructs, so keep them bringing in minerals.",
       "type": "text"
     },
     {
-      "text": "Recovery: buildings on worlds, Mines included, are the last to lose power, and cheap ships such as harvesters hold on longest among ships and constructs, so keep them bringing in minerals - Power Plants restart as soon as there are minerals to burn, energy builds up, and things restart. Pausing mining or demolishing buildings cuts the drain.",
+      "text": "Power Plants restart as soon as there are minerals to burn, energy builds back up, and everything else follows.",
+      "type": "text"
+    },
+    {
+      "text": "Pausing mining or demolishing buildings cuts the drain.",
       "type": "text"
     }
   ],

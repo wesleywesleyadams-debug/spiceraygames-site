@@ -14,7 +14,7 @@
       "type": "image"
     },
     {
-      "text": "Every unit raises one empire-wide upkeep factor (on the resource bar); these are free.",
+      "text": "Every unit you own raises one empire-wide upkeep factor, shown on the resource bar. The ones marked free don't.",
       "type": "text"
     }
   ],

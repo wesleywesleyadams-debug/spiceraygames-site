@@ -14,7 +14,7 @@
       "type": "image"
     },
     {
-      "text": "A variant costs its generalist's price plus a fee per gun (Combat > Weapon Mods); its chevrons and shots share its color.",
+      "text": "A variant costs its generalist's price plus a fee per gun (see Combat > Weapon Mods), and its chevrons and shots wear its color.",
       "type": "text"
     },
     {
@@ -23,37 +23,37 @@
     },
     {
       "src": "art_02_use_generalist.png",
-      "text": "No weak matchup: the safe pick when you don't know the enemy. Against starbases any variant does better; Disruptor is best.",
+      "text": "No weak matchup: the safe pick when you don't yet know the enemy. Against starbases any variant does better, and a Disruptor does best.",
       "title": "Generalist",
       "type": "card"
     },
     {
       "src": "art_03_use_pulsar.png",
-      "text": "Cruiser- and carrier-heavy fleets of uncertain mix: never far worse than a generalist against any warship.",
+      "text": "Fleets heavy on cruisers and carriers when you can't be sure of the mix: it is never far worse than a generalist against any warship.",
       "title": "Pulsar",
       "type": "card"
     },
     {
       "src": "art_04_use_breacher.png",
-      "text": "Destroyers: the best pick against them by the layer math.",
+      "text": "Destroyers: by the layer math, nothing beats it against them.",
       "title": "Breacher",
       "type": "card"
     },
     {
       "src": "art_05_use_reaver.png",
-      "text": "Corvette swarms, and bombarding worlds (it hits population hardest).",
+      "text": "Corvette swarms, and bombarding worlds: it hits population hardest.",
       "title": "Ravager",
       "type": "card"
     },
     {
       "src": "art_06_use_disruptor.png",
-      "text": "Carriers and starbases: the best pick against them. Weak against corvettes, which need more damage than a generalist.",
+      "text": "Carriers and starbases: the best pick against both. Weak against corvettes, where it needs more damage than a generalist.",
       "title": "Disruptor",
       "type": "card"
     },
     {
       "src": "art_07_use_inhibitor.png",
-      "text": "Cruisers and carriers (best against cruisers). No gain against corvettes or destroyers.",
+      "text": "Cruisers and carriers, cruisers above all. No gain against corvettes or destroyers.",
       "title": "Inhibitor",
       "type": "card"
     },
@@ -75,11 +75,11 @@
       "type": "heading"
     },
     {
-      "text": "Layer math, not battle results; Combat > Matchups has measured duels.",
+      "text": "How much base damage it takes to destroy each target, and lower kills faster. This is layer math, not battle results; Combat > Matchups has the measured duels.",
       "type": "text"
     },
     {
-      "text": "A variant is chosen when a Shipyard builds the ship (Variants research) and stacks with its mark (Ships > Marks).",
+      "text": "A ship's variant is chosen at the Shipyard (Variants research), and it stacks with the ship's mark (Ships > Marks).",
       "type": "text"
     }
   ],

@@ -34,7 +34,7 @@
       "type": "text"
     },
     {
-      "text": "Each lower tier only needs the one above it in its stack. Nothing is locked by column.",
+      "text": "Each tier below needs only the one above it in its stack; nothing is locked by column.",
       "type": "text"
     },
     {
@@ -42,19 +42,15 @@
       "type": "text"
     },
     {
-      "text": "The columns differ only in cost against power.",
+      "text": "The columns trade cost against power. Basic techs give the most value for the price and often pay for themselves (the Harvest line).",
       "type": "text"
     },
     {
-      "text": "Basic techs give the most value for the price and often pay for themselves (the Harvest line).",
+      "text": "Experimental techs give the least value for the price, but the most powerful effects. Advanced sits in between.",
       "type": "text"
     },
     {
-      "text": "Experimental techs give the least value for the price but have the most powerful effects. Advanced sits in between.",
-      "type": "text"
-    },
-    {
-      "text": "Mods keep their own rules: see its page.",
+      "text": "Mods follow their own rules: see the Mods page.",
       "type": "text"
     },
     {

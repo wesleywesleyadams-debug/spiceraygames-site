@@ -18,7 +18,7 @@
       "type": "image"
     },
     {
-      "text": "A new mark upgrades every ship of that class at once, the ones already built included; class and variant never change once a ship is built.",
+      "text": "A new mark upgrades every ship of that class at once, including those already built; class and variant never change once a ship is built.",
       "type": "text"
     }
   ],

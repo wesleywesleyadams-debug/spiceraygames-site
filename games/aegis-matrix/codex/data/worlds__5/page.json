@@ -14,7 +14,7 @@
       "type": "image"
     },
     {
-      "text": "Food is counted per minute; output scales with fertility. Past this, a world needs another Farm.",
+      "text": "Food is counted per minute, and a Farm's output scales with the world's fertility. Past this many pops, a world needs another Farm.",
       "type": "text"
     },
     {

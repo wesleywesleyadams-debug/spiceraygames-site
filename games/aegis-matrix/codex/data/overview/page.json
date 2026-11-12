@@ -7,19 +7,19 @@
     },
     {
       "src": "art_02_f_layers.png",
-      "text": "Every hit burns through shields, then armor, then hull, and each weapon is better against a different one.",
+      "text": "Every hit tears through shields, then armor, then hull, and every weapon has a layer it was built to break.",
       "title": "Break through, layer by layer",
       "type": "card"
     },
     {
       "src": "art_03_f_variants.png",
-      "text": "A Shipyard builds warships as specialists that each hunt one kind of target.",
+      "text": "Shipyards turn out specialists, each one tuned to hunt a different kind of prey.",
       "title": "specialist variants",
       "type": "card"
     },
     {
       "src": "art_04_f_mods.png",
-      "text": "Drones, tractor beams, missile salvos, flak, rail guns: each class can fight its own way.",
+      "text": "Drones, tractor beams, missile salvos, flak, rail guns: arm every fleet to fight its own way.",
       "title": "weapon Mods",
       "type": "card"
     },
@@ -31,13 +31,13 @@
     },
     {
       "src": "art_06_f_worlds.png",
-      "text": "Grow your pops, dig your worlds' crusts dry, and watch a drained gas giant blow.",
+      "text": "Grow your people, mine your worlds to the core, and watch a drained gas giant blow.",
       "title": "Worlds worth fighting for",
       "type": "card"
     },
     {
       "src": "art_07_f_ai.png",
-      "text": "AI or NAI, it plays your rules and sees only what its sensors see.",
+      "text": "AI or NAI, it plays by your rules and sees only what its own sensors see.",
       "title": "An opponent that never cheats",
       "type": "card"
     },
@@ -51,11 +51,7 @@
       "type": "image"
     },
     {
-      "text": "Mine, haul, build, attack, take worlds. Your worlds feed and power it all.",
-      "type": "text"
-    },
-    {
-      "text": "Research what your strategy needs, and strike before the enemy outgrows you.",
+      "text": "Mine, haul, build, attack, take worlds: your worlds feed and power it all. Research what your strategy needs, and strike before the enemy outgrows you.",
       "type": "text"
     },
     {
@@ -68,7 +64,7 @@
       "type": "image"
     },
     {
-      "text": "Ships inside a spice nebula stay hidden unless an enemy is close; a seen enemy starbase stays on your map.",
+      "text": "Ships inside a spice nebula stay hidden unless an enemy comes close, and an enemy starbase stays on your map once you have seen it.",
       "type": "text"
     },
     {
@@ -80,7 +76,11 @@
       "type": "heading"
     },
     {
-      "text": "Nothing refills. Rocks, gas giants, worlds' crusts and spice nebulae all run out, so a long match becomes a fight over what is left.",
+      "text": "Nothing refills. Rocks, gas giants, world crusts and spice nebulae all run dry, so a long match becomes a fight over what is left.",
+      "type": "text"
+    },
+    {
+      "text": "Gas giants and mined-out worlds glow when nearly empty.",
       "type": "text"
     },
     {
@@ -93,7 +93,7 @@
       "type": "image"
     },
     {
-      "text": "Destroy every enemy starbase and Constructor, or starve them into a Terminal Blackout. Losing every world does not end the game.",
+      "text": "Destroy every enemy starbase and Constructor, or starve the enemy into a Terminal Blackout. Losing your worlds alone does not end the game.",
       "type": "text"
     }
   ],

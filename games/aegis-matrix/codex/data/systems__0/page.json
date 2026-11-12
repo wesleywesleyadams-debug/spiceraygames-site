@@ -9,7 +9,11 @@
       "type": "text"
     },
     {
-      "text": "All but the Silent Void have spice nebulae (spice for Gas Skimmers, low Radiation inside). Star, feature and gas placement shape each match.",
+      "text": "All but the Silent Void have spice nebulae: spice for Gas Skimmers, with low Radiation inside.",
+      "type": "text"
+    },
+    {
+      "text": "Its star, signature feature and gas shape how each match plays.",
       "type": "text"
     }
   ],

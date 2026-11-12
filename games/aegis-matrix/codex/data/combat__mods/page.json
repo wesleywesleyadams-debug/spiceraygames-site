@@ -9,11 +9,11 @@
       "type": "text"
     },
     {
-      "text": "A Mod changes what a warship fires. Research it once, then pick it when a Shipyard builds a warship.",
+      "text": "A Mod changes what a warship fires. Research it once, then pick it whenever a Shipyard builds a warship.",
       "type": "text"
     },
     {
-      "text": "Nothing is fitted after a ship is built, and Starbases, Outposts and Defense Batteries take no Mods.",
+      "text": "Nothing can be fitted after a ship is built, and Starbases, Outposts and Defense Batteries take no Mods.",
       "type": "text"
     },
     {
@@ -91,7 +91,7 @@
     },
     {
       "src": "mod_12_mod_seeker_needles.png",
-      "text": "Seeker drones orbit the cruiser, then pierce through enemy after enemy.",
+      "text": "Strung-out lines of ships, pierced one after another.",
       "title": "Seeker Drones",
       "type": "card"
     },

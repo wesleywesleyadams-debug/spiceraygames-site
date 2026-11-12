@@ -14,11 +14,11 @@
       "type": "image"
     },
     {
-      "text": "It takes shields, then armor, then hull - and counts as a hit, so shields stay down inside it.",
+      "text": "It eats shields, then armor, then hull, and counts as a hit, so shields stay down while you are inside.",
       "type": "text"
     },
     {
-      "text": "A star's radiation fills its zone (each star's size: Systems > The star): strongest at the surface, falling steeply toward the edge.",
+      "text": "A star's radiation fills its zone (zone sizes: Systems > The star): strongest at the surface, falling steeply toward the edge.",
       "type": "text"
     }
   ],
