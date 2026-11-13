@@ -51,6 +51,10 @@ a.gamecard .more{display:inline-block;margin-top:12px;color:var(--accent)}
 .fleet{display:flex;justify-content:center;align-items:center;gap:32px;flex-wrap:wrap;margin:32px 0 0}
 .fleet img:nth-child(1){width:104px}.fleet img:nth-child(2){width:296px}.fleet img:nth-child(3){width:476px}
 
+/* Privacy page */
+.privacy h1{color:var(--warm);font-size:1.4rem;letter-spacing:.08em}
+.privacy code{color:var(--warm)}
+
 footer{border-top:2px solid var(--line);padding:24px 16px;text-align:center;color:var(--dim);font-size:.8rem}
 footer p{margin:4px 0}
 

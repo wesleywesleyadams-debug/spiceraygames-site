@@ -3,6 +3,8 @@
 Run: python tools/build_pages.py   (from the repo root)
 The Codex page (games/aegis-matrix/codex/index.html) is hand-written and not built here.
 """
+import html as _html
+import re
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
@@ -19,7 +21,7 @@ def head(title, desc):
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>{title}</title>
 <meta name="description" content="{desc}">
-<link rel="stylesheet" href="/assets/site.css?v=3">
+<link rel="stylesheet" href="/assets/site.css?v=4">
 </head>
 <body>
 """
@@ -50,6 +52,7 @@ def game_tabs(active):
 FOOTER = f"""<footer>
   <p>Contact: <a href="mailto:hello@spiceraygames.com">hello@spiceraygames.com</a></p>
   <p>&copy; 2026 {OWNER}. All rights reserved.</p>
+  <p><a href="/privacy/">Privacy policy</a></p>
   <p>Font: JetBrains Mono (<a href="/assets/JetBrainsMono-OFL.txt">SIL OFL 1.1</a>).</p>
 </footer>
 </body>
@@ -143,6 +146,40 @@ PAGES = {
 </head><body><p>The Codex has moved: <a href="/games/aegis-matrix/codex/">Aegis Matrix Codex</a>.</p></body></html>
 """,
 }
+
+
+def privacy_html():
+    """Renders tools/PRIVACY.md (Legal's text, unedited) from its first heading down."""
+    md = (ROOT / "tools" / "PRIVACY.md").read_text(encoding="utf-8")
+    md = md[md.index("# Aegis Matrix"):]
+    def inline(t):
+        t = _html.escape(t, quote=False)
+        t = re.sub(r"\*\*(.+?)\*\*", r"<strong>\1</strong>", t)
+        t = re.sub(r"`(.+?)`", r"<code>\1</code>", t)
+        t = re.sub(r"(https://[^\s<]+[^\s<.,;)])", r'<a href="\1">\1</a>', t)
+        return re.sub(r"([\w.]+@spiceraygames\.com)", r'<a href="mailto:\1">\1</a>', t)
+    out, para, items = [], [], []
+    def flush():
+        if para: out.append("<p>" + inline(" ".join(para)) + "</p>"); para.clear()
+        if items: out.append("<ul>" + "".join(f"<li>{inline(i)}</li>" for i in items) + "</ul>"); items.clear()
+    for line in md.splitlines():
+        if line.startswith("# "): flush(); out.append(f"<h1>{inline(line[2:])}</h1>")
+        elif line.startswith("## "): flush(); out.append(f"<h2>{inline(line[3:])}</h2>")
+        elif line.startswith("- "): para and flush(); items.append(line[2:])
+        elif not line.strip(): flush()
+        elif items: items[-1] += " " + line.strip()
+        else: para.append(line.strip())
+    flush()
+    return "\n".join(out)
+
+
+PAGES["privacy/index.html"] = head("Privacy Policy – Spiceray Games", "Privacy policy for Aegis Matrix and spiceraygames.com.") + header() + """
+<main class="wrap privacy">
+<section>
+""" + privacy_html() + """
+</section>
+</main>
+""" + FOOTER
 
 if __name__ == "__main__":
     for rel, html in PAGES.items():
